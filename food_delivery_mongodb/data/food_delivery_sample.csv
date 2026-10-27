@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,restaurant_id,restaurant_name,city,food_category,item_name,quantity,item_price,discount,delivery_fee,total_amount,payment_method,order_status,delivery_time_minutes,customer_rating
+ORD000001,2024-06-09 14:35:33,CUST0109,REST011,The Grill Station,Delhi,BBQ,BBQ Ribs,3,207.34,0,0,622.02,Credit Card,Completed,84,
+ORD000002,2024-07-10 03:34:22,CUST0072,REST002,Pizza Planet,Hyderabad,Pizza,Pepperoni Pizza,5,393.05,78.61,20,1906.64,Credit Card,Completed,84,3.6
+ORD000003,2023-03-14 00:54:28,CUST0012,REST012,Noodle Bar,Kolkata,Asian,Tom Yum Soup,3,160.85,0,0,482.55,Net Banking,Processing,60,4.0
+ORD000004,2024-03-24 10:37:26,CUST0059,REST009,Kebab Corner,Delhi,Middle Eastern,Lamb Kebab,1,367.06,73.41,30,323.65,UPI,Completed,23,
+ORD000005,2023-10-15 12:40:24,CUST0019,REST014,Sea Breeze,Hyderabad,Seafood,Grilled Fish,4,224.55,0,20,918.2,Wallet,Completed,49,4.2
+ORD000006,2024-06-15 18:08:04,CUST0081,REST009,Kebab Corner,Hyderabad,Middle Eastern,Falafel Wrap,4,277.32,55.46,20,1073.82,Cash,Delivered,22,2.6
+ORD000007,2023-04-21 23:19:10,CUST0192,REST002,Pizza Planet,Hyderabad,Pizza,BBQ Chicken Pizza,2,420.83,42.08,40,839.58,Wallet,Pending,46,3.8
+ORD000008,2024-01-19 07:48:07,CUST0029,REST015,Mumbai Masala,Kolkata,Indian,Biryani,2,598.61,0,50,1247.22,Debit Card,Completed,,
+ORD000009,2023-07-15 06:41:55,CUST0138,REST013,Veggie Delight,Kolkata,Vegetarian,Veggie Wrap,4,278.44,27.84,50,1135.92,UPI,Cancelled,16,2.8
+ORD000010,2024-08-14 20:00:17,CUST0164,REST002,Pizza Planet,Chennai,Pizza,Veggie Supreme,2,315.94,0,50,681.88,Wallet,Delivered,28,3.2
+ORD000011,2024-04-10 05:08:10,CUST0093,REST003,Burger Barn,Pune,Burgers,Cheese Burger,5,575.82,115.16,0,2763.94,UPI,Delivered,17,
+ORD000012,2024-08-13 18:39:07,CUST0122,REST001,Spice Garden,Hyderabad,Indian,Naan,1,124.54,12.45,0,112.09,Wallet,Completed,31,
+ORD000013,2023-11-06 21:45:19,CUST0031,REST005,Taco Town,Kolkata,Mexican,Chicken Burrito,5,472.74,0,30,2393.7,Debit Card,Delivered,62,3.8
+ORD000014,2023-01-06 14:02:49,CUST0009,REST002,Pizza Planet,Pune,Pizza,Margherita Pizza,5,368.04,73.61,20,1786.59,UPI,Completed,,3.1
+ORD000015,2024-03-23 13:21:49,CUST0025,REST009,Kebab Corner,Hyderabad,Middle Eastern,Hummus Platter,4,191.4,0,50,815.6,Net Banking,Pending,75,3.0
+ORD000016,2023-02-17 01:54:07,CUST0050,REST006,The Pasta House,Kolkata,Italian,Risotto,4,529.2,0,0,2116.8,Debit Card,Processing,58,2.8
+ORD000017,2024-09-19 14:37:34,CUST0167,REST003,Burger Barn,Kolkata,Burgers,Cheese Burger,3,320.57,0,40,1001.71,Wallet,Completed,85,
+ORD000018,2024-12-01 22:45:15,CUST0068,REST002,Pizza Planet,Hyderabad,Pizza,Pepperoni Pizza,4,332.53,0,40,1370.12,Cash,Delivered,,5.0
+ORD000019,2024-07-25 11:08:06,CUST0150,REST007,Green Bowl,Ahmedabad,Healthy,Avocado Toast,2,234.29,0,50,518.58,Cash,Completed,55,
+ORD000020,2023-04-04 02:50:54,CUST0159,REST001,Spice Garden,Delhi,Indian,Paneer Tikka,1,389.42,0,40,429.42,Credit Card,Pending,87,4.0
+ORD000021,2023-07-26 07:24:48,CUST0019,REST011,The Grill Station,Pune,BBQ,Pulled Pork Sandwich,2,428.26,0,20,876.52,Credit Card,Processing,53,4.8
+ORD000022,2024-12-25 21:12:56,CUST0041,REST010,Sweet Tooth,Delhi,Desserts,Chocolate Cake,5,190.84,0,20,974.2,Cash,Delivered,23,3.4
+ORD000023,2023-03-31 15:44:46,CUST0073,REST010,Sweet Tooth,Mumbai,Desserts,Brownie,1,568.24,0,30,598.24,Wallet,Delivered,85,
+ORD000024,2023-03-13 16:34:05,CUST0086,REST012,Noodle Bar,Pune,Asian,Pho,3,342.81,0,0,1028.43,Debit Card,Delivered,50,
+ORD000025,2024-02-28 18:32:24,CUST0111,REST003,Burger Barn,Ahmedabad,Burgers,Vegan Burger,5,85.03,0,20,445.15,Debit Card,Completed,,3.9
+ORD000026,2023-10-02 17:02:51,CUST0061,REST005,Taco Town,Pune,Mexican,Beef Taco,3,189.24,0,0,567.72,Debit Card,Completed,67,4.4
+ORD000027,2024-09-15 02:44:48,CUST0028,REST015,Mumbai Masala,Kolkata,Indian,Butter Chicken,2,463.01,0,40,966.02,Cash,Completed,46,4.5
+ORD000028,2023-08-26 01:10:12,CUST0103,REST014,Sea Breeze,Ahmedabad,Seafood,Prawn Curry,2,504.63,50.46,30,988.8,UPI,Delivered,44,4.2
+ORD000029,2023-09-15 05:04:51,CUST0149,REST014,Sea Breeze,Delhi,Seafood,Fish and Chips,3,413.57,41.36,50,1249.35,UPI,Completed,29,3.2
+ORD000030,2023-10-27 04:33:47,CUST0001,REST002,Pizza Planet,Kolkata,Pizza,BBQ Chicken Pizza,3,306.92,61.38,0,859.38,Wallet,Delivered,39,4.3
+ORD000031,2024-01-29 21:26:55,CUST0142,REST006,The Pasta House,Kolkata,Italian,Spaghetti Carbonara,3,404.04,0,30,1242.12,Debit Card,Delivered,67,4.2
+ORD000032,2024-10-09 13:45:49,CUST0149,REST007,Green Bowl,Kolkata,Healthy,Avocado Toast,5,375.93,37.59,50,1892.06,Wallet,Cancelled,,3.6
+ORD000033,2023-08-09 10:09:43,CUST0193,REST008,Dragon Wok,Ahmedabad,Chinese,Kung Pao Chicken,2,345.81,0,0,691.62,Debit Card,Delivered,57,
+ORD000034,2024-10-22 00:15:31,CUST0050,REST004,Sushi World,Hyderabad,Japanese,Salmon Sashimi,1,104.03,10.4,50,143.63,Net Banking,Pending,73,4.1
+ORD000035,2024-08-27 14:48:29,CUST0119,REST008,Dragon Wok,Kolkata,Chinese,Dim Sum,2,421.15,0,0,842.3,Credit Card,Delivered,37,4.2
+ORD000036,2024-04-07 12:02:08,CUST0130,REST015,Mumbai Masala,Delhi,Indian,Dal Makhani,2,496.74,99.35,50,944.13,Cash,Processing,71,4.3
+ORD000037,2024-08-17 19:48:06,CUST0020,REST015,Mumbai Masala,Bangalore,Indian,Dal Makhani,4,214.78,0,30,889.12,Net Banking,Delivered,77,3.2
+ORD000038,2023-04-28 03:41:14,CUST0105,REST004,Sushi World,Chennai,Japanese,Ramen,3,544.37,0,20,1653.11,UPI,Processing,34,2.7
+ORD000039,2024-10-27 10:38:33,CUST0091,REST007,Green Bowl,Mumbai,Healthy,Avocado Toast,4,282.53,56.51,0,1073.61,UPI,Pending,88,2.5
+ORD000040,2023-01-23 13:03:42,CUST0033,REST014,Sea Breeze,Kolkata,Seafood,Prawn Curry,4,194.1,19.41,40,796.99,Wallet,Completed,66,4.6
+ORD000041,2023-04-16 09:37:18,CUST0098,REST015,Mumbai Masala,Kolkata,Indian,Naan,5,424.76,0,40,2163.8,UPI,Delivered,38,
+ORD000042,2024-10-10 11:52:03,CUST0139,REST008,Dragon Wok,Pune,Chinese,Spring Rolls,4,224.69,22.47,30,906.29,Credit Card,Cancelled,,
+ORD000043,2024-04-27 14:32:10,CUST0056,REST004,Sushi World,Delhi,Japanese,California Roll,1,573.8,0,0,573.8,Cash,Delivered,31,2.8
+ORD000044,2023-08-30 14:11:08,CUST0080,REST013,Veggie Delight,Pune,Vegetarian,Stuffed Peppers,5,395.77,0,20,1998.85,Wallet,Pending,,
+ORD000045,2024-06-25 12:37:10,CUST0011,REST007,Green Bowl,Hyderabad,Healthy,Quinoa Bowl,5,439.12,0,0,2195.6,UPI,Pending,30,3.9
+ORD000046,2024-09-30 17:21:33,CUST0118,REST011,The Grill Station,Pune,BBQ,BBQ Ribs,5,416.72,0,40,2123.6,Net Banking,Completed,70,4.1
+ORD000047,2023-12-28 01:52:30,CUST0023,REST007,Green Bowl,Bangalore,Healthy,Smoothie Bowl,5,500.26,100.05,40,2441.25,UPI,Processing,90,4.6
+ORD000048,2024-01-14 16:35:22,CUST0180,REST004,Sushi World,Ahmedabad,Japanese,Tempura,3,94.92,0,20,304.76,UPI,Completed,48,4.7
+ORD000049,2024-08-11 21:12:48,CUST0005,REST009,Kebab Corner,Hyderabad,Middle Eastern,Shawarma,2,454.44,45.44,50,913.44,Credit Card,Delivered,75,3.7
+ORD000050,2024-03-05 21:29:01,CUST0091,REST004,Sushi World,Kolkata,Japanese,Salmon Sashimi,3,425.26,0,40,1315.78,Net Banking,Processing,69,3.9
+ORD000051,2023-04-03 20:39:42,CUST0190,REST005,Taco Town,Chennai,Mexican,Nachos,2,142.74,0,30,315.48,Cash,Delivered,38,
+ORD000052,2023-08-23 18:40:34,CUST0014,REST012,Noodle Bar,Chennai,Asian,Pad Thai,2,234.05,0,20,488.1,Wallet,Delivered,,3.2
+ORD000053,2023-12-31 14:11:35,CUST0014,REST012,Noodle Bar,Bangalore,Asian,Dumplings,1,533.81,106.76,30,457.05,UPI,Processing,58,
+ORD000054,2023-04-26 21:14:40,CUST0064,REST002,Pizza Planet,Delhi,Pizza,Veggie Supreme,4,118.52,0,20,494.08,Credit Card,Pending,53,
+ORD000055,2023-11-30 01:58:03,CUST0196,REST010,Sweet Tooth,Hyderabad,Desserts,Cheesecake,4,552.42,0,50,2259.68,Debit Card,Delivered,22,4.4
+ORD000056,2023-01-03 01:52:44,CUST0181,REST005,Taco Town,Delhi,Mexican,Chicken Burrito,2,170.38,0,20,360.76,UPI,Processing,75,3.1
+ORD000057,2023-03-31 03:35:07,CUST0019,REST002,Pizza Planet,Hyderabad,Pizza,BBQ Chicken Pizza,5,423.82,0,40,2159.1,Credit Card,Completed,34,4.6
+ORD000058,2023-07-31 11:02:12,CUST0111,REST013,Veggie Delight,Chennai,Vegetarian,Tofu Stir-Fry,4,144.66,0,40,618.64,Net Banking,Cancelled,78,4.0
+ORD000059,2023-01-17 02:43:23,CUST0045,REST010,Sweet Tooth,Chennai,Desserts,Chocolate Cake,1,199.04,39.81,50,209.23,Cash,Processing,49,4.4
+ORD000060,2024-01-01 01:37:43,CUST0042,REST015,Mumbai Masala,Chennai,Indian,Paneer Tikka,5,306.66,30.67,0,1502.63,UPI,Pending,57,2.8
+ORD000061,2023-12-20 06:34:10,CUST0198,REST012,Noodle Bar,Ahmedabad,Asian,Tom Yum Soup,4,503.05,100.61,0,1911.59,Cash,Completed,,2.8
+ORD000062,2024-08-10 13:07:20,CUST0141,REST011,The Grill Station,Ahmedabad,BBQ,Corn on the Cob,1,177.54,0,50,227.54,Debit Card,Delivered,71,3.0
+ORD000063,2024-07-05 07:18:39,CUST0105,REST008,Dragon Wok,Ahmedabad,Chinese,Fried Rice,1,586.04,117.21,20,488.83,Credit Card,Delivered,85,
+ORD000064,2024-12-25 09:54:47,CUST0124,REST014,Sea Breeze,Delhi,Seafood,Crab Cake,1,416.81,0,40,456.81,Cash,Delivered,80,3.5
+ORD000065,2024-11-02 02:37:46,CUST0088,REST008,Dragon Wok,Bangalore,Chinese,Kung Pao Chicken,2,559.37,111.87,20,1026.87,Wallet,Delivered,,4.6
+ORD000066,2024-11-03 01:37:35,CUST0142,REST014,Sea Breeze,Mumbai,Seafood,Fish and Chips,3,515.49,103.1,40,1483.37,Wallet,Pending,,3.4
+ORD000067,2023-02-03 21:38:40,CUST0099,REST008,Dragon Wok,Pune,Chinese,Dim Sum,2,377.33,0,40,794.66,Net Banking,Completed,75,4.5
+ORD000068,2024-11-10 00:05:22,CUST0185,REST008,Dragon Wok,Mumbai,Chinese,Dim Sum,5,581.98,0,0,2909.9,Debit Card,Pending,27,3.6
+ORD000069,2024-04-29 02:23:50,CUST0137,REST014,Sea Breeze,Bangalore,Seafood,Grilled Fish,4,486.39,0,30,1975.56,Cash,Cancelled,25,4.6
+ORD000070,2024-08-03 00:44:02,CUST0181,REST011,The Grill Station,Ahmedabad,BBQ,BBQ Ribs,5,115.58,0,20,597.9,Credit Card,Processing,,4.4
+ORD000071,2023-10-06 10:14:27,CUST0175,REST003,Burger Barn,Chennai,Burgers,Classic Burger,1,248.67,0,30,278.67,Debit Card,Completed,33,3.5
+ORD000072,2023-04-22 03:54:27,CUST0120,REST003,Burger Barn,Delhi,Burgers,Vegan Burger,5,435.23,43.52,50,2182.63,UPI,Completed,47,4.2
+ORD000073,2023-12-21 20:02:12,CUST0028,REST002,Pizza Planet,Ahmedabad,Pizza,BBQ Chicken Pizza,5,235.56,23.56,30,1184.24,Debit Card,Pending,40,4.6
+ORD000074,2023-01-07 06:57:25,CUST0074,REST010,Sweet Tooth,Pune,Desserts,Brownie,3,91.41,9.14,30,295.09,Debit Card,Cancelled,21,4.4
+ORD000075,2024-09-04 12:45:53,CUST0076,REST004,Sushi World,Hyderabad,Japanese,Ramen,2,406.69,0,30,843.38,UPI,Pending,89,2.8
+ORD000076,2024-01-25 18:07:56,CUST0124,REST003,Burger Barn,Hyderabad,Burgers,Cheese Burger,5,535.76,0,50,2728.8,UPI,Cancelled,36,4.6
+ORD000077,2024-10-18 21:49:11,CUST0102,REST013,Veggie Delight,Delhi,Vegetarian,Mushroom Burger,1,153.19,0,40,193.19,Credit Card,Delivered,61,
+ORD000078,2023-10-23 22:49:48,CUST0060,REST009,Kebab Corner,Delhi,Middle Eastern,Lamb Kebab,3,429.87,0,50,1339.61,Cash,Completed,62,
+ORD000079,2024-05-19 06:42:01,CUST0010,REST010,Sweet Tooth,Pune,Desserts,Ice Cream Sundae,1,410.41,41.04,30,399.37,UPI,Processing,32,
+ORD000080,2024-06-04 18:46:08,CUST0040,REST002,Pizza Planet,Delhi,Pizza,Pepperoni Pizza,5,150.55,15.06,30,767.69,Cash,Completed,84,4.4
+ORD000081,2023-12-11 09:15:35,CUST0176,REST014,Sea Breeze,Ahmedabad,Seafood,Crab Cake,3,97.01,0,20,311.03,UPI,Cancelled,45,2.7
+ORD000082,2024-05-29 18:54:17,CUST0086,REST001,Spice Garden,Kolkata,Indian,Biryani,2,583.47,58.35,0,1108.59,Debit Card,Completed,17,
+ORD000083,2023-09-13 04:47:38,CUST0034,REST013,Veggie Delight,Hyderabad,Vegetarian,Veggie Wrap,5,187.72,0,20,958.6,Wallet,Delivered,15,5.0
+ORD000084,2024-04-02 09:00:50,CUST0108,REST013,Veggie Delight,Bangalore,Vegetarian,Veggie Wrap,1,148.54,0,20,168.54,Wallet,Completed,37,2.8
+ORD000085,2023-03-26 16:54:50,CUST0169,REST012,Noodle Bar,Delhi,Asian,Dumplings,4,484.57,96.91,50,1891.37,Wallet,Delivered,43,2.6
+ORD000086,2024-01-16 19:16:25,CUST0021,REST008,Dragon Wok,Mumbai,Chinese,Fried Rice,4,520.6,52.06,0,2030.34,UPI,Completed,71,
+ORD000087,2023-10-23 20:34:21,CUST0111,REST002,Pizza Planet,Bangalore,Pizza,BBQ Chicken Pizza,5,409.2,81.84,30,1994.16,Credit Card,Completed,82,3.8
+ORD000088,2024-10-04 16:12:44,CUST0081,REST014,Sea Breeze,Hyderabad,Seafood,Crab Cake,4,541.81,54.18,30,2143.06,Net Banking,Delivered,68,3.3
+ORD000089,2023-12-02 10:45:42,CUST0143,REST006,The Pasta House,Bangalore,Italian,Risotto,1,127.44,0,0,127.44,Credit Card,Cancelled,,4.5
+ORD000090,2023-08-12 09:48:02,CUST0130,REST011,The Grill Station,Delhi,BBQ,Corn on the Cob,3,534.28,53.43,0,1549.41,Debit Card,Completed,60,
+ORD000091,2023-03-31 05:37:02,CUST0144,REST011,The Grill Station,Ahmedabad,BBQ,Grilled Chicken,1,262.06,52.41,30,239.65,Wallet,Completed,88,3.6
+ORD000092,2023-09-30 15:33:03,CUST0103,REST010,Sweet Tooth,Chennai,Desserts,Chocolate Cake,2,222.1,0,30,474.2,Credit Card,Completed,,3.9
+ORD000093,2023-09-22 18:45:42,CUST0146,REST012,Noodle Bar,Mumbai,Asian,Pad Thai,5,191.87,19.19,40,980.16,Wallet,Completed,54,4.4
+ORD000094,2023-07-31 08:21:52,CUST0070,REST015,Mumbai Masala,Mumbai,Indian,Paneer Tikka,2,472.31,0,0,944.62,Debit Card,Completed,69,3.6
+ORD000095,2024-02-14 06:45:49,CUST0015,REST006,The Pasta House,Kolkata,Italian,Spaghetti Carbonara,3,432.67,86.53,40,1251.48,Credit Card,Delivered,20,5.0
+ORD000096,2024-01-22 07:56:04,CUST0137,REST005,Taco Town,Hyderabad,Mexican,Chicken Burrito,3,230.51,0,0,691.53,Net Banking,Delivered,37,
+ORD000097,2023-01-15 13:22:03,CUST0147,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,4,528.12,0,40,2152.48,Cash,Pending,24,3.9
+ORD000098,2023-12-24 08:49:40,CUST0028,REST005,Taco Town,Delhi,Mexican,Quesadilla,1,582.42,0,50,632.42,Debit Card,Pending,61,
+ORD000099,2023-09-16 16:50:56,CUST0131,REST010,Sweet Tooth,Kolkata,Desserts,Chocolate Cake,4,532.67,0,20,2150.68,Debit Card,Cancelled,24,2.8
+ORD000100,2024-04-12 21:31:51,CUST0198,REST006,The Pasta House,Bangalore,Italian,Penne Arrabbiata,1,156.15,0,20,176.15,Net Banking,Processing,24,
+ORD000101,2023-12-10 11:21:20,CUST0019,REST008,Dragon Wok,Ahmedabad,Chinese,Spring Rolls,3,158.5,0,40,515.5,UPI,Processing,50,3.4
+ORD000102,2024-04-22 16:35:14,CUST0190,REST008,Dragon Wok,Mumbai,Chinese,Fried Rice,3,512.48,0,0,1537.44,Credit Card,Processing,64,3.9
+ORD000103,2023-12-16 22:21:34,CUST0183,REST015,Mumbai Masala,Hyderabad,Indian,Biryani,5,327.33,0,0,1636.65,Credit Card,Completed,,3.4
+ORD000104,2023-10-10 15:32:58,CUST0174,REST001,Spice Garden,Hyderabad,Indian,Dal Makhani,4,352.52,70.5,20,1359.58,Wallet,Completed,51,4.4
+ORD000105,2023-07-15 17:32:30,CUST0037,REST013,Veggie Delight,Pune,Vegetarian,Veggie Wrap,3,129.14,12.91,30,404.51,UPI,Delivered,34,4.0
+ORD000106,2024-03-10 03:03:45,CUST0190,REST011,The Grill Station,Kolkata,BBQ,Grilled Chicken,5,448.59,0,30,2272.95,Net Banking,Completed,57,4.2
+ORD000107,2023-09-23 10:21:09,CUST0036,REST011,The Grill Station,Kolkata,BBQ,Pulled Pork Sandwich,1,268.55,0,20,288.55,Debit Card,Completed,77,
+ORD000108,2024-04-08 21:28:50,CUST0178,REST005,Taco Town,Delhi,Mexican,Beef Taco,3,535.72,107.14,20,1520.02,Wallet,Completed,35,
+ORD000109,2024-04-19 06:19:25,CUST0121,REST012,Noodle Bar,Ahmedabad,Asian,Pad Thai,4,269.44,0,40,1117.76,Debit Card,Cancelled,72,3.1
+ORD000110,2023-11-22 04:24:12,CUST0065,REST011,The Grill Station,Ahmedabad,BBQ,Corn on the Cob,3,484.62,96.92,50,1406.94,Credit Card,Processing,40,2.8
+ORD000111,2024-08-15 17:31:43,CUST0112,REST014,Sea Breeze,Pune,Seafood,Grilled Fish,5,522.61,0,0,2613.05,Credit Card,Delivered,72,2.9
+ORD000112,2023-10-18 11:08:50,CUST0026,REST014,Sea Breeze,Ahmedabad,Seafood,Fish and Chips,1,295.75,29.58,50,316.17,Net Banking,Cancelled,25,2.6
+ORD000113,2024-08-12 09:49:27,CUST0005,REST013,Veggie Delight,Bangalore,Vegetarian,Stuffed Peppers,1,229.18,22.92,20,226.26,UPI,Delivered,72,4.8
+ORD000114,2023-04-05 15:25:04,CUST0118,REST014,Sea Breeze,Bangalore,Seafood,Crab Cake,1,483.61,0,30,513.61,Credit Card,Completed,,4.5
+ORD000115,2023-11-30 09:35:34,CUST0048,REST014,Sea Breeze,Ahmedabad,Seafood,Grilled Fish,5,379.02,0,30,1925.1,Net Banking,Completed,,3.9
+ORD000116,2023-01-16 19:03:32,CUST0100,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,5,362.92,72.58,50,1792.02,UPI,Delivered,75,
+ORD000117,2024-07-25 00:52:43,CUST0140,REST012,Noodle Bar,Mumbai,Asian,Tom Yum Soup,1,259.3,0,50,309.3,UPI,Completed,32,
+ORD000118,2023-01-29 17:25:40,CUST0081,REST014,Sea Breeze,Ahmedabad,Seafood,Crab Cake,2,501.98,0,40,1043.96,UPI,Pending,20,4.7
+ORD000119,2023-10-05 06:28:51,CUST0032,REST014,Sea Breeze,Ahmedabad,Seafood,Fish and Chips,1,471.71,0,30,501.71,UPI,Pending,21,3.3
+ORD000120,2024-06-21 13:05:30,CUST0109,REST015,Mumbai Masala,Kolkata,Indian,Dal Makhani,4,256.3,0,40,1065.2,Credit Card,Pending,81,2.7
+ORD000121,2023-08-27 01:29:48,CUST0114,REST010,Sweet Tooth,Bangalore,Desserts,Brownie,3,133.35,0,30,430.05,UPI,Processing,69,
+ORD000122,2024-06-05 07:46:28,CUST0041,REST001,Spice Garden,Pune,Indian,Naan,4,222.77,0,0,891.08,Credit Card,Completed,61,4.4
+ORD000123,2023-10-25 08:55:23,CUST0095,REST014,Sea Breeze,Ahmedabad,Seafood,Grilled Fish,2,114.96,0,30,259.92,UPI,Processing,19,4.2
+ORD000124,2023-07-13 21:05:54,CUST0100,REST013,Veggie Delight,Delhi,Vegetarian,Stuffed Peppers,5,270.81,0,30,1384.05,Wallet,Completed,18,3.7
+ORD000125,2023-06-05 11:35:41,CUST0183,REST005,Taco Town,Chennai,Mexican,Quesadilla,2,598.11,0,40,1236.22,Cash,Completed,,3.6
+ORD000126,2024-10-23 06:32:20,CUST0032,REST013,Veggie Delight,Pune,Vegetarian,Tofu Stir-Fry,1,366.0,0,30,396.0,Debit Card,Completed,37,3.8
+ORD000127,2024-09-16 05:20:25,CUST0080,REST004,Sushi World,Ahmedabad,Japanese,California Roll,3,368.09,0,40,1144.27,Cash,Processing,31,2.7
+ORD000128,2023-12-16 12:07:57,CUST0200,REST009,Kebab Corner,Kolkata,Middle Eastern,Lamb Kebab,5,118.35,0,0,591.75,Wallet,Completed,81,4.7
+ORD000129,2024-02-07 10:07:25,CUST0182,REST013,Veggie Delight,Bangalore,Vegetarian,Mushroom Burger,5,553.57,0,0,2767.85,Debit Card,Cancelled,36,
+ORD000130,2023-04-08 05:20:36,CUST0165,REST009,Kebab Corner,Chennai,Middle Eastern,Shawarma,3,182.08,36.42,30,539.82,Debit Card,Completed,83,
+ORD000131,2024-05-20 17:56:33,CUST0128,REST003,Burger Barn,Pune,Burgers,Classic Burger,1,122.24,24.45,30,127.79,Net Banking,Delivered,88,4.1
+ORD000132,2023-12-19 06:40:31,CUST0113,REST011,The Grill Station,Chennai,BBQ,Corn on the Cob,2,498.44,49.84,30,977.04,Cash,Processing,,
+ORD000133,2023-11-06 16:36:58,CUST0082,REST008,Dragon Wok,Hyderabad,Chinese,Spring Rolls,5,154.71,0,30,803.55,Debit Card,Processing,,3.9
+ORD000134,2023-10-26 09:04:18,CUST0041,REST002,Pizza Planet,Chennai,Pizza,Veggie Supreme,2,153.26,0,30,336.52,UPI,Cancelled,68,4.7
+ORD000135,2023-01-19 00:02:15,CUST0062,REST004,Sushi World,Bangalore,Japanese,Tempura,5,322.74,0,40,1653.7,Debit Card,Cancelled,,3.6
+ORD000136,2024-02-21 20:38:26,CUST0035,REST001,Spice Garden,Mumbai,Indian,Biryani,4,390.71,39.07,30,1553.77,UPI,Cancelled,,
+ORD000137,2023-06-01 04:38:16,CUST0130,REST013,Veggie Delight,Kolkata,Vegetarian,Tofu Stir-Fry,1,288.3,57.66,50,280.64,Cash,Delivered,51,
+ORD000138,2024-12-30 07:16:11,CUST0131,REST014,Sea Breeze,Delhi,Seafood,Prawn Curry,1,284.83,0,50,334.83,Cash,Completed,33,
+ORD000139,2023-04-26 16:27:18,CUST0157,REST001,Spice Garden,Mumbai,Indian,Paneer Tikka,3,498.06,99.61,40,1434.57,UPI,Completed,80,
+ORD000140,2024-07-04 11:52:03,CUST0173,REST007,Green Bowl,Chennai,Healthy,Smoothie Bowl,5,510.71,102.14,40,2491.41,Credit Card,Pending,75,3.4
+ORD000141,2023-06-26 17:42:47,CUST0185,REST010,Sweet Tooth,Chennai,Desserts,Chocolate Cake,5,326.79,65.36,50,1618.59,Wallet,Pending,89,3.8
+ORD000142,2023-01-15 17:01:05,CUST0177,REST003,Burger Barn,Hyderabad,Burgers,Classic Burger,5,573.07,0,20,2885.35,Debit Card,Pending,68,
+ORD000143,2024-05-29 08:48:08,CUST0137,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Shawarma,2,349.72,69.94,30,659.5,UPI,Cancelled,63,2.9
+ORD000144,2023-08-20 20:25:39,CUST0177,REST011,The Grill Station,Chennai,BBQ,Corn on the Cob,2,577.82,0,50,1205.64,Net Banking,Processing,53,4.3
+ORD000145,2023-04-05 15:53:52,CUST0089,REST006,The Pasta House,Ahmedabad,Italian,Lasagna,5,565.52,0,30,2857.6,Debit Card,Delivered,84,5.0
+ORD000146,2023-06-16 05:00:11,CUST0070,REST001,Spice Garden,Chennai,Indian,Butter Chicken,3,560.49,0,40,1721.47,Debit Card,Completed,83,3.9
+ORD000147,2024-05-10 12:08:55,CUST0026,REST010,Sweet Tooth,Hyderabad,Desserts,Ice Cream Sundae,1,428.31,85.66,20,362.65,Net Banking,Completed,27,4.3
+ORD000148,2023-09-07 10:59:59,CUST0147,REST001,Spice Garden,Bangalore,Indian,Dal Makhani,4,328.27,0,30,1343.08,Debit Card,Completed,22,2.7
+ORD000149,2024-09-04 00:39:02,CUST0146,REST015,Mumbai Masala,Bangalore,Indian,Dal Makhani,2,565.64,0,40,1171.28,Wallet,Completed,52,2.5
+ORD000150,2024-01-19 15:11:41,CUST0050,REST015,Mumbai Masala,Pune,Indian,Biryani,4,594.33,118.87,50,2308.45,Credit Card,Cancelled,32,3.7
+ORD000151,2024-03-17 00:12:32,CUST0164,REST003,Burger Barn,Ahmedabad,Burgers,Chicken Burger,2,87.32,0,30,204.64,Cash,Pending,39,
+ORD000152,2024-01-06 20:23:22,CUST0099,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,4,428.01,0,20,1732.04,Debit Card,Processing,46,
+ORD000153,2023-07-23 03:42:14,CUST0031,REST013,Veggie Delight,Chennai,Vegetarian,Tofu Stir-Fry,3,382.88,76.58,0,1072.06,Cash,Delivered,45,
+ORD000154,2024-04-22 09:26:55,CUST0156,REST003,Burger Barn,Kolkata,Burgers,Chicken Burger,1,412.13,0,30,442.13,UPI,Pending,32,3.6
+ORD000155,2024-02-13 04:09:14,CUST0145,REST012,Noodle Bar,Ahmedabad,Asian,Pho,2,433.78,86.76,0,780.8,Credit Card,Completed,61,
+ORD000156,2023-04-01 06:52:15,CUST0115,REST014,Sea Breeze,Hyderabad,Seafood,Prawn Curry,2,250.62,50.12,40,491.12,Credit Card,Processing,89,4.7
+ORD000157,2024-07-15 18:55:04,CUST0056,REST003,Burger Barn,Kolkata,Burgers,Vegan Burger,5,110.02,11.0,30,569.1,Wallet,Completed,,2.5
+ORD000158,2024-12-26 06:50:17,CUST0197,REST001,Spice Garden,Kolkata,Indian,Biryani,1,361.41,0,0,361.41,Net Banking,Pending,51,4.4
+ORD000159,2024-05-22 14:45:30,CUST0138,REST006,The Pasta House,Kolkata,Italian,Risotto,4,275.34,55.07,20,1066.29,Cash,Completed,30,
+ORD000160,2023-11-26 10:19:10,CUST0071,REST012,Noodle Bar,Hyderabad,Asian,Pad Thai,1,588.82,58.88,50,579.94,Debit Card,Completed,44,3.4
+ORD000161,2024-04-06 07:55:17,CUST0013,REST001,Spice Garden,Kolkata,Indian,Naan,1,205.15,0,0,205.15,Debit Card,Completed,,4.3
+ORD000162,2024-01-27 09:17:57,CUST0082,REST007,Green Bowl,Ahmedabad,Healthy,Avocado Toast,5,192.98,0,20,984.9,Wallet,Cancelled,44,4.3
+ORD000163,2023-02-17 08:19:57,CUST0161,REST004,Sushi World,Chennai,Japanese,Salmon Sashimi,5,194.94,0,30,1004.7,Net Banking,Pending,90,4.8
+ORD000164,2023-09-05 13:38:27,CUST0097,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Shawarma,3,569.62,56.96,50,1701.9,Debit Card,Processing,67,
+ORD000165,2023-11-17 12:51:57,CUST0066,REST004,Sushi World,Hyderabad,Japanese,Ramen,2,499.0,0,50,1048.0,Debit Card,Cancelled,86,3.5
+ORD000166,2023-07-28 12:29:12,CUST0195,REST011,The Grill Station,Delhi,BBQ,Corn on the Cob,3,128.08,0,0,384.24,Wallet,Delivered,20,3.0
+ORD000167,2024-12-28 21:55:27,CUST0063,REST008,Dragon Wok,Hyderabad,Chinese,Spring Rolls,3,577.65,0,20,1752.95,Net Banking,Delivered,30,4.4
+ORD000168,2023-08-28 13:24:29,CUST0185,REST007,Green Bowl,Hyderabad,Healthy,Smoothie Bowl,3,277.94,55.59,30,808.23,Cash,Cancelled,80,3.7
+ORD000169,2024-07-29 17:56:45,CUST0149,REST015,Mumbai Masala,Hyderabad,Indian,Biryani,3,295.24,59.05,20,846.67,Net Banking,Pending,,4.8
+ORD000170,2024-01-23 19:39:15,CUST0186,REST005,Taco Town,Bangalore,Mexican,Chicken Burrito,3,199.61,39.92,20,578.91,Net Banking,Processing,58,4.6
+ORD000171,2023-05-23 22:53:56,CUST0135,REST008,Dragon Wok,Bangalore,Chinese,Spring Rolls,2,152.78,30.56,40,315.0,Credit Card,Completed,84,4.9
+ORD000172,2024-07-03 06:35:46,CUST0159,REST014,Sea Breeze,Mumbai,Seafood,Grilled Fish,4,151.5,0,0,606.0,Net Banking,Processing,42,3.4
+ORD000173,2023-01-13 23:47:52,CUST0129,REST011,The Grill Station,Ahmedabad,BBQ,BBQ Ribs,1,356.75,35.68,0,321.07,Net Banking,Pending,50,3.2
+ORD000174,2024-04-26 09:33:08,CUST0096,REST013,Veggie Delight,Bangalore,Vegetarian,Veggie Wrap,1,352.68,0,20,372.68,Cash,Processing,60,3.5
+ORD000175,2023-03-14 14:58:32,CUST0003,REST010,Sweet Tooth,Hyderabad,Desserts,Ice Cream Sundae,3,435.7,0,0,1307.1,Net Banking,Completed,63,2.6
+ORD000176,2024-12-14 22:14:21,CUST0146,REST002,Pizza Planet,Ahmedabad,Pizza,Veggie Supreme,3,374.25,0,50,1172.75,Cash,Delivered,,4.7
+ORD000177,2024-12-22 09:27:35,CUST0193,REST001,Spice Garden,Delhi,Indian,Biryani,5,373.03,0,20,1885.15,Net Banking,Pending,17,4.0
+ORD000178,2024-06-09 20:50:47,CUST0177,REST015,Mumbai Masala,Delhi,Indian,Biryani,2,373.26,74.65,40,711.87,Net Banking,Completed,57,4.3
+ORD000179,2024-04-15 01:09:46,CUST0163,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,1,307.29,0,30,337.29,UPI,Processing,65,3.3
+ORD000180,2024-06-11 22:25:49,CUST0159,REST008,Dragon Wok,Hyderabad,Chinese,Spring Rolls,5,569.39,56.94,20,2810.01,UPI,Delivered,63,
+ORD000181,2023-09-03 23:18:36,CUST0079,REST012,Noodle Bar,Delhi,Asian,Pad Thai,3,160.19,0,40,520.57,Cash,Cancelled,26,
+ORD000182,2024-03-08 14:57:12,CUST0023,REST013,Veggie Delight,Chennai,Vegetarian,Veggie Wrap,2,125.39,12.54,40,278.24,UPI,Completed,67,
+ORD000183,2024-07-17 00:04:06,CUST0098,REST010,Sweet Tooth,Pune,Desserts,Cheesecake,1,231.76,23.18,0,208.58,Debit Card,Completed,46,2.9
+ORD000184,2023-08-03 08:18:07,CUST0064,REST005,Taco Town,Chennai,Mexican,Nachos,4,155.89,0,40,663.56,Net Banking,Processing,76,3.4
+ORD000185,2023-09-16 00:58:39,CUST0086,REST010,Sweet Tooth,Hyderabad,Desserts,Cheesecake,1,150.45,0,40,190.45,Cash,Completed,63,3.3
+ORD000186,2023-08-15 08:59:14,CUST0084,REST005,Taco Town,Pune,Mexican,Chicken Burrito,4,243.38,24.34,30,979.18,Cash,Delivered,77,4.5
+ORD000187,2024-02-28 19:15:48,CUST0187,REST014,Sea Breeze,Kolkata,Seafood,Fish and Chips,1,564.67,0,50,614.67,Cash,Delivered,85,
+ORD000188,2023-07-07 23:36:05,CUST0019,REST008,Dragon Wok,Chennai,Chinese,Fried Rice,4,429.95,0,30,1749.8,Cash,Processing,34,4.5
+ORD000189,2024-04-06 05:36:21,CUST0064,REST010,Sweet Tooth,Kolkata,Desserts,Cheesecake,5,99.12,0,50,545.6,Net Banking,Cancelled,25,
+ORD000190,2023-01-09 04:37:29,CUST0143,REST003,Burger Barn,Mumbai,Burgers,Vegan Burger,3,582.17,58.22,0,1688.29,Wallet,Delivered,,4.4
+ORD000191,2023-04-28 02:05:21,CUST0022,REST008,Dragon Wok,Pune,Chinese,Kung Pao Chicken,4,481.62,96.32,50,1880.16,Credit Card,Completed,18,3.2
+ORD000192,2023-09-28 12:47:17,CUST0018,REST006,The Pasta House,Chennai,Italian,Lasagna,4,487.82,97.56,40,1893.72,UPI,Completed,71,3.6
+ORD000193,2024-02-05 18:49:24,CUST0119,REST013,Veggie Delight,Delhi,Vegetarian,Veggie Wrap,3,416.94,0,20,1270.82,Debit Card,Pending,35,3.6
+ORD000194,2023-12-16 04:41:08,CUST0055,REST011,The Grill Station,Bangalore,BBQ,Grilled Chicken,4,285.7,57.14,20,1105.66,Debit Card,Delivered,64,
+ORD000195,2023-12-22 09:21:29,CUST0164,REST013,Veggie Delight,Delhi,Vegetarian,Veggie Wrap,5,177.22,0,20,906.1,UPI,Pending,,3.7
+ORD000196,2023-05-15 00:08:45,CUST0173,REST010,Sweet Tooth,Kolkata,Desserts,Chocolate Cake,3,263.03,26.3,50,812.79,Debit Card,Cancelled,53,4.0
+ORD000197,2023-10-29 17:28:48,CUST0125,REST002,Pizza Planet,Hyderabad,Pizza,BBQ Chicken Pizza,1,175.18,0,50,225.18,Net Banking,Completed,32,3.6
+ORD000198,2024-04-26 02:38:20,CUST0035,REST009,Kebab Corner,Bangalore,Middle Eastern,Lamb Kebab,3,152.95,0,40,498.85,Debit Card,Pending,,2.5
+ORD000199,2023-05-10 21:49:51,CUST0195,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Lamb Kebab,4,296.13,29.61,40,1194.91,Debit Card,Delivered,,
+ORD000200,2024-07-30 17:32:36,CUST0030,REST001,Spice Garden,Chennai,Indian,Paneer Tikka,5,230.11,23.01,50,1177.54,UPI,Cancelled,78,2.8
+ORD000201,2024-07-25 15:49:25,CUST0116,REST009,Kebab Corner,Mumbai,Middle Eastern,Lamb Kebab,5,193.64,19.36,0,948.84,UPI,Cancelled,46,5.0
+ORD000202,2024-09-21 16:35:38,CUST0110,REST014,Sea Breeze,Delhi,Seafood,Crab Cake,1,483.33,0,20,503.33,Debit Card,Completed,59,4.0
+ORD000203,2024-04-08 14:14:01,CUST0147,REST013,Veggie Delight,Hyderabad,Vegetarian,Stuffed Peppers,1,376.44,75.29,30,331.15,UPI,Completed,56,3.2
+ORD000204,2023-07-13 22:19:16,CUST0174,REST003,Burger Barn,Kolkata,Burgers,Classic Burger,3,530.86,0,20,1612.58,Cash,Processing,,3.1
+ORD000205,2024-02-05 11:43:54,CUST0149,REST003,Burger Barn,Chennai,Burgers,Vegan Burger,4,315.04,0,40,1300.16,Credit Card,Completed,62,3.7
+ORD000206,2023-11-30 17:07:40,CUST0087,REST012,Noodle Bar,Ahmedabad,Asian,Tom Yum Soup,1,493.75,49.38,20,464.37,Wallet,Completed,78,4.6
+ORD000207,2023-04-07 11:56:55,CUST0110,REST010,Sweet Tooth,Ahmedabad,Desserts,Brownie,1,103.89,10.39,0,93.5,Debit Card,Completed,35,2.5
+ORD000208,2023-03-06 00:25:48,CUST0161,REST015,Mumbai Masala,Chennai,Indian,Paneer Tikka,3,128.54,0,30,415.62,UPI,Delivered,36,
+ORD000209,2024-04-06 02:59:16,CUST0179,REST007,Green Bowl,Delhi,Healthy,Quinoa Bowl,1,190.98,0,20,210.98,UPI,Completed,71,
+ORD000210,2024-07-21 14:25:00,CUST0036,REST014,Sea Breeze,Kolkata,Seafood,Prawn Curry,4,116.83,11.68,0,455.64,Cash,Completed,28,4.7
+ORD000211,2023-12-08 20:02:52,CUST0106,REST011,The Grill Station,Bangalore,BBQ,BBQ Ribs,5,372.91,74.58,20,1809.97,Wallet,Processing,42,2.9
+ORD000212,2024-07-21 00:21:24,CUST0071,REST014,Sea Breeze,Hyderabad,Seafood,Grilled Fish,1,152.81,0,50,202.81,Net Banking,Completed,69,2.8
+ORD000213,2023-05-27 12:37:33,CUST0062,REST004,Sushi World,Chennai,Japanese,California Roll,3,186.83,37.37,50,573.12,Cash,Pending,52,4.5
+ORD000214,2024-12-26 09:36:45,CUST0094,REST002,Pizza Planet,Hyderabad,Pizza,Veggie Supreme,5,116.93,0,30,614.65,Wallet,Completed,64,3.9
+ORD000215,2023-06-17 13:44:23,CUST0102,REST013,Veggie Delight,Ahmedabad,Vegetarian,Veggie Wrap,1,385.43,0,30,415.43,Wallet,Delivered,,
+ORD000216,2024-04-23 11:56:58,CUST0053,REST011,The Grill Station,Kolkata,BBQ,Corn on the Cob,4,122.86,24.57,50,516.87,Debit Card,Cancelled,25,3.8
+ORD000217,2023-07-09 21:25:58,CUST0156,REST007,Green Bowl,Delhi,Healthy,Smoothie Bowl,4,459.58,0,0,1838.32,Credit Card,Delivered,,3.6
+ORD000218,2024-01-21 13:48:27,CUST0067,REST011,The Grill Station,Bangalore,BBQ,BBQ Ribs,1,448.11,0,20,468.11,Debit Card,Cancelled,81,4.6
+ORD000219,2024-02-11 21:21:01,CUST0020,REST003,Burger Barn,Chennai,Burgers,Classic Burger,1,254.21,25.42,30,258.79,Cash,Processing,,3.9
+ORD000220,2023-05-03 04:28:14,CUST0030,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,4,526.87,0,30,2137.48,Debit Card,Completed,28,4.2
+ORD000221,2023-05-20 00:04:24,CUST0190,REST001,Spice Garden,Mumbai,Indian,Paneer Tikka,1,325.32,32.53,20,312.79,Net Banking,Pending,19,4.8
+ORD000222,2024-10-03 13:42:00,CUST0014,REST004,Sushi World,Pune,Japanese,Salmon Sashimi,4,556.24,0,30,2254.96,Debit Card,Delivered,,3.8
+ORD000223,2023-09-12 05:19:53,CUST0075,REST013,Veggie Delight,Mumbai,Vegetarian,Mushroom Burger,1,536.04,0,30,566.04,Wallet,Delivered,,3.4
+ORD000224,2024-07-22 22:06:22,CUST0105,REST012,Noodle Bar,Hyderabad,Asian,Dumplings,3,387.68,38.77,20,1144.27,Credit Card,Delivered,46,
+ORD000225,2023-03-22 17:45:00,CUST0037,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,3,80.76,8.08,30,264.2,Net Banking,Delivered,45,4.9
+ORD000226,2024-08-03 21:51:19,CUST0035,REST002,Pizza Planet,Mumbai,Pizza,Pepperoni Pizza,5,294.79,0,40,1513.95,Net Banking,Pending,,
+ORD000227,2024-12-20 06:40:23,CUST0020,REST002,Pizza Planet,Mumbai,Pizza,Veggie Supreme,2,203.12,0,30,436.24,Debit Card,Completed,56,3.2
+ORD000228,2023-11-12 17:56:35,CUST0116,REST013,Veggie Delight,Delhi,Vegetarian,Stuffed Peppers,1,165.47,16.55,30,178.92,UPI,Processing,,4.4
+ORD000229,2023-02-01 07:48:07,CUST0183,REST005,Taco Town,Delhi,Mexican,Beef Taco,2,499.95,0,50,1049.9,Debit Card,Cancelled,56,
+ORD000230,2023-11-11 02:25:02,CUST0119,REST007,Green Bowl,Mumbai,Healthy,Smoothie Bowl,3,506.45,0,0,1519.35,Credit Card,Completed,86,3.1
+ORD000231,2024-06-17 01:17:04,CUST0020,REST002,Pizza Planet,Mumbai,Pizza,Margherita Pizza,2,147.97,14.8,30,311.14,Credit Card,Completed,25,3.1
+ORD000232,2023-02-03 03:55:01,CUST0147,REST004,Sushi World,Ahmedabad,Japanese,Salmon Sashimi,1,550.64,0,0,550.64,Cash,Pending,21,
+ORD000233,2023-08-02 14:01:54,CUST0159,REST008,Dragon Wok,Mumbai,Chinese,Kung Pao Chicken,4,169.86,0,20,699.44,Wallet,Delivered,34,
+ORD000234,2023-03-10 03:14:53,CUST0135,REST011,The Grill Station,Chennai,BBQ,Corn on the Cob,4,539.04,53.9,0,2102.26,Debit Card,Completed,32,4.1
+ORD000235,2024-01-26 05:17:20,CUST0082,REST007,Green Bowl,Pune,Healthy,Protein Salad,5,486.35,0,50,2481.75,Wallet,Delivered,49,
+ORD000236,2023-05-04 23:37:19,CUST0189,REST001,Spice Garden,Chennai,Indian,Butter Chicken,4,355.3,71.06,20,1370.14,Credit Card,Delivered,,3.2
+ORD000237,2024-09-18 04:50:52,CUST0180,REST010,Sweet Tooth,Kolkata,Desserts,Brownie,2,171.57,34.31,30,338.83,UPI,Completed,60,2.6
+ORD000238,2023-03-12 02:31:10,CUST0123,REST010,Sweet Tooth,Hyderabad,Desserts,Cheesecake,5,240.71,24.07,0,1179.48,Credit Card,Cancelled,,2.5
+ORD000239,2023-01-18 00:29:09,CUST0029,REST015,Mumbai Masala,Hyderabad,Indian,Paneer Tikka,3,452.81,0,0,1358.43,Wallet,Cancelled,,2.9
+ORD000240,2023-04-16 23:38:36,CUST0167,REST002,Pizza Planet,Pune,Pizza,Veggie Supreme,5,132.54,0,30,692.7,UPI,Completed,70,4.9
+ORD000241,2024-07-24 02:39:28,CUST0001,REST012,Noodle Bar,Pune,Asian,Pho,5,503.52,50.35,30,2497.25,Net Banking,Pending,31,
+ORD000242,2024-05-11 19:52:48,CUST0191,REST014,Sea Breeze,Mumbai,Seafood,Prawn Curry,5,245.47,49.09,20,1198.26,Credit Card,Delivered,78,
+ORD000243,2023-01-09 20:25:47,CUST0028,REST006,The Pasta House,Pune,Italian,Penne Arrabbiata,1,507.26,0,40,547.26,Net Banking,Completed,46,3.4
+ORD000244,2024-11-15 21:23:47,CUST0148,REST001,Spice Garden,Kolkata,Indian,Dal Makhani,4,583.93,58.39,40,2317.33,Net Banking,Delivered,84,4.6
+ORD000245,2023-03-23 08:12:59,CUST0097,REST003,Burger Barn,Ahmedabad,Burgers,Classic Burger,1,233.35,0,30,263.35,Debit Card,Completed,,
+ORD000246,2023-12-02 00:26:58,CUST0014,REST009,Kebab Corner,Delhi,Middle Eastern,Hummus Platter,5,592.34,59.23,0,2902.47,Credit Card,Cancelled,36,3.6
+ORD000247,2024-05-28 02:26:14,CUST0101,REST004,Sushi World,Hyderabad,Japanese,Tempura,5,455.46,91.09,30,2216.21,Wallet,Processing,45,
+ORD000248,2024-01-09 01:58:13,CUST0021,REST003,Burger Barn,Mumbai,Burgers,Chicken Burger,1,302.36,0,50,352.36,Cash,Completed,18,4.1
+ORD000249,2024-05-13 13:15:23,CUST0048,REST005,Taco Town,Kolkata,Mexican,Quesadilla,4,545.34,0,0,2181.36,Cash,Completed,38,3.5
+ORD000250,2023-02-17 21:02:28,CUST0089,REST005,Taco Town,Ahmedabad,Mexican,Quesadilla,3,197.65,0,50,642.95,Wallet,Pending,27,
+ORD000251,2024-06-17 15:52:28,CUST0077,REST013,Veggie Delight,Hyderabad,Vegetarian,Veggie Wrap,4,505.57,50.56,50,2021.72,Credit Card,Pending,75,3.1
+ORD000252,2023-04-25 12:37:24,CUST0043,REST015,Mumbai Masala,Mumbai,Indian,Naan,5,548.24,109.65,50,2681.55,Debit Card,Delivered,,2.9
+ORD000253,2024-09-30 21:42:17,CUST0018,REST003,Burger Barn,Mumbai,Burgers,Vegan Burger,1,593.91,59.39,20,554.52,Credit Card,Pending,48,4.3
+ORD000254,2024-04-01 09:12:43,CUST0039,REST009,Kebab Corner,Kolkata,Middle Eastern,Hummus Platter,3,350.24,0,50,1100.72,Debit Card,Completed,68,
+ORD000255,2024-11-12 21:07:19,CUST0122,REST015,Mumbai Masala,Delhi,Indian,Naan,1,488.59,97.72,30,420.87,Credit Card,Completed,64,3.9
+ORD000256,2023-11-04 10:06:41,CUST0122,REST005,Taco Town,Kolkata,Mexican,Chicken Burrito,5,396.5,39.65,0,1942.85,UPI,Cancelled,57,2.6
+ORD000257,2024-11-05 21:28:13,CUST0083,REST001,Spice Garden,Pune,Indian,Biryani,3,225.78,22.58,0,654.76,UPI,Pending,53,3.6
+ORD000258,2024-08-12 21:58:52,CUST0041,REST010,Sweet Tooth,Delhi,Desserts,Ice Cream Sundae,4,189.92,18.99,40,780.69,Credit Card,Delivered,62,3.8
+ORD000259,2023-05-30 17:22:15,CUST0117,REST012,Noodle Bar,Kolkata,Asian,Pho,5,537.25,0,20,2706.25,Credit Card,Cancelled,40,3.1
+ORD000260,2024-05-08 12:53:50,CUST0115,REST012,Noodle Bar,Hyderabad,Asian,Tom Yum Soup,3,508.22,101.64,40,1463.02,Debit Card,Processing,18,3.7
+ORD000261,2023-08-10 10:04:42,CUST0147,REST010,Sweet Tooth,Pune,Desserts,Brownie,2,515.58,0,0,1031.16,Debit Card,Delivered,,
+ORD000262,2024-11-02 13:52:12,CUST0045,REST011,The Grill Station,Hyderabad,BBQ,Grilled Chicken,3,418.83,83.77,0,1172.72,Wallet,Completed,16,2.8
+ORD000263,2023-12-23 12:20:35,CUST0160,REST004,Sushi World,Chennai,Japanese,Ramen,3,300.38,30.04,30,901.1,Cash,Completed,74,3.8
+ORD000264,2024-01-10 04:15:18,CUST0071,REST001,Spice Garden,Pune,Indian,Naan,5,396.71,0,0,1983.55,UPI,Delivered,,4.1
+ORD000265,2024-05-28 01:10:39,CUST0076,REST004,Sushi World,Bangalore,Japanese,Salmon Sashimi,1,498.82,99.76,40,439.06,UPI,Pending,32,4.1
+ORD000266,2023-09-24 13:05:50,CUST0122,REST007,Green Bowl,Kolkata,Healthy,Quinoa Bowl,5,448.2,89.64,20,2171.36,Net Banking,Cancelled,43,4.1
+ORD000267,2023-04-10 09:03:05,CUST0175,REST009,Kebab Corner,Chennai,Middle Eastern,Falafel Wrap,5,174.19,0,40,910.95,UPI,Completed,86,3.0
+ORD000268,2023-07-22 09:10:34,CUST0163,REST004,Sushi World,Pune,Japanese,Salmon Sashimi,3,298.65,0,30,925.95,Wallet,Completed,74,3.7
+ORD000269,2024-11-07 09:48:16,CUST0146,REST008,Dragon Wok,Hyderabad,Chinese,Fried Rice,4,355.52,35.55,0,1386.53,Cash,Completed,32,3.4
+ORD000270,2024-05-07 19:55:05,CUST0199,REST006,The Pasta House,Bangalore,Italian,Spaghetti Carbonara,4,252.97,0,30,1041.88,Debit Card,Completed,,3.0
+ORD000271,2023-11-30 05:36:50,CUST0137,REST008,Dragon Wok,Delhi,Chinese,Dim Sum,5,305.53,30.55,40,1537.1,Debit Card,Cancelled,64,
+ORD000272,2023-06-25 17:53:54,CUST0129,REST001,Spice Garden,Pune,Indian,Naan,2,89.32,0,20,198.64,Wallet,Delivered,59,2.8
+ORD000273,2024-04-08 05:08:27,CUST0088,REST003,Burger Barn,Delhi,Burgers,Classic Burger,3,573.2,57.32,50,1712.28,Cash,Cancelled,70,5.0
+ORD000274,2023-06-14 00:52:16,CUST0183,REST013,Veggie Delight,Hyderabad,Vegetarian,Stuffed Peppers,4,89.94,0,20,379.76,Net Banking,Completed,90,2.8
+ORD000275,2023-02-07 11:09:59,CUST0065,REST007,Green Bowl,Chennai,Healthy,Quinoa Bowl,5,597.23,0,0,2986.15,Cash,Completed,68,2.8
+ORD000276,2024-04-28 17:47:31,CUST0131,REST004,Sushi World,Mumbai,Japanese,Ramen,4,424.07,84.81,30,1641.47,Net Banking,Completed,32,4.7
+ORD000277,2024-10-07 20:15:41,CUST0042,REST005,Taco Town,Delhi,Mexican,Beef Taco,4,183.3,0,30,763.2,Credit Card,Processing,40,3.5
+ORD000278,2024-12-05 09:28:09,CUST0024,REST015,Mumbai Masala,Hyderabad,Indian,Dal Makhani,3,201.94,0,0,605.82,Wallet,Completed,,3.7
+ORD000279,2023-12-27 14:45:26,CUST0075,REST012,Noodle Bar,Delhi,Asian,Tom Yum Soup,2,317.51,0,30,665.02,UPI,Cancelled,,4.7
+ORD000280,2023-09-13 06:40:54,CUST0188,REST007,Green Bowl,Delhi,Healthy,Quinoa Bowl,1,85.03,0,20,105.03,Credit Card,Cancelled,71,3.2
+ORD000281,2024-10-11 02:43:57,CUST0043,REST014,Sea Breeze,Pune,Seafood,Prawn Curry,1,288.4,28.84,30,289.56,Credit Card,Completed,76,4.1
+ORD000282,2024-09-15 03:17:58,CUST0098,REST012,Noodle Bar,Mumbai,Asian,Pho,1,296.33,59.27,40,277.06,UPI,Completed,71,
+ORD000283,2023-02-05 16:59:10,CUST0174,REST014,Sea Breeze,Bangalore,Seafood,Crab Cake,4,138.73,13.87,40,581.05,Wallet,Delivered,,2.5
+ORD000284,2023-09-26 13:14:15,CUST0143,REST011,The Grill Station,Pune,BBQ,BBQ Ribs,4,424.09,0,40,1736.36,Wallet,Completed,64,
+ORD000285,2024-08-06 15:40:13,CUST0130,REST001,Spice Garden,Bangalore,Indian,Naan,4,522.97,0,0,2091.88,Debit Card,Pending,45,3.2
+ORD000286,2023-03-10 08:48:32,CUST0191,REST007,Green Bowl,Hyderabad,Healthy,Quinoa Bowl,4,310.98,62.2,40,1221.72,Net Banking,Completed,72,5.0
+ORD000287,2024-09-06 23:54:36,CUST0168,REST002,Pizza Planet,Kolkata,Pizza,Veggie Supreme,1,369.71,0,0,369.71,Net Banking,Processing,53,3.9
+ORD000288,2024-08-19 01:40:42,CUST0116,REST006,The Pasta House,Pune,Italian,Spaghetti Carbonara,2,519.05,0,50,1088.1,Credit Card,Completed,75,3.4
+ORD000289,2024-02-10 10:30:26,CUST0043,REST013,Veggie Delight,Hyderabad,Vegetarian,Veggie Wrap,3,264.67,0,50,844.01,Cash,Completed,28,
+ORD000290,2024-12-23 12:29:16,CUST0184,REST014,Sea Breeze,Kolkata,Seafood,Grilled Fish,3,397.64,0,0,1192.92,UPI,Completed,42,4.5
+ORD000291,2024-05-26 10:31:20,CUST0128,REST013,Veggie Delight,Kolkata,Vegetarian,Veggie Wrap,5,144.07,14.41,40,745.94,Credit Card,Completed,79,
+ORD000292,2023-05-15 21:04:32,CUST0169,REST009,Kebab Corner,Kolkata,Middle Eastern,Lamb Kebab,5,486.16,0,50,2480.8,Wallet,Cancelled,31,
+ORD000293,2023-11-06 00:50:03,CUST0106,REST009,Kebab Corner,Kolkata,Middle Eastern,Lamb Kebab,5,556.27,0,30,2811.35,Wallet,Delivered,52,2.8
+ORD000294,2024-12-16 12:15:32,CUST0083,REST014,Sea Breeze,Pune,Seafood,Prawn Curry,2,189.05,0,30,408.1,Net Banking,Completed,37,4.2
+ORD000295,2023-08-11 02:05:01,CUST0007,REST013,Veggie Delight,Pune,Vegetarian,Mushroom Burger,5,376.73,37.67,50,1895.98,Cash,Completed,69,3.8
+ORD000296,2024-06-14 19:19:08,CUST0193,REST001,Spice Garden,Mumbai,Indian,Paneer Tikka,3,470.1,0,30,1440.3,Wallet,Completed,22,3.2
+ORD000297,2024-07-30 15:34:35,CUST0179,REST006,The Pasta House,Ahmedabad,Italian,Spaghetti Carbonara,5,531.38,106.28,20,2570.62,UPI,Completed,64,4.5
+ORD000298,2023-02-11 18:56:44,CUST0200,REST015,Mumbai Masala,Kolkata,Indian,Dal Makhani,4,577.49,0,50,2359.96,Cash,Delivered,,4.1
+ORD000299,2023-08-17 11:52:12,CUST0045,REST015,Mumbai Masala,Pune,Indian,Naan,5,463.99,0,20,2339.95,Net Banking,Completed,24,
+ORD000300,2024-03-29 14:17:20,CUST0040,REST007,Green Bowl,Mumbai,Healthy,Protein Salad,3,369.43,0,20,1128.29,Credit Card,Completed,15,4.3
+ORD000301,2024-01-17 00:31:56,CUST0082,REST015,Mumbai Masala,Pune,Indian,Naan,1,482.3,96.46,30,415.84,Wallet,Delivered,85,4.5
+ORD000302,2023-09-29 09:20:35,CUST0076,REST003,Burger Barn,Delhi,Burgers,Cheese Burger,4,362.4,36.24,0,1413.36,Debit Card,Processing,42,3.3
+ORD000303,2023-07-09 09:16:03,CUST0030,REST009,Kebab Corner,Mumbai,Middle Eastern,Shawarma,3,311.75,62.35,50,922.9,Cash,Delivered,56,4.5
+ORD000304,2024-09-15 13:35:19,CUST0167,REST009,Kebab Corner,Chennai,Middle Eastern,Shawarma,5,507.5,0,50,2587.5,Debit Card,Cancelled,77,
+ORD000305,2023-01-06 16:39:07,CUST0176,REST009,Kebab Corner,Delhi,Middle Eastern,Shawarma,2,585.25,117.05,50,1103.45,Cash,Completed,41,4.4
+ORD000306,2023-03-09 23:30:28,CUST0065,REST004,Sushi World,Kolkata,Japanese,California Roll,2,92.35,0,0,184.7,Wallet,Completed,,
+ORD000307,2023-09-03 18:12:09,CUST0165,REST010,Sweet Tooth,Hyderabad,Desserts,Brownie,4,281.78,28.18,40,1138.94,Net Banking,Completed,,3.8
+ORD000308,2024-09-03 04:43:41,CUST0098,REST013,Veggie Delight,Mumbai,Vegetarian,Veggie Wrap,3,562.58,0,30,1717.74,Cash,Completed,26,4.8
+ORD000309,2024-05-07 11:28:04,CUST0187,REST008,Dragon Wok,Bangalore,Chinese,Dim Sum,2,468.31,93.66,30,872.96,Net Banking,Cancelled,,4.8
+ORD000310,2024-02-22 05:14:23,CUST0186,REST001,Spice Garden,Bangalore,Indian,Butter Chicken,1,82.62,16.52,40,106.1,UPI,Delivered,25,4.4
+ORD000311,2023-03-31 00:43:08,CUST0141,REST007,Green Bowl,Bangalore,Healthy,Avocado Toast,2,194.81,0,20,409.62,Cash,Completed,87,4.6
+ORD000312,2023-09-14 23:30:30,CUST0159,REST005,Taco Town,Delhi,Mexican,Nachos,1,182.66,36.53,40,186.13,Credit Card,Delivered,45,
+ORD000313,2023-04-29 08:50:52,CUST0044,REST006,The Pasta House,Ahmedabad,Italian,Risotto,3,400.5,0,50,1251.5,Credit Card,Cancelled,61,4.9
+ORD000314,2024-11-12 20:58:40,CUST0142,REST004,Sushi World,Hyderabad,Japanese,Tempura,3,516.86,0,30,1580.58,Credit Card,Completed,72,3.3
+ORD000315,2024-07-23 18:15:45,CUST0130,REST011,The Grill Station,Delhi,BBQ,Pulled Pork Sandwich,2,543.47,0,30,1116.94,Net Banking,Completed,24,4.7
+ORD000316,2024-01-02 16:39:19,CUST0198,REST014,Sea Breeze,Kolkata,Seafood,Prawn Curry,1,366.83,73.37,50,343.46,Wallet,Delivered,34,3.1
+ORD000317,2024-10-20 15:31:37,CUST0041,REST003,Burger Barn,Ahmedabad,Burgers,Classic Burger,4,269.21,0,20,1096.84,Debit Card,Completed,36,2.9
+ORD000318,2023-02-18 19:49:01,CUST0053,REST012,Noodle Bar,Ahmedabad,Asian,Tom Yum Soup,1,193.79,19.38,20,194.41,Wallet,Cancelled,44,
+ORD000319,2024-06-30 14:35:40,CUST0140,REST007,Green Bowl,Ahmedabad,Healthy,Protein Salad,1,100.75,0,0,100.75,Wallet,Completed,50,3.2
+ORD000320,2023-07-15 09:54:38,CUST0089,REST007,Green Bowl,Kolkata,Healthy,Smoothie Bowl,5,419.74,0,50,2148.7,Cash,Processing,43,3.4
+ORD000321,2024-02-04 15:44:40,CUST0041,REST015,Mumbai Masala,Mumbai,Indian,Naan,2,308.75,0,0,617.5,UPI,Completed,42,
+ORD000322,2024-01-08 01:36:06,CUST0063,REST011,The Grill Station,Hyderabad,BBQ,Corn on the Cob,3,454.53,45.45,40,1358.14,Credit Card,Completed,35,3.5
+ORD000323,2023-02-13 10:16:31,CUST0145,REST010,Sweet Tooth,Bangalore,Desserts,Ice Cream Sundae,5,100.38,20.08,20,501.82,Net Banking,Completed,38,3.5
+ORD000324,2023-05-13 11:35:43,CUST0197,REST015,Mumbai Masala,Chennai,Indian,Butter Chicken,2,313.59,31.36,40,635.82,Debit Card,Delivered,67,4.5
+ORD000325,2023-10-27 09:31:49,CUST0134,REST003,Burger Barn,Pune,Burgers,Vegan Burger,5,387.11,0,40,1975.55,Wallet,Pending,,
+ORD000326,2023-01-31 07:41:39,CUST0124,REST014,Sea Breeze,Bangalore,Seafood,Grilled Fish,2,327.45,65.49,50,639.41,Net Banking,Completed,83,2.8
+ORD000327,2023-11-30 04:19:27,CUST0151,REST015,Mumbai Masala,Mumbai,Indian,Dal Makhani,5,298.76,0,50,1543.8,Net Banking,Completed,76,3.5
+ORD000328,2024-04-09 16:58:39,CUST0191,REST007,Green Bowl,Bangalore,Healthy,Smoothie Bowl,4,478.25,0,30,1943.0,Credit Card,Completed,67,2.5
+ORD000329,2023-10-09 09:11:54,CUST0067,REST009,Kebab Corner,Mumbai,Middle Eastern,Lamb Kebab,2,437.64,0,40,915.28,Wallet,Pending,,4.0
+ORD000330,2024-08-31 18:52:30,CUST0065,REST010,Sweet Tooth,Pune,Desserts,Brownie,4,472.59,47.26,50,1893.1,UPI,Cancelled,37,3.9
+ORD000331,2023-03-19 21:19:44,CUST0158,REST013,Veggie Delight,Kolkata,Vegetarian,Stuffed Peppers,1,468.86,46.89,20,441.97,Net Banking,Completed,66,4.5
+ORD000332,2023-12-05 04:01:25,CUST0156,REST003,Burger Barn,Kolkata,Burgers,Classic Burger,1,508.09,50.81,50,507.28,Credit Card,Pending,,3.4
+ORD000333,2024-08-23 21:06:24,CUST0169,REST015,Mumbai Masala,Kolkata,Indian,Naan,5,228.96,45.79,0,1099.01,Wallet,Delivered,78,3.0
+ORD000334,2023-07-05 20:04:00,CUST0071,REST004,Sushi World,Mumbai,Japanese,Salmon Sashimi,5,168.13,0,30,870.65,Cash,Cancelled,35,
+ORD000335,2024-12-14 22:42:32,CUST0150,REST011,The Grill Station,Kolkata,BBQ,Corn on the Cob,5,184.16,0,0,920.8,UPI,Cancelled,,4.6
+ORD000336,2024-03-22 13:02:17,CUST0130,REST014,Sea Breeze,Chennai,Seafood,Prawn Curry,5,580.79,58.08,40,2885.87,Credit Card,Completed,,
+ORD000337,2024-09-23 14:09:54,CUST0145,REST009,Kebab Corner,Chennai,Middle Eastern,Hummus Platter,1,497.53,0,50,547.53,Cash,Delivered,47,4.9
+ORD000338,2023-04-01 07:23:53,CUST0174,REST013,Veggie Delight,Pune,Vegetarian,Mushroom Burger,4,546.19,0,40,2224.76,Net Banking,Delivered,63,5.0
+ORD000339,2023-07-12 19:51:26,CUST0020,REST013,Veggie Delight,Pune,Vegetarian,Mushroom Burger,3,348.58,0,30,1075.74,Wallet,Completed,66,4.6
+ORD000340,2024-08-02 13:21:38,CUST0189,REST008,Dragon Wok,Pune,Chinese,Spring Rolls,2,545.04,0,20,1110.08,Debit Card,Delivered,39,3.0
+ORD000341,2024-08-28 00:27:56,CUST0170,REST004,Sushi World,Hyderabad,Japanese,Salmon Sashimi,2,514.89,0,20,1049.78,Cash,Completed,,4.2
+ORD000342,2024-11-05 19:01:29,CUST0072,REST013,Veggie Delight,Mumbai,Vegetarian,Mushroom Burger,3,402.75,40.28,50,1217.97,Cash,Delivered,38,4.8
+ORD000343,2023-01-26 07:00:42,CUST0118,REST013,Veggie Delight,Bangalore,Vegetarian,Veggie Wrap,5,495.62,49.56,50,2478.54,Credit Card,Processing,65,4.4
+ORD000344,2023-10-08 20:45:21,CUST0068,REST006,The Pasta House,Mumbai,Italian,Spaghetti Carbonara,2,277.3,0,30,584.6,Debit Card,Delivered,48,
+ORD000345,2024-06-28 06:13:48,CUST0047,REST008,Dragon Wok,Pune,Chinese,Spring Rolls,2,339.36,0,40,718.72,Wallet,Completed,61,3.2
+ORD000346,2024-10-27 02:45:06,CUST0122,REST010,Sweet Tooth,Hyderabad,Desserts,Chocolate Cake,3,498.13,99.63,40,1434.76,Credit Card,Completed,33,4.3
+ORD000347,2023-08-22 01:02:33,CUST0026,REST007,Green Bowl,Ahmedabad,Healthy,Avocado Toast,5,357.67,0,40,1828.35,Net Banking,Completed,87,
+ORD000348,2024-08-01 08:13:25,CUST0066,REST001,Spice Garden,Hyderabad,Indian,Biryani,4,516.27,0,40,2105.08,UPI,Completed,61,3.9
+ORD000349,2023-05-16 13:38:22,CUST0125,REST007,Green Bowl,Delhi,Healthy,Smoothie Bowl,5,183.46,36.69,50,930.61,Net Banking,Processing,51,4.2
+ORD000350,2024-05-12 13:17:19,CUST0104,REST015,Mumbai Masala,Delhi,Indian,Dal Makhani,5,228.99,0,20,1164.95,Credit Card,Completed,58,4.0
+ORD000351,2024-04-15 05:11:37,CUST0093,REST003,Burger Barn,Pune,Burgers,Cheese Burger,3,244.78,0,30,764.34,Net Banking,Processing,49,4.5
+ORD000352,2024-07-31 18:50:29,CUST0025,REST007,Green Bowl,Bangalore,Healthy,Avocado Toast,1,145.02,0,30,175.02,Credit Card,Processing,25,3.5
+ORD000353,2023-07-23 20:27:53,CUST0080,REST009,Kebab Corner,Mumbai,Middle Eastern,Shawarma,4,352.47,0,0,1409.88,Debit Card,Delivered,25,4.7
+ORD000354,2023-01-28 07:20:10,CUST0139,REST012,Noodle Bar,Chennai,Asian,Dumplings,2,148.26,0,0,296.52,UPI,Processing,56,3.7
+ORD000355,2024-12-06 23:33:20,CUST0079,REST003,Burger Barn,Bangalore,Burgers,Vegan Burger,5,306.19,61.24,30,1499.71,UPI,Pending,84,2.7
+ORD000356,2023-08-11 17:38:08,CUST0194,REST005,Taco Town,Bangalore,Mexican,Nachos,1,80.05,0,30,110.05,Cash,Delivered,16,3.7
+ORD000357,2023-10-18 05:13:36,CUST0184,REST001,Spice Garden,Kolkata,Indian,Biryani,5,200.23,0,50,1051.15,Net Banking,Pending,86,3.1
+ORD000358,2024-08-16 20:01:36,CUST0069,REST014,Sea Breeze,Kolkata,Seafood,Prawn Curry,3,121.19,0,50,413.57,Cash,Delivered,49,4.4
+ORD000359,2023-12-18 16:11:34,CUST0005,REST014,Sea Breeze,Delhi,Seafood,Prawn Curry,2,230.59,23.06,50,488.12,Debit Card,Completed,77,
+ORD000360,2024-07-18 18:15:29,CUST0004,REST009,Kebab Corner,Mumbai,Middle Eastern,Falafel Wrap,1,226.7,0,40,266.7,Cash,Delivered,,
+ORD000361,2023-09-14 12:16:51,CUST0069,REST006,The Pasta House,Kolkata,Italian,Lasagna,4,598.94,59.89,0,2335.87,Cash,Completed,,2.9
+ORD000362,2024-10-05 07:44:14,CUST0099,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Falafel Wrap,2,545.76,0,40,1131.52,Cash,Delivered,,4.3
+ORD000363,2024-06-01 07:17:12,CUST0083,REST012,Noodle Bar,Mumbai,Asian,Pho,4,462.37,0,50,1899.48,Debit Card,Completed,75,4.9
+ORD000364,2024-11-20 08:33:50,CUST0061,REST012,Noodle Bar,Delhi,Asian,Tom Yum Soup,4,412.03,0,30,1678.12,Net Banking,Pending,,4.9
+ORD000365,2023-01-07 22:27:52,CUST0153,REST006,The Pasta House,Mumbai,Italian,Penne Arrabbiata,3,384.04,38.4,20,1133.72,Debit Card,Cancelled,89,3.7
+ORD000366,2024-12-24 00:16:44,CUST0166,REST013,Veggie Delight,Delhi,Vegetarian,Stuffed Peppers,2,339.96,67.99,30,641.93,Debit Card,Completed,22,
+ORD000367,2024-07-23 11:37:49,CUST0011,REST003,Burger Barn,Ahmedabad,Burgers,Cheese Burger,3,590.47,0,40,1811.41,Cash,Processing,63,2.8
+ORD000368,2023-09-09 09:50:55,CUST0142,REST009,Kebab Corner,Chennai,Middle Eastern,Lamb Kebab,2,374.68,74.94,30,704.42,Debit Card,Completed,50,4.0
+ORD000369,2023-12-19 16:38:44,CUST0048,REST009,Kebab Corner,Bangalore,Middle Eastern,Lamb Kebab,3,506.1,101.22,30,1447.08,Credit Card,Cancelled,,3.4
+ORD000370,2023-05-28 11:25:23,CUST0073,REST013,Veggie Delight,Hyderabad,Vegetarian,Tofu Stir-Fry,1,422.31,84.46,40,377.85,UPI,Pending,78,2.9
+ORD000371,2024-10-10 17:07:57,CUST0125,REST011,The Grill Station,Pune,BBQ,BBQ Ribs,1,352.06,0,0,352.06,Debit Card,Completed,37,3.0
+ORD000372,2023-02-08 03:01:20,CUST0054,REST001,Spice Garden,Kolkata,Indian,Dal Makhani,5,404.46,80.89,30,1971.41,Net Banking,Processing,24,
+ORD000373,2024-09-08 21:53:06,CUST0078,REST015,Mumbai Masala,Delhi,Indian,Dal Makhani,1,267.68,26.77,30,270.91,Credit Card,Delivered,49,4.3
+ORD000374,2024-02-13 16:55:48,CUST0192,REST009,Kebab Corner,Delhi,Middle Eastern,Shawarma,2,356.46,0,20,732.92,Wallet,Pending,87,2.9
+ORD000375,2023-05-10 13:33:03,CUST0041,REST012,Noodle Bar,Delhi,Asian,Tom Yum Soup,4,445.33,44.53,0,1736.79,Wallet,Processing,85,3.3
+ORD000376,2023-11-17 06:38:09,CUST0062,REST015,Mumbai Masala,Pune,Indian,Biryani,5,595.56,0,30,3007.8,Wallet,Delivered,70,3.3
+ORD000377,2024-07-18 03:27:39,CUST0035,REST007,Green Bowl,Chennai,Healthy,Smoothie Bowl,4,312.7,31.27,0,1219.53,UPI,Completed,,2.5
+ORD000378,2024-02-02 02:47:28,CUST0010,REST005,Taco Town,Hyderabad,Mexican,Chicken Burrito,3,91.28,0,50,323.84,Cash,Cancelled,88,
+ORD000379,2023-07-19 00:43:52,CUST0056,REST003,Burger Barn,Bangalore,Burgers,Chicken Burger,3,542.61,0,20,1647.83,Net Banking,Completed,26,3.9
+ORD000380,2024-04-07 07:54:49,CUST0021,REST012,Noodle Bar,Pune,Asian,Dumplings,2,333.9,66.78,0,601.02,Credit Card,Cancelled,19,3.9
+ORD000381,2024-12-22 07:20:59,CUST0079,REST006,The Pasta House,Kolkata,Italian,Risotto,1,532.29,0,50,582.29,Wallet,Completed,,3.5
+ORD000382,2024-06-07 05:28:15,CUST0148,REST006,The Pasta House,Bangalore,Italian,Lasagna,5,442.84,0,0,2214.2,Wallet,Completed,65,4.4
+ORD000383,2024-01-05 14:34:25,CUST0103,REST004,Sushi World,Kolkata,Japanese,Ramen,4,156.97,0,0,627.88,Wallet,Pending,21,3.2
+ORD000384,2024-05-21 14:47:31,CUST0064,REST013,Veggie Delight,Bangalore,Vegetarian,Stuffed Peppers,4,370.83,37.08,40,1486.24,Debit Card,Completed,86,4.3
+ORD000385,2023-10-11 17:04:56,CUST0198,REST005,Taco Town,Kolkata,Mexican,Nachos,5,126.59,12.66,40,660.29,UPI,Completed,56,4.1
+ORD000386,2024-06-16 08:01:19,CUST0014,REST006,The Pasta House,Ahmedabad,Italian,Penne Arrabbiata,4,103.34,0,20,433.36,Debit Card,Completed,25,
+ORD000387,2023-12-16 13:45:20,CUST0053,REST014,Sea Breeze,Chennai,Seafood,Grilled Fish,3,440.77,0,30,1352.31,Wallet,Delivered,57,3.8
+ORD000388,2023-07-18 10:03:05,CUST0070,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Falafel Wrap,1,275.84,55.17,0,220.67,Credit Card,Processing,51,4.2
+ORD000389,2023-01-15 19:38:44,CUST0182,REST011,The Grill Station,Mumbai,BBQ,BBQ Ribs,4,423.39,0,0,1693.56,Credit Card,Cancelled,64,3.5
+ORD000390,2024-12-20 12:24:54,CUST0086,REST008,Dragon Wok,Delhi,Chinese,Dim Sum,2,340.34,34.03,50,696.65,Cash,Pending,20,3.8
+ORD000391,2023-07-03 11:10:33,CUST0066,REST012,Noodle Bar,Bangalore,Asian,Pad Thai,3,435.84,0,30,1337.52,Cash,Completed,79,2.7
+ORD000392,2023-03-10 04:37:03,CUST0161,REST009,Kebab Corner,Chennai,Middle Eastern,Falafel Wrap,2,257.73,25.77,20,509.69,Net Banking,Delivered,81,4.0
+ORD000393,2023-12-15 21:07:13,CUST0176,REST007,Green Bowl,Hyderabad,Healthy,Avocado Toast,4,584.68,116.94,30,2251.78,Debit Card,Completed,41,4.0
+ORD000394,2023-09-04 14:33:30,CUST0048,REST005,Taco Town,Bangalore,Mexican,Quesadilla,2,421.24,84.25,20,778.23,UPI,Completed,,4.3
+ORD000395,2024-08-02 03:10:21,CUST0049,REST012,Noodle Bar,Mumbai,Asian,Tom Yum Soup,4,579.82,0,40,2359.28,Credit Card,Completed,50,
+ORD000396,2023-06-30 08:11:46,CUST0123,REST003,Burger Barn,Mumbai,Burgers,Chicken Burger,5,374.86,0,50,1924.3,Debit Card,Processing,18,4.2
+ORD000397,2023-05-31 02:37:27,CUST0070,REST012,Noodle Bar,Pune,Asian,Pho,4,335.55,0,20,1362.2,Cash,Delivered,67,2.5
+ORD000398,2024-01-16 13:11:51,CUST0199,REST012,Noodle Bar,Hyderabad,Asian,Pho,1,172.08,17.21,50,204.87,Credit Card,Pending,73,3.6
+ORD000399,2024-02-21 10:44:07,CUST0011,REST012,Noodle Bar,Pune,Asian,Dumplings,5,568.35,113.67,50,2778.08,Debit Card,Pending,19,3.6
+ORD000400,2023-08-15 03:58:36,CUST0043,REST012,Noodle Bar,Mumbai,Asian,Dumplings,5,477.88,0,20,2409.4,Cash,Delivered,53,3.2
+ORD000401,2024-07-15 07:06:45,CUST0179,REST010,Sweet Tooth,Mumbai,Desserts,Ice Cream Sundae,4,511.54,51.15,0,1995.01,Wallet,Completed,38,4.8
+ORD000402,2024-11-27 10:09:42,CUST0083,REST007,Green Bowl,Kolkata,Healthy,Smoothie Bowl,4,92.95,9.29,50,412.51,Net Banking,Completed,40,2.7
+ORD000403,2024-02-11 20:39:44,CUST0141,REST012,Noodle Bar,Delhi,Asian,Pad Thai,1,447.24,0,0,447.24,Cash,Completed,80,2.9
+ORD000404,2024-11-05 19:57:05,CUST0079,REST013,Veggie Delight,Bangalore,Vegetarian,Tofu Stir-Fry,5,533.08,0,20,2685.4,UPI,Processing,,2.6
+ORD000405,2024-08-17 12:00:43,CUST0002,REST005,Taco Town,Bangalore,Mexican,Beef Taco,2,579.43,0,50,1208.86,Wallet,Processing,73,3.7
+ORD000406,2024-04-11 02:42:50,CUST0161,REST004,Sushi World,Hyderabad,Japanese,Tempura,4,293.28,0,50,1223.12,Wallet,Delivered,,3.2
+ORD000407,2024-10-25 04:31:53,CUST0085,REST001,Spice Garden,Bangalore,Indian,Paneer Tikka,1,419.7,0,20,439.7,Credit Card,Completed,,4.0
+ORD000408,2024-03-20 12:07:14,CUST0093,REST002,Pizza Planet,Kolkata,Pizza,Pepperoni Pizza,2,429.49,85.9,50,823.08,Credit Card,Completed,37,4.4
+ORD000409,2024-10-17 00:25:51,CUST0071,REST013,Veggie Delight,Chennai,Vegetarian,Tofu Stir-Fry,3,546.72,0,40,1680.16,UPI,Pending,52,2.8
+ORD000410,2023-03-10 02:16:56,CUST0067,REST009,Kebab Corner,Hyderabad,Middle Eastern,Falafel Wrap,5,110.26,22.05,50,579.25,Wallet,Cancelled,51,4.6
+ORD000411,2024-09-19 13:50:44,CUST0001,REST015,Mumbai Masala,Bangalore,Indian,Naan,5,338.13,33.81,40,1696.84,Credit Card,Completed,44,4.9
+ORD000412,2023-09-17 06:20:19,CUST0052,REST008,Dragon Wok,Delhi,Chinese,Dim Sum,5,599.47,59.95,0,2937.4,Net Banking,Delivered,42,
+ORD000413,2023-03-30 10:04:15,CUST0008,REST005,Taco Town,Delhi,Mexican,Nachos,3,343.48,0,0,1030.44,Debit Card,Delivered,58,3.9
+ORD000414,2023-05-01 16:36:37,CUST0106,REST006,The Pasta House,Pune,Italian,Risotto,4,494.57,0,40,2018.28,Net Banking,Completed,83,3.7
+ORD000415,2024-06-16 10:31:16,CUST0039,REST014,Sea Breeze,Chennai,Seafood,Fish and Chips,5,358.66,0,50,1843.3,UPI,Completed,60,
+ORD000416,2023-04-01 18:08:30,CUST0009,REST006,The Pasta House,Kolkata,Italian,Penne Arrabbiata,5,394.96,0,50,2024.8,UPI,Pending,54,3.3
+ORD000417,2024-02-12 20:34:52,CUST0052,REST002,Pizza Planet,Ahmedabad,Pizza,Pepperoni Pizza,3,314.99,0,20,964.97,Credit Card,Processing,29,2.6
+ORD000418,2024-07-22 21:41:27,CUST0026,REST009,Kebab Corner,Mumbai,Middle Eastern,Lamb Kebab,5,160.12,0,40,840.6,Wallet,Completed,54,2.9
+ORD000419,2023-01-04 04:36:48,CUST0023,REST004,Sushi World,Mumbai,Japanese,Tempura,4,451.11,90.22,0,1714.22,UPI,Processing,20,4.0
+ORD000420,2024-03-24 14:29:44,CUST0071,REST015,Mumbai Masala,Mumbai,Indian,Butter Chicken,5,478.41,0,0,2392.05,Wallet,Cancelled,41,3.0
+ORD000421,2023-01-12 20:24:20,CUST0090,REST013,Veggie Delight,Ahmedabad,Vegetarian,Veggie Wrap,3,157.65,0,0,472.95,Wallet,Cancelled,86,3.0
+ORD000422,2024-04-21 08:02:55,CUST0121,REST005,Taco Town,Bangalore,Mexican,Nachos,5,207.31,0,30,1066.55,Net Banking,Completed,84,2.8
+ORD000423,2024-11-23 06:35:12,CUST0051,REST002,Pizza Planet,Kolkata,Pizza,Margherita Pizza,1,301.76,0,50,351.76,Net Banking,Completed,72,3.3
+ORD000424,2023-12-20 20:42:16,CUST0037,REST015,Mumbai Masala,Ahmedabad,Indian,Naan,2,128.32,12.83,0,243.81,Wallet,Delivered,74,4.9
+ORD000425,2023-12-19 01:48:31,CUST0119,REST015,Mumbai Masala,Pune,Indian,Dal Makhani,2,443.8,0,30,917.6,Debit Card,Delivered,23,3.4
+ORD000426,2024-03-07 23:23:05,CUST0106,REST013,Veggie Delight,Pune,Vegetarian,Stuffed Peppers,5,133.52,0,30,697.6,Debit Card,Delivered,53,3.5
+ORD000427,2023-12-01 21:11:25,CUST0178,REST009,Kebab Corner,Bangalore,Middle Eastern,Lamb Kebab,4,114.35,0,50,507.4,Debit Card,Completed,70,3.4
+ORD000428,2024-03-07 03:35:05,CUST0104,REST011,The Grill Station,Delhi,BBQ,Corn on the Cob,1,387.92,38.79,30,379.13,Credit Card,Completed,,3.3
+ORD000429,2023-06-19 00:34:38,CUST0001,REST011,The Grill Station,Kolkata,BBQ,Pulled Pork Sandwich,4,415.39,0,0,1661.56,Debit Card,Completed,89,4.1
+ORD000430,2024-06-13 08:23:37,CUST0078,REST008,Dragon Wok,Chennai,Chinese,Kung Pao Chicken,5,380.52,0,20,1922.6,Cash,Cancelled,53,4.8
+ORD000431,2024-11-30 21:16:06,CUST0144,REST002,Pizza Planet,Mumbai,Pizza,Veggie Supreme,2,523.3,0,30,1076.6,UPI,Completed,21,
+ORD000432,2024-04-30 14:50:21,CUST0055,REST014,Sea Breeze,Chennai,Seafood,Grilled Fish,2,304.49,60.9,40,588.08,Net Banking,Completed,63,3.6
+ORD000433,2023-04-30 19:45:02,CUST0019,REST008,Dragon Wok,Bangalore,Chinese,Dim Sum,5,279.99,0,40,1439.95,Net Banking,Completed,31,
+ORD000434,2024-11-25 01:35:04,CUST0109,REST003,Burger Barn,Ahmedabad,Burgers,Vegan Burger,2,124.02,12.4,40,275.64,Wallet,Processing,69,3.6
+ORD000435,2024-01-22 22:19:07,CUST0140,REST007,Green Bowl,Pune,Healthy,Avocado Toast,2,300.88,0,50,651.76,Wallet,Cancelled,45,3.2
+ORD000436,2024-01-10 00:25:26,CUST0188,REST001,Spice Garden,Mumbai,Indian,Naan,4,446.54,0,50,1836.16,Wallet,Delivered,25,
+ORD000437,2024-09-11 21:37:46,CUST0003,REST008,Dragon Wok,Delhi,Chinese,Fried Rice,2,325.67,0,50,701.34,Cash,Processing,21,3.8
+ORD000438,2023-05-11 02:34:42,CUST0187,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Hummus Platter,4,263.52,0,30,1084.08,Wallet,Delivered,,4.4
+ORD000439,2023-01-22 04:52:23,CUST0020,REST001,Spice Garden,Ahmedabad,Indian,Naan,2,377.89,0,50,805.78,UPI,Delivered,25,
+ORD000440,2023-05-16 15:02:16,CUST0045,REST003,Burger Barn,Chennai,Burgers,Chicken Burger,3,87.39,0,50,312.17,UPI,Delivered,34,3.4
+ORD000441,2024-12-26 09:56:16,CUST0099,REST008,Dragon Wok,Bangalore,Chinese,Fried Rice,3,591.72,0,50,1825.16,Debit Card,Processing,78,3.5
+ORD000442,2024-05-13 20:36:52,CUST0119,REST012,Noodle Bar,Bangalore,Asian,Pho,5,461.87,0,0,2309.35,Cash,Processing,29,
+ORD000443,2023-07-23 23:41:15,CUST0115,REST005,Taco Town,Ahmedabad,Mexican,Chicken Burrito,4,435.43,43.54,40,1738.18,Cash,Cancelled,,2.5
+ORD000444,2024-12-14 01:32:36,CUST0026,REST009,Kebab Corner,Mumbai,Middle Eastern,Shawarma,5,411.46,41.15,50,2066.15,UPI,Pending,49,3.2
+ORD000445,2024-03-01 08:14:16,CUST0018,REST008,Dragon Wok,Hyderabad,Chinese,Dim Sum,5,255.45,0,30,1307.25,Credit Card,Pending,,
+ORD000446,2023-05-30 23:15:48,CUST0153,REST002,Pizza Planet,Delhi,Pizza,Veggie Supreme,3,194.1,0,30,612.3,Net Banking,Delivered,,2.6
+ORD000447,2024-05-24 20:04:57,CUST0029,REST010,Sweet Tooth,Delhi,Desserts,Chocolate Cake,1,525.35,0,40,565.35,Net Banking,Completed,87,3.0
+ORD000448,2024-06-21 15:56:37,CUST0071,REST005,Taco Town,Chennai,Mexican,Quesadilla,1,412.17,0,40,452.17,Credit Card,Pending,56,4.5
+ORD000449,2023-12-09 04:54:36,CUST0101,REST007,Green Bowl,Pune,Healthy,Quinoa Bowl,3,576.91,0,20,1750.73,Debit Card,Processing,,3.0
+ORD000450,2024-07-09 16:01:42,CUST0147,REST002,Pizza Planet,Bangalore,Pizza,Veggie Supreme,2,399.26,0,40,838.52,Net Banking,Delivered,19,
+ORD000451,2024-05-31 05:09:02,CUST0148,REST013,Veggie Delight,Ahmedabad,Vegetarian,Veggie Wrap,4,157.4,0,0,629.6,Credit Card,Processing,34,4.8
+ORD000452,2024-06-19 08:45:43,CUST0138,REST008,Dragon Wok,Kolkata,Chinese,Kung Pao Chicken,1,360.87,0,40,400.87,UPI,Cancelled,76,
+ORD000453,2024-02-20 06:09:23,CUST0118,REST011,The Grill Station,Chennai,BBQ,Corn on the Cob,1,408.78,0,30,438.78,UPI,Delivered,58,
+ORD000454,2024-05-04 19:33:14,CUST0162,REST003,Burger Barn,Mumbai,Burgers,Vegan Burger,2,235.41,23.54,0,447.28,Cash,Delivered,77,
+ORD000455,2024-01-15 23:57:20,CUST0116,REST003,Burger Barn,Mumbai,Burgers,Cheese Burger,1,454.26,90.85,20,383.41,Credit Card,Completed,84,3.7
+ORD000456,2023-12-23 00:38:34,CUST0149,REST006,The Pasta House,Mumbai,Italian,Lasagna,1,290.86,0,50,340.86,Debit Card,Completed,83,
+ORD000457,2023-07-08 11:55:50,CUST0162,REST001,Spice Garden,Bangalore,Indian,Dal Makhani,1,325.03,65.01,0,260.02,Credit Card,Delivered,31,
+ORD000458,2024-09-27 04:54:00,CUST0057,REST014,Sea Breeze,Delhi,Seafood,Crab Cake,5,168.76,33.75,0,810.05,Credit Card,Delivered,29,4.5
+ORD000459,2023-04-17 16:00:20,CUST0086,REST007,Green Bowl,Pune,Healthy,Protein Salad,3,142.82,28.56,50,449.9,Credit Card,Completed,42,4.0
+ORD000460,2023-12-07 17:14:15,CUST0026,REST005,Taco Town,Bangalore,Mexican,Quesadilla,2,442.07,88.41,20,815.73,Net Banking,Pending,89,
+ORD000461,2024-12-20 08:26:39,CUST0107,REST013,Veggie Delight,Bangalore,Vegetarian,Veggie Wrap,4,121.98,0,20,507.92,Net Banking,Processing,,4.7
+ORD000462,2023-11-17 00:49:14,CUST0047,REST012,Noodle Bar,Bangalore,Asian,Pho,2,412.71,82.54,40,782.88,Net Banking,Processing,37,2.6
+ORD000463,2023-05-30 01:19:43,CUST0093,REST010,Sweet Tooth,Delhi,Desserts,Brownie,3,297.77,59.55,20,853.76,Wallet,Delivered,,2.7
+ORD000464,2024-01-22 10:20:55,CUST0094,REST008,Dragon Wok,Hyderabad,Chinese,Spring Rolls,1,180.73,0,40,220.73,UPI,Delivered,20,
+ORD000465,2023-03-23 02:33:01,CUST0008,REST007,Green Bowl,Chennai,Healthy,Smoothie Bowl,5,498.68,49.87,0,2443.53,Cash,Completed,83,
+ORD000466,2024-08-03 06:42:23,CUST0059,REST002,Pizza Planet,Hyderabad,Pizza,Veggie Supreme,5,381.48,38.15,20,1889.25,Credit Card,Delivered,56,2.8
+ORD000467,2024-03-30 10:54:36,CUST0157,REST012,Noodle Bar,Kolkata,Asian,Pho,4,543.51,0,40,2214.04,Cash,Completed,70,
+ORD000468,2023-06-07 01:29:03,CUST0035,REST007,Green Bowl,Pune,Healthy,Avocado Toast,4,454.31,0,30,1847.24,Credit Card,Processing,19,2.6
+ORD000469,2023-05-02 18:44:32,CUST0059,REST008,Dragon Wok,Kolkata,Chinese,Dim Sum,3,194.32,0,50,632.96,Credit Card,Pending,36,3.9
+ORD000470,2023-01-12 06:22:17,CUST0057,REST014,Sea Breeze,Ahmedabad,Seafood,Prawn Curry,5,326.21,32.62,30,1628.43,Wallet,Completed,46,3.6
+ORD000471,2023-01-27 02:43:57,CUST0026,REST015,Mumbai Masala,Mumbai,Indian,Dal Makhani,1,100.83,10.08,50,140.75,Cash,Processing,65,4.5
+ORD000472,2023-08-18 17:55:59,CUST0172,REST004,Sushi World,Delhi,Japanese,California Roll,4,573.97,0,30,2325.88,UPI,Completed,26,
+ORD000473,2023-05-24 15:38:18,CUST0001,REST012,Noodle Bar,Ahmedabad,Asian,Pad Thai,4,321.16,0,40,1324.64,Net Banking,Completed,62,4.3
+ORD000474,2024-02-26 07:43:23,CUST0086,REST007,Green Bowl,Pune,Healthy,Quinoa Bowl,3,301.47,0,50,954.41,Net Banking,Completed,41,2.7
+ORD000475,2023-02-01 17:57:10,CUST0144,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,1,279.14,27.91,50,301.23,Net Banking,Delivered,37,4.3
+ORD000476,2024-11-07 15:03:57,CUST0083,REST003,Burger Barn,Pune,Burgers,Cheese Burger,5,139.05,13.91,50,731.34,UPI,Delivered,41,4.4
+ORD000477,2024-01-13 15:55:35,CUST0137,REST009,Kebab Corner,Kolkata,Middle Eastern,Hummus Platter,1,112.95,0,40,152.95,UPI,Processing,30,3.8
+ORD000478,2023-03-04 06:29:04,CUST0028,REST010,Sweet Tooth,Pune,Desserts,Chocolate Cake,2,543.79,54.38,0,1033.2,Debit Card,Delivered,37,4.9
+ORD000479,2023-08-16 17:04:28,CUST0108,REST002,Pizza Planet,Bangalore,Pizza,Veggie Supreme,2,535.0,107.0,0,963.0,Cash,Completed,84,3.7
+ORD000480,2024-05-15 17:33:27,CUST0084,REST005,Taco Town,Hyderabad,Mexican,Beef Taco,1,533.33,0,50,583.33,Cash,Processing,89,4.1
+ORD000481,2024-01-12 02:56:45,CUST0091,REST008,Dragon Wok,Chennai,Chinese,Dim Sum,3,169.3,0,20,527.9,UPI,Processing,51,2.6
+ORD000482,2023-07-04 18:52:36,CUST0113,REST003,Burger Barn,Bangalore,Burgers,Chicken Burger,2,586.07,0,20,1192.14,UPI,Cancelled,,3.9
+ORD000483,2023-12-15 07:19:27,CUST0007,REST003,Burger Barn,Hyderabad,Burgers,Classic Burger,3,588.57,0,30,1795.71,Cash,Processing,35,2.8
+ORD000484,2023-09-15 07:31:07,CUST0194,REST013,Veggie Delight,Bangalore,Vegetarian,Mushroom Burger,3,161.15,32.23,50,501.22,Wallet,Completed,52,3.2
+ORD000485,2024-06-10 14:59:29,CUST0159,REST013,Veggie Delight,Ahmedabad,Vegetarian,Tofu Stir-Fry,1,460.45,0,20,480.45,Debit Card,Processing,54,
+ORD000486,2024-02-13 21:26:17,CUST0022,REST006,The Pasta House,Delhi,Italian,Lasagna,1,396.24,0,50,446.24,Wallet,Processing,50,
+ORD000487,2024-02-02 08:05:31,CUST0110,REST011,The Grill Station,Delhi,BBQ,Corn on the Cob,2,335.04,67.01,50,653.07,UPI,Pending,61,4.3
+ORD000488,2023-03-10 00:57:24,CUST0114,REST006,The Pasta House,Mumbai,Italian,Lasagna,3,262.7,26.27,50,811.83,UPI,Completed,71,3.5
+ORD000489,2023-04-22 13:37:49,CUST0086,REST013,Veggie Delight,Kolkata,Vegetarian,Mushroom Burger,2,514.47,102.89,0,926.05,Credit Card,Pending,75,3.8
+ORD000490,2024-07-05 15:57:49,CUST0098,REST002,Pizza Planet,Mumbai,Pizza,Veggie Supreme,3,295.55,59.11,40,867.54,UPI,Processing,32,
+ORD000491,2023-01-21 20:20:02,CUST0163,REST001,Spice Garden,Chennai,Indian,Naan,3,336.93,33.69,20,997.1,Cash,Completed,34,4.9
+ORD000492,2023-04-03 16:55:55,CUST0191,REST011,The Grill Station,Chennai,BBQ,Corn on the Cob,2,335.78,0,0,671.56,UPI,Processing,78,2.7
+ORD000493,2024-02-03 02:10:28,CUST0015,REST010,Sweet Tooth,Kolkata,Desserts,Brownie,4,586.61,0,30,2376.44,Debit Card,Cancelled,17,2.9
+ORD000494,2024-05-09 04:30:22,CUST0075,REST008,Dragon Wok,Bangalore,Chinese,Spring Rolls,2,107.5,0,40,255.0,Wallet,Completed,60,
+ORD000495,2023-09-08 13:49:39,CUST0093,REST009,Kebab Corner,Hyderabad,Middle Eastern,Falafel Wrap,1,391.36,0,50,441.36,Credit Card,Cancelled,53,4.2
+ORD000496,2023-11-17 00:08:03,CUST0040,REST014,Sea Breeze,Bangalore,Seafood,Grilled Fish,2,349.45,0,40,738.9,Wallet,Delivered,35,
+ORD000497,2024-09-28 00:22:20,CUST0090,REST014,Sea Breeze,Hyderabad,Seafood,Grilled Fish,4,319.46,0,0,1277.84,UPI,Cancelled,,
+ORD000498,2023-06-22 17:03:02,CUST0079,REST003,Burger Barn,Ahmedabad,Burgers,Chicken Burger,2,449.15,0,0,898.3,Debit Card,Delivered,,4.2
+ORD000499,2023-02-03 00:34:23,CUST0016,REST003,Burger Barn,Delhi,Burgers,Vegan Burger,1,120.42,12.04,40,148.38,Cash,Completed,19,3.8
+ORD000500,2024-08-30 16:26:56,CUST0052,REST015,Mumbai Masala,Chennai,Indian,Butter Chicken,1,236.86,0,0,236.86,Debit Card,Cancelled,,4.0
+ORD000501,2023-05-05 17:00:20,CUST0149,REST001,Spice Garden,Delhi,Indian,Paneer Tikka,3,573.37,0,30,1750.11,Credit Card,Delivered,45,2.7
+ORD000502,2024-07-17 09:29:31,CUST0182,REST012,Noodle Bar,Hyderabad,Asian,Tom Yum Soup,2,548.86,109.77,0,987.95,Cash,Cancelled,,3.8
+ORD000503,2023-11-26 09:38:42,CUST0081,REST012,Noodle Bar,Bangalore,Asian,Dumplings,1,174.04,0,40,214.04,Credit Card,Processing,44,4.4
+ORD000504,2023-03-05 21:12:46,CUST0189,REST002,Pizza Planet,Bangalore,Pizza,Veggie Supreme,3,446.46,89.29,0,1250.09,UPI,Processing,29,3.6
+ORD000505,2024-12-30 09:45:26,CUST0173,REST004,Sushi World,Kolkata,Japanese,Ramen,4,178.17,0,40,752.68,Cash,Completed,37,
+ORD000506,2023-03-21 00:14:18,CUST0051,REST007,Green Bowl,Ahmedabad,Healthy,Quinoa Bowl,1,154.55,15.46,50,189.09,UPI,Delivered,36,
+ORD000507,2024-08-17 01:13:20,CUST0165,REST010,Sweet Tooth,Kolkata,Desserts,Chocolate Cake,2,515.82,51.58,30,1010.06,Cash,Cancelled,89,4.4
+ORD000508,2023-04-05 21:47:16,CUST0008,REST008,Dragon Wok,Kolkata,Chinese,Kung Pao Chicken,5,225.02,22.5,0,1102.6,Credit Card,Completed,78,4.9
+ORD000509,2024-06-11 13:17:13,CUST0020,REST014,Sea Breeze,Delhi,Seafood,Crab Cake,1,585.48,58.55,50,576.93,Net Banking,Processing,53,2.7
+ORD000510,2023-07-23 05:47:39,CUST0009,REST013,Veggie Delight,Ahmedabad,Vegetarian,Stuffed Peppers,3,424.29,42.43,50,1280.44,Cash,Completed,84,4.9
+ORD000511,2023-05-18 09:04:49,CUST0111,REST007,Green Bowl,Ahmedabad,Healthy,Smoothie Bowl,4,310.13,0,0,1240.52,Debit Card,Delivered,53,2.9
+ORD000512,2024-06-16 08:18:01,CUST0130,REST012,Noodle Bar,Kolkata,Asian,Dumplings,1,375.8,37.58,50,388.22,Credit Card,Pending,75,4.6
+ORD000513,2023-02-17 17:01:33,CUST0094,REST005,Taco Town,Ahmedabad,Mexican,Quesadilla,5,431.77,0,30,2188.85,UPI,Completed,,
+ORD000514,2023-09-30 20:08:01,CUST0080,REST013,Veggie Delight,Pune,Vegetarian,Mushroom Burger,1,302.64,0,40,342.64,Wallet,Completed,,3.1
+ORD000515,2023-09-11 07:15:30,CUST0132,REST015,Mumbai Masala,Delhi,Indian,Biryani,1,255.55,0,50,305.55,Cash,Delivered,,3.6
+ORD000516,2023-10-31 03:44:02,CUST0173,REST001,Spice Garden,Ahmedabad,Indian,Naan,1,592.6,59.26,50,583.34,Debit Card,Cancelled,27,2.8
+ORD000517,2024-01-21 23:51:04,CUST0074,REST008,Dragon Wok,Pune,Chinese,Dim Sum,5,235.75,23.58,20,1175.17,UPI,Completed,24,3.8
+ORD000518,2023-03-15 13:57:45,CUST0136,REST005,Taco Town,Kolkata,Mexican,Chicken Burrito,5,466.3,0,50,2381.5,Cash,Pending,49,
+ORD000519,2024-05-30 07:43:45,CUST0132,REST004,Sushi World,Pune,Japanese,California Roll,3,342.41,0,40,1067.23,Cash,Completed,40,3.1
+ORD000520,2023-07-28 02:41:17,CUST0112,REST015,Mumbai Masala,Mumbai,Indian,Naan,2,379.96,0,40,799.92,Wallet,Completed,83,4.6
+ORD000521,2024-10-17 15:34:28,CUST0163,REST009,Kebab Corner,Hyderabad,Middle Eastern,Hummus Platter,4,156.83,0,30,657.32,Debit Card,Pending,55,4.8
+ORD000522,2023-07-05 05:39:11,CUST0063,REST005,Taco Town,Chennai,Mexican,Chicken Burrito,3,437.16,0,40,1351.48,UPI,Processing,,
+ORD000523,2023-01-23 15:14:37,CUST0011,REST008,Dragon Wok,Kolkata,Chinese,Kung Pao Chicken,1,185.04,0,20,205.04,Net Banking,Processing,50,2.9
+ORD000524,2024-11-30 11:55:57,CUST0102,REST013,Veggie Delight,Mumbai,Vegetarian,Veggie Wrap,1,243.23,0,0,243.23,Net Banking,Completed,61,4.7
+ORD000525,2023-07-15 14:02:32,CUST0081,REST004,Sushi World,Delhi,Japanese,California Roll,5,425.39,85.08,50,2091.87,UPI,Pending,26,2.8
+ORD000526,2023-08-02 05:55:59,CUST0137,REST013,Veggie Delight,Hyderabad,Vegetarian,Mushroom Burger,2,155.02,0,20,330.04,UPI,Completed,47,2.6
+ORD000527,2024-01-05 02:46:33,CUST0156,REST006,The Pasta House,Kolkata,Italian,Risotto,2,580.92,0,30,1191.84,Credit Card,Completed,54,
+ORD000528,2024-02-20 11:27:28,CUST0101,REST012,Noodle Bar,Hyderabad,Asian,Tom Yum Soup,5,280.04,0,0,1400.2,UPI,Delivered,71,4.8
+ORD000529,2024-05-05 09:16:02,CUST0021,REST002,Pizza Planet,Hyderabad,Pizza,BBQ Chicken Pizza,2,526.9,0,40,1093.8,Cash,Processing,67,3.2
+ORD000530,2024-06-26 12:39:06,CUST0141,REST012,Noodle Bar,Kolkata,Asian,Tom Yum Soup,4,535.92,0,20,2163.68,Net Banking,Cancelled,23,4.0
+ORD000531,2023-11-08 04:52:41,CUST0041,REST008,Dragon Wok,Mumbai,Chinese,Fried Rice,2,407.68,0,0,815.36,Debit Card,Completed,54,2.7
+ORD000532,2023-05-15 17:53:00,CUST0107,REST014,Sea Breeze,Kolkata,Seafood,Fish and Chips,4,328.75,0,30,1345.0,UPI,Completed,56,3.0
+ORD000533,2024-05-01 17:10:50,CUST0180,REST007,Green Bowl,Kolkata,Healthy,Avocado Toast,1,573.02,114.6,50,508.42,Debit Card,Completed,26,3.0
+ORD000534,2024-03-16 14:10:26,CUST0117,REST007,Green Bowl,Kolkata,Healthy,Smoothie Bowl,2,126.31,0,20,272.62,Net Banking,Processing,,3.6
+ORD000535,2024-08-02 18:42:23,CUST0056,REST002,Pizza Planet,Hyderabad,Pizza,Pepperoni Pizza,2,571.95,0,30,1173.9,UPI,Delivered,31,3.0
+ORD000536,2024-04-24 18:23:39,CUST0118,REST007,Green Bowl,Bangalore,Healthy,Protein Salad,2,94.96,0,20,209.92,Credit Card,Completed,46,4.2
+ORD000537,2024-07-25 17:58:30,CUST0016,REST008,Dragon Wok,Bangalore,Chinese,Spring Rolls,4,437.16,43.72,40,1744.92,Credit Card,Cancelled,24,
+ORD000538,2023-01-05 03:56:09,CUST0095,REST015,Mumbai Masala,Hyderabad,Indian,Dal Makhani,3,598.3,119.66,0,1675.24,Debit Card,Completed,63,3.5
+ORD000539,2023-04-13 11:09:30,CUST0067,REST010,Sweet Tooth,Bangalore,Desserts,Brownie,2,341.95,0,40,723.9,Credit Card,Cancelled,,3.6
+ORD000540,2024-12-02 05:16:30,CUST0043,REST001,Spice Garden,Bangalore,Indian,Dal Makhani,3,468.87,46.89,30,1389.72,UPI,Processing,48,3.6
+ORD000541,2023-05-23 06:00:06,CUST0112,REST013,Veggie Delight,Bangalore,Vegetarian,Mushroom Burger,1,178.24,0,20,198.24,Credit Card,Processing,,4.3
+ORD000542,2024-10-18 23:34:10,CUST0024,REST001,Spice Garden,Ahmedabad,Indian,Biryani,5,332.3,33.23,0,1628.27,Debit Card,Delivered,33,
+ORD000543,2024-03-29 06:06:42,CUST0107,REST003,Burger Barn,Bangalore,Burgers,Chicken Burger,5,543.27,108.65,20,2627.7,Credit Card,Delivered,15,3.9
+ORD000544,2023-10-18 03:37:53,CUST0021,REST013,Veggie Delight,Ahmedabad,Vegetarian,Veggie Wrap,3,93.5,0,40,320.5,Cash,Processing,28,2.9
+ORD000545,2023-09-10 08:51:47,CUST0013,REST008,Dragon Wok,Chennai,Chinese,Fried Rice,3,584.28,116.86,40,1675.98,Net Banking,Delivered,87,
+ORD000546,2023-11-06 19:15:40,CUST0023,REST006,The Pasta House,Mumbai,Italian,Spaghetti Carbonara,5,574.99,57.5,0,2817.45,Credit Card,Delivered,45,4.7
+ORD000547,2023-08-20 21:18:47,CUST0176,REST003,Burger Barn,Kolkata,Burgers,Vegan Burger,3,416.53,0,0,1249.59,Wallet,Completed,70,4.8
+ORD000548,2024-01-06 01:28:46,CUST0109,REST006,The Pasta House,Delhi,Italian,Lasagna,5,183.93,18.39,40,941.26,UPI,Completed,69,
+ORD000549,2024-05-18 00:20:12,CUST0166,REST007,Green Bowl,Kolkata,Healthy,Quinoa Bowl,1,346.94,34.69,20,332.25,Wallet,Completed,34,3.8
+ORD000550,2023-04-26 10:13:35,CUST0076,REST005,Taco Town,Ahmedabad,Mexican,Quesadilla,1,551.75,55.18,30,526.57,Wallet,Completed,53,3.8
+ORD000551,2023-03-15 09:18:58,CUST0150,REST009,Kebab Corner,Delhi,Middle Eastern,Shawarma,5,135.97,13.6,40,706.25,Credit Card,Completed,87,3.4
+ORD000552,2023-11-20 07:29:29,CUST0194,REST002,Pizza Planet,Ahmedabad,Pizza,Pepperoni Pizza,2,518.31,0,0,1036.62,Net Banking,Processing,53,4.3
+ORD000553,2023-07-21 10:01:54,CUST0102,REST010,Sweet Tooth,Chennai,Desserts,Brownie,2,189.76,0,50,429.52,Credit Card,Completed,28,2.5
+ORD000554,2023-08-24 04:36:02,CUST0173,REST003,Burger Barn,Ahmedabad,Burgers,Vegan Burger,4,531.77,106.35,40,2060.73,Cash,Delivered,61,4.9
+ORD000555,2024-10-29 05:08:41,CUST0062,REST002,Pizza Planet,Bangalore,Pizza,Pepperoni Pizza,1,179.22,0,20,199.22,Cash,Delivered,,2.9
+ORD000556,2023-05-10 00:25:50,CUST0116,REST002,Pizza Planet,Chennai,Pizza,Veggie Supreme,2,326.47,0,0,652.94,Wallet,Delivered,71,3.7
+ORD000557,2023-11-19 20:56:48,CUST0075,REST004,Sushi World,Chennai,Japanese,Tempura,1,253.6,0,40,293.6,Credit Card,Processing,89,3.9
+ORD000558,2023-11-24 18:44:05,CUST0166,REST007,Green Bowl,Ahmedabad,Healthy,Protein Salad,2,451.43,90.29,0,812.57,Cash,Processing,85,
+ORD000559,2023-08-12 16:54:36,CUST0057,REST002,Pizza Planet,Ahmedabad,Pizza,BBQ Chicken Pizza,4,442.71,0,20,1790.84,Wallet,Cancelled,75,3.1
+ORD000560,2024-10-09 01:45:02,CUST0042,REST015,Mumbai Masala,Ahmedabad,Indian,Paneer Tikka,3,455.96,45.6,40,1362.28,Wallet,Delivered,61,4.5
+ORD000561,2024-01-18 07:00:25,CUST0078,REST005,Taco Town,Delhi,Mexican,Quesadilla,2,170.11,0,50,390.22,Debit Card,Delivered,,5.0
+ORD000562,2023-05-16 16:55:11,CUST0017,REST009,Kebab Corner,Mumbai,Middle Eastern,Shawarma,3,538.07,0,20,1634.21,UPI,Pending,79,
+ORD000563,2024-09-01 15:19:54,CUST0039,REST002,Pizza Planet,Hyderabad,Pizza,Margherita Pizza,5,196.53,0,30,1012.65,Net Banking,Completed,20,3.9
+ORD000564,2024-08-30 03:03:24,CUST0027,REST012,Noodle Bar,Mumbai,Asian,Dumplings,4,580.58,0,0,2322.32,Debit Card,Completed,28,2.6
+ORD000565,2024-01-23 02:40:53,CUST0094,REST014,Sea Breeze,Hyderabad,Seafood,Fish and Chips,2,458.74,45.87,50,921.61,UPI,Completed,27,
+ORD000566,2024-10-10 10:02:56,CUST0069,REST002,Pizza Planet,Hyderabad,Pizza,Veggie Supreme,4,479.99,0,20,1939.96,UPI,Pending,58,2.9
+ORD000567,2024-09-14 18:03:05,CUST0133,REST006,The Pasta House,Hyderabad,Italian,Penne Arrabbiata,5,299.3,0,20,1516.5,Net Banking,Cancelled,67,4.9
+ORD000568,2023-03-07 20:22:49,CUST0016,REST001,Spice Garden,Ahmedabad,Indian,Paneer Tikka,1,453.17,90.63,0,362.54,Cash,Completed,66,2.9
+ORD000569,2024-11-19 00:11:20,CUST0081,REST011,The Grill Station,Bangalore,BBQ,BBQ Ribs,5,585.78,58.58,40,2910.32,UPI,Completed,85,4.3
+ORD000570,2024-04-29 22:54:28,CUST0167,REST014,Sea Breeze,Chennai,Seafood,Prawn Curry,4,312.02,0,50,1298.08,Cash,Delivered,71,4.7
+ORD000571,2024-02-09 06:15:30,CUST0080,REST015,Mumbai Masala,Chennai,Indian,Butter Chicken,1,359.47,35.95,20,343.52,Wallet,Cancelled,51,3.8
+ORD000572,2023-07-20 22:20:04,CUST0029,REST013,Veggie Delight,Bangalore,Vegetarian,Veggie Wrap,1,542.97,108.59,50,484.38,Net Banking,Completed,53,5.0
+ORD000573,2023-12-15 13:03:42,CUST0191,REST014,Sea Breeze,Pune,Seafood,Fish and Chips,5,264.33,0,0,1321.65,Wallet,Delivered,15,5.0
+ORD000574,2024-07-26 20:13:34,CUST0200,REST006,The Pasta House,Chennai,Italian,Lasagna,5,429.67,42.97,50,2155.38,UPI,Processing,56,3.0
+ORD000575,2024-11-21 03:00:49,CUST0174,REST002,Pizza Planet,Bangalore,Pizza,Veggie Supreme,4,122.61,0,40,530.44,Wallet,Pending,,2.7
+ORD000576,2024-06-19 04:13:25,CUST0042,REST010,Sweet Tooth,Kolkata,Desserts,Brownie,5,339.39,33.94,40,1703.01,Debit Card,Completed,77,3.5
+ORD000577,2023-12-20 17:52:29,CUST0031,REST008,Dragon Wok,Ahmedabad,Chinese,Dim Sum,5,528.9,0,20,2664.5,Wallet,Pending,35,3.4
+ORD000578,2023-04-02 10:52:26,CUST0037,REST002,Pizza Planet,Delhi,Pizza,BBQ Chicken Pizza,5,230.59,46.12,20,1126.83,Debit Card,Pending,62,3.7
+ORD000579,2023-04-06 00:21:26,CUST0147,REST001,Spice Garden,Chennai,Indian,Biryani,2,175.2,17.52,0,332.88,UPI,Processing,23,3.5
+ORD000580,2024-08-14 19:48:01,CUST0171,REST015,Mumbai Masala,Pune,Indian,Dal Makhani,4,513.92,102.78,20,1972.9,Cash,Completed,,4.4
+ORD000581,2023-06-30 20:07:18,CUST0114,REST014,Sea Breeze,Pune,Seafood,Grilled Fish,5,425.54,42.55,40,2125.15,Net Banking,Delivered,58,4.9
+ORD000582,2024-05-16 02:38:53,CUST0159,REST011,The Grill Station,Delhi,BBQ,Grilled Chicken,1,377.44,0,50,427.44,Wallet,Completed,,3.0
+ORD000583,2023-05-20 14:39:35,CUST0181,REST010,Sweet Tooth,Hyderabad,Desserts,Cheesecake,5,546.37,0,50,2781.85,Wallet,Processing,50,3.1
+ORD000584,2023-12-06 10:35:42,CUST0066,REST002,Pizza Planet,Pune,Pizza,Veggie Supreme,5,103.39,0,30,546.95,Credit Card,Completed,18,3.3
+ORD000585,2023-08-27 07:03:31,CUST0084,REST002,Pizza Planet,Bangalore,Pizza,BBQ Chicken Pizza,2,174.99,0,20,369.98,Debit Card,Completed,36,
+ORD000586,2024-11-24 14:55:55,CUST0014,REST012,Noodle Bar,Mumbai,Asian,Tom Yum Soup,4,131.35,0,40,565.4,Debit Card,Delivered,63,4.7
+ORD000587,2023-07-29 03:53:00,CUST0124,REST013,Veggie Delight,Hyderabad,Vegetarian,Mushroom Burger,5,471.24,47.12,0,2309.08,Credit Card,Pending,,3.5
+ORD000588,2023-07-11 07:39:53,CUST0022,REST011,The Grill Station,Hyderabad,BBQ,BBQ Ribs,3,368.12,73.62,0,1030.74,Net Banking,Delivered,31,3.5
+ORD000589,2023-11-26 03:19:05,CUST0119,REST013,Veggie Delight,Bangalore,Vegetarian,Tofu Stir-Fry,5,592.36,0,50,3011.8,Wallet,Delivered,86,2.5
+ORD000590,2024-04-09 09:03:45,CUST0055,REST011,The Grill Station,Bangalore,BBQ,BBQ Ribs,1,565.42,56.54,30,538.88,Wallet,Delivered,63,4.6
+ORD000591,2024-06-26 11:39:57,CUST0143,REST001,Spice Garden,Bangalore,Indian,Naan,5,116.37,0,40,621.85,UPI,Pending,,
+ORD000592,2023-07-11 00:26:07,CUST0154,REST004,Sushi World,Pune,Japanese,Ramen,3,589.41,58.94,30,1739.29,UPI,Completed,56,3.6
+ORD000593,2023-11-17 21:55:01,CUST0167,REST015,Mumbai Masala,Bangalore,Indian,Butter Chicken,5,327.8,0,20,1659.0,Net Banking,Completed,77,3.8
+ORD000594,2023-10-06 00:57:54,CUST0095,REST009,Kebab Corner,Mumbai,Middle Eastern,Lamb Kebab,1,263.56,26.36,50,287.2,Debit Card,Processing,16,
+ORD000595,2023-03-11 21:05:50,CUST0127,REST001,Spice Garden,Hyderabad,Indian,Butter Chicken,3,433.89,0,20,1321.67,UPI,Completed,53,3.1
+ORD000596,2024-11-06 16:24:50,CUST0169,REST005,Taco Town,Ahmedabad,Mexican,Chicken Burrito,1,181.97,18.2,0,163.77,Net Banking,Completed,79,3.9
+ORD000597,2024-11-15 07:05:16,CUST0174,REST002,Pizza Planet,Bangalore,Pizza,Margherita Pizza,2,215.0,43.0,20,407.0,Credit Card,Delivered,50,
+ORD000598,2023-12-02 23:16:56,CUST0120,REST011,The Grill Station,Ahmedabad,BBQ,BBQ Ribs,4,413.3,0,30,1683.2,Cash,Cancelled,67,4.2
+ORD000599,2023-12-15 15:23:05,CUST0021,REST009,Kebab Corner,Mumbai,Middle Eastern,Falafel Wrap,1,224.53,22.45,50,252.08,Wallet,Completed,65,
+ORD000600,2023-09-13 17:11:31,CUST0111,REST012,Noodle Bar,Hyderabad,Asian,Dumplings,1,556.84,0,20,576.84,Credit Card,Cancelled,27,
+ORD000601,2024-09-30 04:21:50,CUST0159,REST014,Sea Breeze,Chennai,Seafood,Prawn Curry,1,326.26,0,0,326.26,Cash,Completed,45,4.4
+ORD000602,2023-09-01 07:57:06,CUST0114,REST011,The Grill Station,Ahmedabad,BBQ,BBQ Ribs,1,586.75,0,40,626.75,Credit Card,Delivered,23,2.7
+ORD000603,2023-08-18 01:38:49,CUST0193,REST010,Sweet Tooth,Kolkata,Desserts,Chocolate Cake,1,432.33,86.47,0,345.86,Cash,Delivered,66,
+ORD000604,2024-04-25 23:17:39,CUST0007,REST014,Sea Breeze,Mumbai,Seafood,Crab Cake,4,321.39,32.14,50,1303.42,Cash,Cancelled,,4.2
+ORD000605,2024-09-05 03:47:19,CUST0131,REST010,Sweet Tooth,Hyderabad,Desserts,Chocolate Cake,1,86.39,0,50,136.39,UPI,Cancelled,88,
+ORD000606,2023-04-10 04:08:30,CUST0092,REST007,Green Bowl,Ahmedabad,Healthy,Protein Salad,2,206.44,0,0,412.88,UPI,Completed,70,4.1
+ORD000607,2024-02-07 02:15:56,CUST0130,REST003,Burger Barn,Ahmedabad,Burgers,Chicken Burger,5,258.31,0,0,1291.55,Wallet,Completed,33,
+ORD000608,2023-09-23 06:59:21,CUST0154,REST007,Green Bowl,Pune,Healthy,Avocado Toast,2,413.09,0,0,826.18,Net Banking,Cancelled,75,5.0
+ORD000609,2024-11-11 11:47:23,CUST0164,REST014,Sea Breeze,Pune,Seafood,Fish and Chips,4,250.88,0,40,1043.52,Debit Card,Delivered,20,4.8
+ORD000610,2023-06-09 11:22:27,CUST0008,REST008,Dragon Wok,Hyderabad,Chinese,Dim Sum,4,461.98,0,40,1887.92,Wallet,Completed,15,2.7
+ORD000611,2023-01-24 01:22:45,CUST0068,REST003,Burger Barn,Chennai,Burgers,Vegan Burger,2,408.29,0,0,816.58,Net Banking,Completed,51,
+ORD000612,2023-01-17 07:21:07,CUST0029,REST006,The Pasta House,Hyderabad,Italian,Penne Arrabbiata,2,91.18,0,0,182.36,UPI,Delivered,32,4.5
+ORD000613,2024-09-12 14:51:54,CUST0037,REST005,Taco Town,Ahmedabad,Mexican,Chicken Burrito,3,500.93,0,50,1552.79,Debit Card,Delivered,70,2.7
+ORD000614,2024-08-15 16:53:11,CUST0039,REST004,Sushi World,Kolkata,Japanese,Ramen,3,391.77,0,0,1175.31,UPI,Delivered,39,3.2
+ORD000615,2024-07-18 21:49:39,CUST0017,REST001,Spice Garden,Chennai,Indian,Paneer Tikka,5,583.56,58.36,20,2879.44,Debit Card,Pending,,4.2
+ORD000616,2024-02-13 03:34:35,CUST0164,REST013,Veggie Delight,Pune,Vegetarian,Mushroom Burger,5,321.42,0,30,1637.1,Wallet,Completed,78,4.0
+ORD000617,2023-08-26 16:14:07,CUST0096,REST004,Sushi World,Hyderabad,Japanese,Salmon Sashimi,4,528.85,52.89,20,2082.51,UPI,Completed,63,4.8
+ORD000618,2023-02-01 22:57:34,CUST0105,REST003,Burger Barn,Delhi,Burgers,Chicken Burger,4,349.79,0,50,1449.16,UPI,Processing,58,3.7
+ORD000619,2024-05-16 06:17:11,CUST0129,REST006,The Pasta House,Chennai,Italian,Risotto,1,173.37,0,30,203.37,Wallet,Completed,,3.2
+ORD000620,2024-02-29 02:39:48,CUST0191,REST013,Veggie Delight,Chennai,Vegetarian,Stuffed Peppers,1,141.67,0,0,141.67,Net Banking,Delivered,40,3.1
+ORD000621,2024-08-31 06:34:07,CUST0004,REST004,Sushi World,Bangalore,Japanese,Ramen,1,480.44,0,30,510.44,Cash,Completed,66,4.4
+ORD000622,2023-07-01 12:54:57,CUST0119,REST014,Sea Breeze,Kolkata,Seafood,Prawn Curry,2,456.13,0,40,952.26,UPI,Completed,85,4.3
+ORD000623,2023-01-24 09:10:50,CUST0189,REST006,The Pasta House,Hyderabad,Italian,Risotto,4,188.98,18.9,50,787.02,Credit Card,Processing,88,3.3
+ORD000624,2023-08-21 17:38:32,CUST0036,REST013,Veggie Delight,Pune,Vegetarian,Tofu Stir-Fry,2,297.96,29.8,50,616.12,Debit Card,Cancelled,17,2.6
+ORD000625,2023-10-28 03:38:56,CUST0164,REST010,Sweet Tooth,Kolkata,Desserts,Cheesecake,2,573.32,0,50,1196.64,UPI,Completed,28,4.9
+ORD000626,2023-01-21 20:18:21,CUST0053,REST003,Burger Barn,Delhi,Burgers,Cheese Burger,1,509.77,101.95,40,447.82,Debit Card,Delivered,23,3.5
+ORD000627,2023-09-11 19:28:22,CUST0034,REST011,The Grill Station,Delhi,BBQ,Corn on the Cob,1,271.7,0,20,291.7,Wallet,Pending,67,5.0
+ORD000628,2023-12-02 16:48:16,CUST0148,REST008,Dragon Wok,Delhi,Chinese,Kung Pao Chicken,2,147.56,0,30,325.12,UPI,Delivered,75,
+ORD000629,2023-02-19 16:29:16,CUST0126,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Hummus Platter,2,83.87,0,40,207.74,Cash,Processing,46,4.8
+ORD000630,2024-06-27 22:50:47,CUST0045,REST010,Sweet Tooth,Mumbai,Desserts,Chocolate Cake,3,416.08,41.61,30,1236.63,Cash,Delivered,53,4.6
+ORD000631,2023-03-16 04:53:09,CUST0071,REST003,Burger Barn,Kolkata,Burgers,Vegan Burger,4,553.63,0,50,2264.52,Net Banking,Delivered,20,4.7
+ORD000632,2023-10-14 09:39:50,CUST0197,REST011,The Grill Station,Delhi,BBQ,Grilled Chicken,4,293.86,58.77,0,1116.67,UPI,Pending,,
+ORD000633,2023-02-26 20:27:46,CUST0050,REST008,Dragon Wok,Bangalore,Chinese,Spring Rolls,2,343.15,34.31,0,651.99,Cash,Completed,74,4.4
+ORD000634,2023-12-25 08:19:04,CUST0113,REST001,Spice Garden,Chennai,Indian,Butter Chicken,2,250.1,25.01,40,515.19,Debit Card,Processing,,3.1
+ORD000635,2023-05-18 15:55:47,CUST0172,REST014,Sea Breeze,Chennai,Seafood,Prawn Curry,2,516.02,103.2,0,928.84,Credit Card,Delivered,83,2.9
+ORD000636,2023-06-17 21:38:08,CUST0165,REST003,Burger Barn,Ahmedabad,Burgers,Chicken Burger,2,192.67,0,50,435.34,Net Banking,Completed,21,4.5
+ORD000637,2024-08-18 20:02:45,CUST0024,REST007,Green Bowl,Chennai,Healthy,Protein Salad,1,391.07,0,40,431.07,Credit Card,Pending,46,3.1
+ORD000638,2024-11-16 07:00:15,CUST0186,REST001,Spice Garden,Mumbai,Indian,Biryani,2,433.58,0,20,887.16,Debit Card,Completed,,4.2
+ORD000639,2023-06-10 20:59:01,CUST0055,REST007,Green Bowl,Delhi,Healthy,Smoothie Bowl,3,372.27,0,50,1166.81,Credit Card,Cancelled,65,2.8
+ORD000640,2023-06-15 06:16:54,CUST0160,REST006,The Pasta House,Bangalore,Italian,Spaghetti Carbonara,4,420.08,0,40,1720.32,UPI,Completed,23,3.2
+ORD000641,2024-07-07 10:32:33,CUST0025,REST002,Pizza Planet,Hyderabad,Pizza,Veggie Supreme,3,479.12,47.91,0,1389.45,Wallet,Cancelled,87,
+ORD000642,2023-02-22 10:32:33,CUST0190,REST011,The Grill Station,Kolkata,BBQ,Grilled Chicken,3,171.17,0,40,553.51,Debit Card,Completed,89,3.8
+ORD000643,2024-04-26 09:16:47,CUST0128,REST004,Sushi World,Mumbai,Japanese,California Roll,3,202.93,20.29,20,608.5,UPI,Delivered,,
+ORD000644,2024-07-28 04:43:25,CUST0195,REST003,Burger Barn,Kolkata,Burgers,Cheese Burger,1,203.79,40.76,40,203.03,Credit Card,Pending,32,4.1
+ORD000645,2023-07-08 03:50:54,CUST0064,REST011,The Grill Station,Chennai,BBQ,BBQ Ribs,2,520.41,0,30,1070.82,Net Banking,Delivered,21,4.2
+ORD000646,2024-11-06 15:29:28,CUST0037,REST010,Sweet Tooth,Kolkata,Desserts,Brownie,2,310.03,0,0,620.06,Debit Card,Completed,39,
+ORD000647,2023-08-30 22:05:26,CUST0064,REST002,Pizza Planet,Bangalore,Pizza,Pepperoni Pizza,2,343.86,34.39,40,693.33,UPI,Delivered,40,2.9
+ORD000648,2023-10-07 07:05:35,CUST0157,REST010,Sweet Tooth,Ahmedabad,Desserts,Ice Cream Sundae,3,528.46,52.85,0,1532.53,Net Banking,Pending,36,3.6
+ORD000649,2024-08-12 10:08:39,CUST0187,REST013,Veggie Delight,Bangalore,Vegetarian,Mushroom Burger,1,476.2,47.62,0,428.58,Debit Card,Delivered,53,2.9
+ORD000650,2024-01-09 11:35:17,CUST0121,REST007,Green Bowl,Ahmedabad,Healthy,Smoothie Bowl,4,227.28,45.46,50,913.66,Debit Card,Completed,,
+ORD000651,2023-11-11 05:27:23,CUST0126,REST015,Mumbai Masala,Hyderabad,Indian,Butter Chicken,1,528.06,0,40,568.06,UPI,Completed,65,3.4
+ORD000652,2024-08-15 14:26:05,CUST0090,REST007,Green Bowl,Mumbai,Healthy,Quinoa Bowl,4,564.71,0,20,2278.84,Wallet,Processing,47,4.4
+ORD000653,2024-01-07 01:26:59,CUST0174,REST011,The Grill Station,Pune,BBQ,BBQ Ribs,4,561.79,0,20,2267.16,Credit Card,Completed,,4.1
+ORD000654,2023-01-10 13:59:08,CUST0183,REST005,Taco Town,Ahmedabad,Mexican,Chicken Burrito,3,208.66,41.73,20,604.25,Cash,Pending,,
+ORD000655,2024-06-21 08:46:21,CUST0079,REST012,Noodle Bar,Delhi,Asian,Pho,4,166.23,16.62,30,678.3,Net Banking,Pending,83,3.5
+ORD000656,2023-07-28 22:55:16,CUST0044,REST013,Veggie Delight,Delhi,Vegetarian,Veggie Wrap,5,483.88,0,20,2439.4,Cash,Completed,65,2.5
+ORD000657,2023-05-13 12:51:11,CUST0047,REST002,Pizza Planet,Delhi,Pizza,Veggie Supreme,5,296.76,0,40,1523.8,Wallet,Completed,38,3.0
+ORD000658,2023-07-21 10:40:12,CUST0028,REST008,Dragon Wok,Hyderabad,Chinese,Dim Sum,2,110.67,0,20,241.34,Net Banking,Completed,67,4.8
+ORD000659,2023-01-24 01:01:35,CUST0003,REST002,Pizza Planet,Chennai,Pizza,Margherita Pizza,4,144.83,0,30,609.32,Credit Card,Delivered,76,4.4
+ORD000660,2024-04-13 08:27:09,CUST0087,REST013,Veggie Delight,Mumbai,Vegetarian,Veggie Wrap,1,189.76,0,40,229.76,Wallet,Pending,49,3.7
+ORD000661,2023-10-21 22:33:09,CUST0001,REST006,The Pasta House,Pune,Italian,Lasagna,3,504.76,0,40,1554.28,Cash,Pending,60,4.5
+ORD000662,2024-06-27 03:14:14,CUST0169,REST012,Noodle Bar,Bangalore,Asian,Pad Thai,5,143.91,28.78,30,720.77,Cash,Pending,46,4.0
+ORD000663,2024-09-19 05:58:07,CUST0190,REST011,The Grill Station,Hyderabad,BBQ,BBQ Ribs,3,88.65,0,0,265.95,Wallet,Completed,71,3.7
+ORD000664,2023-06-01 12:29:52,CUST0184,REST006,The Pasta House,Kolkata,Italian,Risotto,1,461.82,0,50,511.82,Wallet,Completed,81,4.5
+ORD000665,2023-05-11 12:43:55,CUST0063,REST003,Burger Barn,Ahmedabad,Burgers,Classic Burger,3,512.82,102.56,40,1475.9,Debit Card,Completed,29,3.9
+ORD000666,2024-12-22 13:52:47,CUST0066,REST013,Veggie Delight,Delhi,Vegetarian,Veggie Wrap,4,596.55,0,20,2406.2,Net Banking,Processing,64,3.1
+ORD000667,2024-09-09 21:56:56,CUST0154,REST015,Mumbai Masala,Delhi,Indian,Paneer Tikka,5,409.45,40.95,0,2006.3,Credit Card,Cancelled,43,4.4
+ORD000668,2023-03-10 02:28:48,CUST0049,REST007,Green Bowl,Kolkata,Healthy,Protein Salad,2,196.25,0,30,422.5,Net Banking,Completed,,4.0
+ORD000669,2023-08-30 09:42:42,CUST0109,REST010,Sweet Tooth,Pune,Desserts,Ice Cream Sundae,3,576.12,115.22,0,1613.14,UPI,Cancelled,,4.6
+ORD000670,2023-09-03 09:17:30,CUST0128,REST013,Veggie Delight,Bangalore,Vegetarian,Stuffed Peppers,1,285.56,57.11,40,268.45,Net Banking,Processing,,4.6
+ORD000671,2024-06-18 20:26:03,CUST0123,REST003,Burger Barn,Chennai,Burgers,Cheese Burger,1,391.42,0,50,441.42,Net Banking,Delivered,,4.3
+ORD000672,2024-10-05 00:53:21,CUST0199,REST008,Dragon Wok,Chennai,Chinese,Kung Pao Chicken,1,590.19,0,20,610.19,Debit Card,Processing,43,2.6
+ORD000673,2023-09-20 01:46:51,CUST0101,REST012,Noodle Bar,Kolkata,Asian,Tom Yum Soup,2,595.35,119.07,40,1111.63,Credit Card,Delivered,75,4.4
+ORD000674,2024-10-22 01:36:04,CUST0036,REST005,Taco Town,Hyderabad,Mexican,Quesadilla,1,148.07,29.61,0,118.46,Cash,Processing,53,2.9
+ORD000675,2023-10-09 08:22:40,CUST0038,REST005,Taco Town,Bangalore,Mexican,Chicken Burrito,2,498.27,0,0,996.54,Cash,Pending,88,
+ORD000676,2023-02-10 18:09:04,CUST0112,REST011,The Grill Station,Bangalore,BBQ,BBQ Ribs,1,264.9,26.49,20,258.41,Debit Card,Pending,,3.3
+ORD000677,2023-05-14 23:23:26,CUST0172,REST004,Sushi World,Mumbai,Japanese,California Roll,2,286.26,0,50,622.52,Net Banking,Completed,63,5.0
+ORD000678,2023-01-10 00:17:05,CUST0126,REST013,Veggie Delight,Ahmedabad,Vegetarian,Mushroom Burger,3,408.81,40.88,30,1215.55,Net Banking,Delivered,,
+ORD000679,2024-01-12 01:58:59,CUST0084,REST001,Spice Garden,Ahmedabad,Indian,Biryani,1,493.06,0,40,533.06,Credit Card,Completed,70,2.8
+ORD000680,2023-02-19 15:46:21,CUST0167,REST007,Green Bowl,Mumbai,Healthy,Protein Salad,5,505.08,101.02,40,2464.38,Credit Card,Delivered,89,4.5
+ORD000681,2023-12-14 09:01:30,CUST0148,REST011,The Grill Station,Delhi,BBQ,Grilled Chicken,5,441.51,0,50,2257.55,Debit Card,Completed,30,
+ORD000682,2023-10-10 09:14:34,CUST0001,REST002,Pizza Planet,Chennai,Pizza,Margherita Pizza,1,589.56,117.91,30,501.65,Debit Card,Delivered,36,4.9
+ORD000683,2024-02-10 23:12:18,CUST0177,REST001,Spice Garden,Chennai,Indian,Naan,4,152.72,15.27,30,625.61,Credit Card,Completed,60,3.8
+ORD000684,2024-04-12 16:47:05,CUST0160,REST004,Sushi World,Mumbai,Japanese,Salmon Sashimi,2,235.85,0,20,491.7,Cash,Completed,90,2.8
+ORD000685,2023-12-21 05:43:08,CUST0178,REST009,Kebab Corner,Chennai,Middle Eastern,Hummus Platter,4,417.88,0,40,1711.52,Debit Card,Delivered,,3.6
+ORD000686,2023-05-08 09:59:04,CUST0098,REST002,Pizza Planet,Chennai,Pizza,Pepperoni Pizza,3,373.09,74.62,50,1094.65,Credit Card,Delivered,34,4.5
+ORD000687,2023-02-21 05:34:17,CUST0070,REST002,Pizza Planet,Chennai,Pizza,Margherita Pizza,5,137.19,27.44,40,698.51,Debit Card,Delivered,26,3.3
+ORD000688,2023-03-23 13:23:33,CUST0187,REST005,Taco Town,Mumbai,Mexican,Beef Taco,4,589.33,0,40,2397.32,UPI,Processing,30,
+ORD000689,2023-05-13 14:57:45,CUST0190,REST002,Pizza Planet,Pune,Pizza,BBQ Chicken Pizza,5,220.95,0,0,1104.75,Net Banking,Pending,64,
+ORD000690,2023-04-21 19:33:51,CUST0186,REST008,Dragon Wok,Bangalore,Chinese,Spring Rolls,1,437.06,0,20,457.06,Net Banking,Cancelled,49,
+ORD000691,2024-01-26 02:13:54,CUST0059,REST012,Noodle Bar,Hyderabad,Asian,Dumplings,4,175.21,0,40,740.84,UPI,Completed,69,4.3
+ORD000692,2023-03-14 17:27:25,CUST0074,REST005,Taco Town,Kolkata,Mexican,Nachos,1,410.03,0,20,430.03,Wallet,Processing,22,
+ORD000693,2024-01-22 15:45:41,CUST0158,REST013,Veggie Delight,Mumbai,Vegetarian,Mushroom Burger,5,564.87,0,40,2864.35,Debit Card,Completed,83,3.5
+ORD000694,2023-02-02 21:34:21,CUST0135,REST012,Noodle Bar,Kolkata,Asian,Tom Yum Soup,2,597.0,119.4,50,1124.6,Debit Card,Completed,36,4.7
+ORD000695,2024-01-20 20:56:09,CUST0174,REST002,Pizza Planet,Pune,Pizza,Pepperoni Pizza,5,263.71,0,40,1358.55,Debit Card,Completed,62,3.3
+ORD000696,2023-11-02 17:38:10,CUST0132,REST005,Taco Town,Chennai,Mexican,Quesadilla,3,217.67,0,50,703.01,Credit Card,Processing,54,4.9
+ORD000697,2023-08-20 17:39:33,CUST0103,REST015,Mumbai Masala,Ahmedabad,Indian,Butter Chicken,3,83.06,8.31,30,270.87,UPI,Completed,15,4.3
+ORD000698,2023-11-16 00:21:29,CUST0169,REST002,Pizza Planet,Kolkata,Pizza,Veggie Supreme,2,124.07,24.81,20,243.33,UPI,Delivered,,2.9
+ORD000699,2024-09-22 08:16:26,CUST0036,REST008,Dragon Wok,Kolkata,Chinese,Spring Rolls,3,269.54,0,50,858.62,UPI,Pending,71,3.6
+ORD000700,2023-11-03 10:52:14,CUST0051,REST001,Spice Garden,Pune,Indian,Paneer Tikka,1,178.57,0,20,198.57,Cash,Delivered,57,2.9
+ORD000701,2024-08-06 09:19:50,CUST0100,REST002,Pizza Planet,Kolkata,Pizza,Veggie Supreme,5,337.7,0,30,1718.5,Debit Card,Completed,66,4.8
+ORD000702,2023-02-10 10:05:34,CUST0003,REST002,Pizza Planet,Mumbai,Pizza,Pepperoni Pizza,2,258.94,0,20,537.88,Cash,Processing,58,4.0
+ORD000703,2023-04-29 10:43:34,CUST0068,REST005,Taco Town,Chennai,Mexican,Quesadilla,1,475.67,0,50,525.67,Net Banking,Delivered,38,4.4
+ORD000704,2024-04-19 15:44:16,CUST0031,REST011,The Grill Station,Kolkata,BBQ,Grilled Chicken,4,447.36,0,50,1839.44,Debit Card,Pending,90,2.9
+ORD000705,2023-03-12 15:09:33,CUST0163,REST001,Spice Garden,Chennai,Indian,Paneer Tikka,2,301.68,60.34,20,563.02,Debit Card,Delivered,63,3.3
+ORD000706,2023-03-27 11:34:22,CUST0064,REST006,The Pasta House,Kolkata,Italian,Risotto,1,345.13,0,30,375.13,UPI,Completed,50,4.3
+ORD000707,2023-08-10 14:41:37,CUST0126,REST003,Burger Barn,Mumbai,Burgers,Classic Burger,1,423.42,0,20,443.42,UPI,Cancelled,27,3.1
+ORD000708,2023-10-08 01:29:16,CUST0155,REST005,Taco Town,Delhi,Mexican,Beef Taco,1,435.14,0,30,465.14,UPI,Delivered,61,4.0
+ORD000709,2024-05-03 23:49:24,CUST0168,REST011,The Grill Station,Chennai,BBQ,Grilled Chicken,5,279.71,0,20,1418.55,Debit Card,Delivered,30,
+ORD000710,2023-08-23 03:55:39,CUST0033,REST012,Noodle Bar,Ahmedabad,Asian,Pad Thai,1,569.75,113.95,30,485.8,Debit Card,Pending,40,2.9
+ORD000711,2023-02-22 14:10:40,CUST0006,REST009,Kebab Corner,Chennai,Middle Eastern,Hummus Platter,3,313.21,0,40,979.63,Debit Card,Delivered,82,3.8
+ORD000712,2024-07-29 07:55:55,CUST0020,REST012,Noodle Bar,Bangalore,Asian,Tom Yum Soup,1,577.02,0,20,597.02,Debit Card,Processing,78,4.7
+ORD000713,2023-01-03 19:07:08,CUST0132,REST013,Veggie Delight,Kolkata,Vegetarian,Mushroom Burger,4,395.75,0,20,1603.0,Cash,Delivered,42,2.5
+ORD000714,2023-02-05 10:16:40,CUST0038,REST005,Taco Town,Hyderabad,Mexican,Nachos,3,367.12,0,20,1121.36,UPI,Completed,52,
+ORD000715,2024-05-06 10:03:49,CUST0141,REST005,Taco Town,Mumbai,Mexican,Chicken Burrito,2,357.99,0,30,745.98,UPI,Completed,62,4.9
+ORD000716,2023-06-20 07:40:04,CUST0005,REST007,Green Bowl,Chennai,Healthy,Smoothie Bowl,1,405.5,0,30,435.5,Wallet,Completed,50,
+ORD000717,2023-09-09 20:42:03,CUST0102,REST012,Noodle Bar,Kolkata,Asian,Tom Yum Soup,5,366.46,36.65,20,1815.65,Debit Card,Processing,89,4.6
+ORD000718,2023-05-21 23:39:27,CUST0126,REST004,Sushi World,Kolkata,Japanese,Ramen,2,549.13,0,40,1138.26,Net Banking,Completed,37,
+ORD000719,2024-06-17 21:26:46,CUST0110,REST011,The Grill Station,Chennai,BBQ,BBQ Ribs,3,164.72,0,40,534.16,Debit Card,Processing,23,
+ORD000720,2023-03-19 11:06:03,CUST0004,REST015,Mumbai Masala,Kolkata,Indian,Butter Chicken,5,151.39,0,50,806.95,Net Banking,Completed,17,
+ORD000721,2024-09-07 11:24:52,CUST0182,REST003,Burger Barn,Hyderabad,Burgers,Classic Burger,3,154.17,30.83,0,431.68,Credit Card,Delivered,28,4.5
+ORD000722,2023-07-09 08:55:35,CUST0032,REST003,Burger Barn,Ahmedabad,Burgers,Vegan Burger,2,239.84,23.98,20,475.7,Credit Card,Completed,,4.1
+ORD000723,2023-01-01 22:33:49,CUST0091,REST002,Pizza Planet,Chennai,Pizza,Margherita Pizza,5,540.96,54.1,20,2670.7,Net Banking,Delivered,18,3.5
+ORD000724,2023-03-21 00:30:04,CUST0031,REST004,Sushi World,Kolkata,Japanese,California Roll,4,168.17,0,20,692.68,UPI,Completed,51,4.0
+ORD000725,2024-04-10 17:34:05,CUST0171,REST015,Mumbai Masala,Mumbai,Indian,Naan,2,172.6,34.52,30,340.68,Net Banking,Delivered,69,
+ORD000726,2024-12-25 14:10:40,CUST0039,REST010,Sweet Tooth,Chennai,Desserts,Brownie,1,220.97,22.1,30,228.87,Net Banking,Completed,24,4.7
+ORD000727,2023-03-29 21:31:49,CUST0083,REST006,The Pasta House,Bangalore,Italian,Risotto,4,455.1,45.51,0,1774.89,Debit Card,Completed,50,
+ORD000728,2024-04-12 09:18:16,CUST0168,REST013,Veggie Delight,Kolkata,Vegetarian,Tofu Stir-Fry,3,336.99,33.7,40,1017.27,Debit Card,Pending,57,
+ORD000729,2023-03-06 22:44:50,CUST0192,REST007,Green Bowl,Ahmedabad,Healthy,Protein Salad,5,358.83,0,40,1834.15,Debit Card,Completed,68,4.4
+ORD000730,2024-03-09 16:51:16,CUST0090,REST004,Sushi World,Pune,Japanese,California Roll,2,596.83,0,30,1223.66,UPI,Completed,32,2.6
+ORD000731,2023-06-13 16:25:45,CUST0179,REST005,Taco Town,Ahmedabad,Mexican,Chicken Burrito,5,585.35,58.54,20,2888.21,Net Banking,Completed,22,2.8
+ORD000732,2023-02-27 07:10:40,CUST0094,REST007,Green Bowl,Mumbai,Healthy,Protein Salad,3,108.12,0,50,374.36,Debit Card,Completed,35,
+ORD000733,2024-08-17 12:25:12,CUST0077,REST004,Sushi World,Delhi,Japanese,California Roll,5,512.16,51.22,20,2529.58,Cash,Pending,32,4.2
+ORD000734,2024-11-15 09:57:34,CUST0109,REST012,Noodle Bar,Pune,Asian,Dumplings,1,229.12,0,0,229.12,Net Banking,Processing,37,2.5
+ORD000735,2023-03-13 09:49:15,CUST0015,REST009,Kebab Corner,Chennai,Middle Eastern,Hummus Platter,2,300.31,0,30,630.62,Debit Card,Pending,31,3.5
+ORD000736,2023-05-09 00:32:55,CUST0070,REST003,Burger Barn,Delhi,Burgers,Vegan Burger,4,242.86,24.29,40,987.15,Credit Card,Completed,,3.6
+ORD000737,2023-03-24 16:38:34,CUST0080,REST002,Pizza Planet,Pune,Pizza,BBQ Chicken Pizza,1,204.56,0,50,254.56,Debit Card,Delivered,,4.4
+ORD000738,2023-02-04 20:31:19,CUST0081,REST011,The Grill Station,Mumbai,BBQ,Grilled Chicken,3,124.22,24.84,50,397.82,Credit Card,Delivered,76,
+ORD000739,2024-07-17 15:48:25,CUST0105,REST001,Spice Garden,Pune,Indian,Biryani,4,340.11,0,40,1400.44,Net Banking,Completed,31,2.7
+ORD000740,2024-11-05 19:50:09,CUST0175,REST009,Kebab Corner,Bangalore,Middle Eastern,Shawarma,5,493.96,49.4,50,2470.4,Cash,Completed,52,
+ORD000741,2024-01-25 14:52:22,CUST0034,REST015,Mumbai Masala,Delhi,Indian,Paneer Tikka,2,499.89,0,20,1019.78,UPI,Delivered,81,3.4
+ORD000742,2023-02-28 06:04:09,CUST0004,REST006,The Pasta House,Kolkata,Italian,Spaghetti Carbonara,4,204.34,40.87,50,826.49,Debit Card,Delivered,87,3.7
+ORD000743,2023-05-06 10:03:55,CUST0019,REST009,Kebab Corner,Delhi,Middle Eastern,Lamb Kebab,1,316.5,0,30,346.5,Debit Card,Processing,,3.4
+ORD000744,2024-03-17 17:57:35,CUST0159,REST005,Taco Town,Ahmedabad,Mexican,Nachos,4,418.15,0,0,1672.6,Net Banking,Completed,61,3.5
+ORD000745,2023-12-16 14:19:41,CUST0190,REST008,Dragon Wok,Pune,Chinese,Spring Rolls,3,123.42,12.34,50,407.92,Debit Card,Completed,20,4.1
+ORD000746,2023-06-23 05:58:38,CUST0120,REST003,Burger Barn,Delhi,Burgers,Chicken Burger,4,162.27,16.23,0,632.85,Net Banking,Processing,74,3.4
+ORD000747,2023-06-04 22:24:32,CUST0125,REST002,Pizza Planet,Delhi,Pizza,Pepperoni Pizza,1,557.08,55.71,40,541.37,Debit Card,Processing,23,5.0
+ORD000748,2024-05-12 06:29:54,CUST0154,REST002,Pizza Planet,Chennai,Pizza,Veggie Supreme,1,363.44,36.34,20,347.1,Cash,Completed,87,
+ORD000749,2024-08-12 05:38:04,CUST0037,REST015,Mumbai Masala,Pune,Indian,Dal Makhani,4,190.98,0,0,763.92,Credit Card,Delivered,49,2.9
+ORD000750,2024-06-04 03:04:34,CUST0110,REST007,Green Bowl,Delhi,Healthy,Smoothie Bowl,4,533.07,106.61,20,2045.67,UPI,Delivered,38,2.7
+ORD000751,2024-06-25 03:14:40,CUST0153,REST003,Burger Barn,Hyderabad,Burgers,Chicken Burger,4,330.45,66.09,20,1275.71,Debit Card,Completed,88,2.5
+ORD000752,2024-01-23 22:20:31,CUST0068,REST012,Noodle Bar,Bangalore,Asian,Tom Yum Soup,3,87.38,8.74,20,273.4,Wallet,Completed,29,4.2
+ORD000753,2023-11-23 08:39:01,CUST0054,REST008,Dragon Wok,Bangalore,Chinese,Kung Pao Chicken,5,130.67,0,20,673.35,Debit Card,Completed,36,3.0
+ORD000754,2024-06-27 04:12:59,CUST0139,REST006,The Pasta House,Pune,Italian,Spaghetti Carbonara,3,546.26,109.25,0,1529.53,Cash,Cancelled,73,3.4
+ORD000755,2023-05-07 08:08:55,CUST0175,REST002,Pizza Planet,Bangalore,Pizza,Veggie Supreme,4,274.02,54.8,50,1091.28,Cash,Delivered,63,4.1
+ORD000756,2024-12-25 06:59:57,CUST0140,REST012,Noodle Bar,Delhi,Asian,Pad Thai,1,126.61,0,50,176.61,Credit Card,Processing,78,4.1
+ORD000757,2023-10-23 23:50:34,CUST0090,REST009,Kebab Corner,Mumbai,Middle Eastern,Hummus Platter,4,190.17,19.02,50,791.66,Cash,Pending,,4.9
+ORD000758,2023-07-27 20:35:45,CUST0107,REST015,Mumbai Masala,Kolkata,Indian,Butter Chicken,3,486.74,97.35,30,1392.87,Net Banking,Delivered,48,4.8
+ORD000759,2024-09-28 22:32:56,CUST0111,REST001,Spice Garden,Kolkata,Indian,Butter Chicken,1,93.65,0,50,143.65,Debit Card,Pending,55,4.9
+ORD000760,2023-11-10 02:40:59,CUST0060,REST004,Sushi World,Kolkata,Japanese,California Roll,5,303.13,30.31,20,1505.34,Credit Card,Completed,81,
+ORD000761,2023-06-08 06:24:35,CUST0003,REST009,Kebab Corner,Delhi,Middle Eastern,Lamb Kebab,3,515.42,0,30,1576.26,Net Banking,Completed,,
+ORD000762,2024-05-07 19:15:01,CUST0168,REST001,Spice Garden,Delhi,Indian,Naan,4,93.15,0,40,412.6,Debit Card,Delivered,60,
+ORD000763,2024-12-27 05:12:50,CUST0149,REST004,Sushi World,Hyderabad,Japanese,Tempura,3,422.81,0,0,1268.43,Credit Card,Completed,,
+ORD000764,2023-03-02 02:29:39,CUST0026,REST008,Dragon Wok,Delhi,Chinese,Fried Rice,2,226.88,0,0,453.76,Cash,Completed,61,3.0
+ORD000765,2024-11-22 01:27:43,CUST0003,REST007,Green Bowl,Delhi,Healthy,Protein Salad,1,189.35,18.93,40,210.42,Debit Card,Completed,72,2.9
+ORD000766,2023-01-04 21:28:41,CUST0008,REST002,Pizza Planet,Pune,Pizza,BBQ Chicken Pizza,4,597.36,119.47,50,2319.97,Wallet,Completed,47,3.0
+ORD000767,2023-09-12 09:46:59,CUST0178,REST009,Kebab Corner,Bangalore,Middle Eastern,Falafel Wrap,3,139.69,0,0,419.07,Debit Card,Delivered,,
+ORD000768,2023-12-29 18:19:35,CUST0050,REST005,Taco Town,Ahmedabad,Mexican,Chicken Burrito,1,261.25,52.25,30,239.0,UPI,Completed,78,4.9
+ORD000769,2023-05-09 15:59:52,CUST0153,REST004,Sushi World,Chennai,Japanese,Tempura,1,383.5,76.7,30,336.8,Net Banking,Delivered,77,3.6
+ORD000770,2023-10-02 02:49:18,CUST0131,REST014,Sea Breeze,Pune,Seafood,Grilled Fish,5,279.18,0,50,1445.9,UPI,Pending,23,4.7
+ORD000771,2024-09-06 07:22:37,CUST0169,REST005,Taco Town,Pune,Mexican,Quesadilla,1,139.62,0,40,179.62,UPI,Cancelled,46,
+ORD000772,2023-06-16 01:00:24,CUST0099,REST003,Burger Barn,Pune,Burgers,Classic Burger,1,245.67,0,30,275.67,UPI,Delivered,56,3.9
+ORD000773,2024-03-21 19:10:24,CUST0082,REST009,Kebab Corner,Hyderabad,Middle Eastern,Shawarma,5,224.59,44.92,0,1078.03,Debit Card,Delivered,68,3.6
+ORD000774,2023-04-07 09:15:18,CUST0006,REST001,Spice Garden,Ahmedabad,Indian,Dal Makhani,1,594.94,59.49,0,535.45,UPI,Completed,56,3.1
+ORD000775,2024-11-26 19:28:21,CUST0166,REST011,The Grill Station,Mumbai,BBQ,Corn on the Cob,3,148.15,14.82,0,429.63,Credit Card,Completed,82,
+ORD000776,2023-03-03 22:58:06,CUST0077,REST008,Dragon Wok,Delhi,Chinese,Kung Pao Chicken,3,222.83,0,40,708.49,Net Banking,Processing,55,2.6
+ORD000777,2024-10-03 03:37:30,CUST0083,REST008,Dragon Wok,Delhi,Chinese,Spring Rolls,5,133.43,0,0,667.15,Net Banking,Pending,,
+ORD000778,2023-01-04 20:06:48,CUST0029,REST004,Sushi World,Bangalore,Japanese,California Roll,2,456.54,0,50,963.08,Credit Card,Delivered,21,4.5
+ORD000779,2024-06-26 16:03:23,CUST0082,REST002,Pizza Planet,Chennai,Pizza,BBQ Chicken Pizza,5,491.65,49.16,30,2439.09,Debit Card,Pending,32,2.8
+ORD000780,2024-05-28 14:56:49,CUST0058,REST011,The Grill Station,Ahmedabad,BBQ,BBQ Ribs,5,354.35,70.87,40,1740.88,Credit Card,Delivered,50,4.3
+ORD000781,2024-06-23 19:05:16,CUST0004,REST013,Veggie Delight,Chennai,Vegetarian,Veggie Wrap,3,370.43,0,20,1131.29,Net Banking,Delivered,,2.7
+ORD000782,2024-08-14 13:18:00,CUST0117,REST008,Dragon Wok,Kolkata,Chinese,Dim Sum,4,134.36,0,50,587.44,Net Banking,Completed,55,3.3
+ORD000783,2024-11-05 02:03:37,CUST0072,REST014,Sea Breeze,Delhi,Seafood,Prawn Curry,2,556.68,55.67,40,1097.69,Cash,Completed,40,3.0
+ORD000784,2023-07-06 20:24:33,CUST0122,REST011,The Grill Station,Chennai,BBQ,BBQ Ribs,2,319.7,0,0,639.4,Net Banking,Processing,,3.2
+ORD000785,2023-04-27 23:45:40,CUST0070,REST006,The Pasta House,Chennai,Italian,Spaghetti Carbonara,5,123.71,12.37,20,626.18,UPI,Completed,70,2.6
+ORD000786,2024-04-06 09:52:44,CUST0013,REST001,Spice Garden,Kolkata,Indian,Dal Makhani,2,232.88,23.29,20,462.47,Net Banking,Delivered,78,2.8
+ORD000787,2023-07-05 10:56:31,CUST0058,REST002,Pizza Planet,Hyderabad,Pizza,Margherita Pizza,1,545.43,109.09,30,466.34,Wallet,Pending,,
+ORD000788,2023-06-09 18:37:34,CUST0153,REST007,Green Bowl,Kolkata,Healthy,Quinoa Bowl,2,461.64,0,40,963.28,UPI,Completed,41,3.2
+ORD000789,2023-09-02 18:07:21,CUST0117,REST002,Pizza Planet,Bangalore,Pizza,Veggie Supreme,3,523.33,0,20,1589.99,Debit Card,Completed,36,
+ORD000790,2023-05-13 14:32:48,CUST0150,REST011,The Grill Station,Ahmedabad,BBQ,Corn on the Cob,3,90.83,0,0,272.49,Credit Card,Processing,16,4.9
+ORD000791,2024-06-12 04:58:51,CUST0038,REST014,Sea Breeze,Hyderabad,Seafood,Crab Cake,1,103.49,0,50,153.49,Credit Card,Completed,44,2.9
+ORD000792,2024-05-30 06:49:52,CUST0078,REST005,Taco Town,Pune,Mexican,Quesadilla,4,462.1,92.42,30,1785.98,Net Banking,Cancelled,61,4.6
+ORD000793,2023-11-15 16:53:58,CUST0148,REST015,Mumbai Masala,Ahmedabad,Indian,Butter Chicken,3,436.61,0,20,1329.83,Net Banking,Pending,33,2.6
+ORD000794,2023-08-01 18:18:40,CUST0135,REST006,The Pasta House,Hyderabad,Italian,Spaghetti Carbonara,2,558.74,55.87,0,1061.61,Debit Card,Delivered,84,3.6
+ORD000795,2023-05-29 00:31:55,CUST0157,REST015,Mumbai Masala,Pune,Indian,Biryani,4,386.36,0,30,1575.44,Credit Card,Pending,,3.4
+ORD000796,2024-12-21 04:52:35,CUST0075,REST013,Veggie Delight,Ahmedabad,Vegetarian,Tofu Stir-Fry,3,137.3,0,40,451.9,Wallet,Completed,74,3.8
+ORD000797,2023-02-01 19:25:15,CUST0126,REST005,Taco Town,Ahmedabad,Mexican,Nachos,1,495.89,0,40,535.89,UPI,Completed,90,
+ORD000798,2024-09-01 22:22:07,CUST0023,REST007,Green Bowl,Pune,Healthy,Quinoa Bowl,1,210.75,0,30,240.75,Net Banking,Delivered,86,
+ORD000799,2023-01-25 23:04:16,CUST0099,REST003,Burger Barn,Hyderabad,Burgers,Vegan Burger,5,557.5,0,20,2807.5,Cash,Pending,60,4.2
+ORD000800,2023-12-05 12:12:14,CUST0197,REST015,Mumbai Masala,Delhi,Indian,Biryani,3,390.46,0,50,1221.38,Debit Card,Delivered,56,2.8
+ORD000801,2024-12-21 02:44:39,CUST0112,REST003,Burger Barn,Kolkata,Burgers,Cheese Burger,3,238.6,0,50,765.8,Credit Card,Completed,84,
+ORD000802,2023-10-03 02:39:06,CUST0144,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Hummus Platter,5,566.14,0,40,2870.7,Credit Card,Pending,68,3.7
+ORD000803,2024-04-27 06:13:25,CUST0101,REST002,Pizza Planet,Bangalore,Pizza,BBQ Chicken Pizza,2,381.77,0,20,783.54,Debit Card,Pending,87,2.6
+ORD000804,2023-02-12 11:32:48,CUST0075,REST011,The Grill Station,Mumbai,BBQ,Corn on the Cob,5,319.31,0,0,1596.55,Wallet,Processing,28,2.7
+ORD000805,2024-06-28 22:15:44,CUST0035,REST012,Noodle Bar,Pune,Asian,Pad Thai,1,465.05,93.01,0,372.04,Debit Card,Completed,33,4.9
+ORD000806,2023-02-22 03:37:07,CUST0025,REST005,Taco Town,Chennai,Mexican,Beef Taco,4,404.31,0,0,1617.24,Debit Card,Delivered,,2.8
+ORD000807,2023-08-21 22:59:02,CUST0140,REST002,Pizza Planet,Ahmedabad,Pizza,Margherita Pizza,5,310.78,0,0,1553.9,UPI,Processing,38,4.6
+ORD000808,2024-09-27 18:52:47,CUST0190,REST014,Sea Breeze,Delhi,Seafood,Crab Cake,2,410.82,0,20,841.64,Net Banking,Delivered,45,
+ORD000809,2023-10-13 07:42:10,CUST0119,REST008,Dragon Wok,Ahmedabad,Chinese,Spring Rolls,3,427.12,85.42,40,1235.94,Cash,Pending,65,4.5
+ORD000810,2024-03-26 22:00:50,CUST0091,REST003,Burger Barn,Mumbai,Burgers,Chicken Burger,4,142.47,14.25,0,555.63,Debit Card,Processing,71,
+ORD000811,2024-10-26 18:00:21,CUST0100,REST015,Mumbai Masala,Ahmedabad,Indian,Biryani,1,590.51,0,50,640.51,Wallet,Completed,41,4.3
+ORD000812,2024-09-01 16:43:56,CUST0166,REST003,Burger Barn,Bangalore,Burgers,Chicken Burger,5,256.43,0,30,1312.15,Cash,Pending,53,2.7
+ORD000813,2023-09-28 08:57:54,CUST0008,REST008,Dragon Wok,Bangalore,Chinese,Spring Rolls,2,442.84,88.57,50,847.11,Net Banking,Completed,66,
+ORD000814,2024-08-13 05:44:08,CUST0045,REST004,Sushi World,Delhi,Japanese,California Roll,4,565.8,56.58,30,2236.62,Net Banking,Pending,45,
+ORD000815,2024-10-19 17:31:50,CUST0008,REST013,Veggie Delight,Kolkata,Vegetarian,Veggie Wrap,1,398.19,0,0,398.19,Debit Card,Cancelled,71,4.0
+ORD000816,2023-06-05 03:19:10,CUST0052,REST002,Pizza Planet,Ahmedabad,Pizza,Veggie Supreme,2,594.21,118.84,50,1119.58,Net Banking,Completed,77,3.2
+ORD000817,2023-01-26 19:37:24,CUST0140,REST007,Green Bowl,Hyderabad,Healthy,Quinoa Bowl,5,92.61,0,20,483.05,Credit Card,Cancelled,15,3.5
+ORD000818,2023-10-01 11:43:57,CUST0113,REST003,Burger Barn,Ahmedabad,Burgers,Cheese Burger,2,376.59,37.66,50,765.52,Cash,Pending,86,4.5
+ORD000819,2023-04-02 14:19:40,CUST0058,REST014,Sea Breeze,Delhi,Seafood,Grilled Fish,2,486.84,0,0,973.68,UPI,Delivered,21,3.3
+ORD000820,2024-03-22 21:24:39,CUST0103,REST007,Green Bowl,Pune,Healthy,Quinoa Bowl,2,583.42,0,50,1216.84,Wallet,Completed,81,3.8
+ORD000821,2023-11-24 07:34:17,CUST0053,REST009,Kebab Corner,Delhi,Middle Eastern,Lamb Kebab,3,419.68,0,30,1289.04,Wallet,Cancelled,57,2.6
+ORD000822,2024-06-30 02:33:46,CUST0107,REST015,Mumbai Masala,Mumbai,Indian,Paneer Tikka,4,117.91,23.58,50,498.06,Wallet,Completed,19,2.7
+ORD000823,2024-01-21 17:14:01,CUST0059,REST015,Mumbai Masala,Ahmedabad,Indian,Paneer Tikka,3,456.13,0,0,1368.39,Credit Card,Completed,59,3.3
+ORD000824,2024-01-10 12:21:45,CUST0111,REST001,Spice Garden,Hyderabad,Indian,Naan,5,527.35,0,50,2686.75,Net Banking,Pending,,4.2
+ORD000825,2023-10-01 05:49:26,CUST0024,REST009,Kebab Corner,Bangalore,Middle Eastern,Shawarma,4,141.36,28.27,30,567.17,Wallet,Completed,70,3.1
+ORD000826,2023-03-01 12:08:42,CUST0081,REST004,Sushi World,Kolkata,Japanese,California Roll,1,534.09,0,0,534.09,UPI,Delivered,,3.2
+ORD000827,2023-07-14 08:02:40,CUST0092,REST005,Taco Town,Bangalore,Mexican,Quesadilla,4,421.94,0,0,1687.76,Debit Card,Processing,41,4.3
+ORD000828,2024-11-24 14:19:31,CUST0106,REST012,Noodle Bar,Chennai,Asian,Tom Yum Soup,5,232.2,0,50,1211.0,Net Banking,Processing,84,2.6
+ORD000829,2023-08-25 20:28:43,CUST0186,REST005,Taco Town,Delhi,Mexican,Chicken Burrito,2,517.54,103.51,20,951.57,Debit Card,Completed,41,
+ORD000830,2023-08-04 21:41:11,CUST0072,REST004,Sushi World,Ahmedabad,Japanese,Tempura,1,91.07,0,30,121.07,Wallet,Pending,53,2.7
+ORD000831,2023-10-22 15:10:02,CUST0009,REST008,Dragon Wok,Mumbai,Chinese,Kung Pao Chicken,4,310.89,0,20,1263.56,Wallet,Cancelled,70,4.2
+ORD000832,2023-06-18 04:40:31,CUST0110,REST015,Mumbai Masala,Mumbai,Indian,Naan,3,559.8,0,50,1729.4,Net Banking,Completed,58,4.1
+ORD000833,2023-11-26 04:51:26,CUST0098,REST013,Veggie Delight,Delhi,Vegetarian,Mushroom Burger,3,526.43,105.29,40,1514.0,Cash,Delivered,87,3.2
+ORD000834,2023-08-18 18:34:34,CUST0071,REST003,Burger Barn,Mumbai,Burgers,Chicken Burger,3,124.48,0,50,423.44,UPI,Delivered,65,
+ORD000835,2024-10-20 08:16:21,CUST0003,REST011,The Grill Station,Chennai,BBQ,BBQ Ribs,1,239.59,0,30,269.59,Cash,Completed,74,
+ORD000836,2024-11-27 18:07:02,CUST0067,REST006,The Pasta House,Ahmedabad,Italian,Penne Arrabbiata,4,110.46,0,30,471.84,UPI,Delivered,55,3.6
+ORD000837,2024-05-24 12:19:08,CUST0010,REST014,Sea Breeze,Ahmedabad,Seafood,Prawn Curry,2,407.78,0,50,865.56,Debit Card,Processing,,
+ORD000838,2023-07-19 23:07:26,CUST0139,REST010,Sweet Tooth,Pune,Desserts,Chocolate Cake,5,453.03,0,30,2295.15,Net Banking,Completed,,4.6
+ORD000839,2024-02-01 22:23:33,CUST0175,REST010,Sweet Tooth,Hyderabad,Desserts,Brownie,1,120.29,12.03,0,108.26,Cash,Completed,,3.9
+ORD000840,2023-09-18 04:35:15,CUST0160,REST011,The Grill Station,Kolkata,BBQ,Pulled Pork Sandwich,2,92.84,18.57,30,197.11,Credit Card,Completed,62,4.9
+ORD000841,2024-04-18 01:17:38,CUST0131,REST006,The Pasta House,Mumbai,Italian,Lasagna,2,554.17,0,0,1108.34,Wallet,Cancelled,55,4.5
+ORD000842,2024-12-27 15:19:01,CUST0141,REST004,Sushi World,Kolkata,Japanese,California Roll,2,278.17,0,0,556.34,Net Banking,Pending,87,3.9
+ORD000843,2023-12-09 13:09:37,CUST0063,REST009,Kebab Corner,Delhi,Middle Eastern,Shawarma,5,325.61,65.12,50,1612.93,UPI,Delivered,39,3.2
+ORD000844,2023-12-12 15:32:26,CUST0130,REST013,Veggie Delight,Pune,Vegetarian,Stuffed Peppers,4,243.7,0,20,994.8,Credit Card,Cancelled,67,3.4
+ORD000845,2024-10-04 23:42:13,CUST0105,REST011,The Grill Station,Ahmedabad,BBQ,Grilled Chicken,4,488.88,0,50,2005.52,Net Banking,Completed,31,3.1
+ORD000846,2023-11-24 00:25:47,CUST0198,REST010,Sweet Tooth,Chennai,Desserts,Brownie,3,243.2,0,40,769.6,Debit Card,Completed,33,4.1
+ORD000847,2024-07-06 13:07:09,CUST0009,REST015,Mumbai Masala,Ahmedabad,Indian,Butter Chicken,2,142.81,0,50,335.62,Cash,Completed,27,
+ORD000848,2024-12-03 08:38:07,CUST0183,REST012,Noodle Bar,Bangalore,Asian,Pad Thai,2,347.75,69.55,40,665.95,UPI,Completed,31,3.9
+ORD000849,2024-12-08 08:11:52,CUST0194,REST006,The Pasta House,Pune,Italian,Spaghetti Carbonara,1,118.35,0,40,158.35,Cash,Completed,72,3.6
+ORD000850,2023-10-15 06:56:57,CUST0131,REST012,Noodle Bar,Bangalore,Asian,Pad Thai,2,545.71,109.14,50,1032.28,Net Banking,Delivered,73,3.6
+ORD000851,2024-02-07 02:12:38,CUST0074,REST013,Veggie Delight,Delhi,Vegetarian,Stuffed Peppers,3,336.51,0,50,1059.53,UPI,Pending,89,4.8
+ORD000852,2024-02-08 05:22:38,CUST0073,REST006,The Pasta House,Bangalore,Italian,Penne Arrabbiata,1,503.27,0,40,543.27,Debit Card,Completed,55,
+ORD000853,2024-12-30 12:02:52,CUST0037,REST005,Taco Town,Chennai,Mexican,Quesadilla,4,196.29,0,30,815.16,Credit Card,Delivered,28,4.2
+ORD000854,2024-09-12 14:17:25,CUST0053,REST009,Kebab Corner,Bangalore,Middle Eastern,Shawarma,5,549.32,109.86,50,2686.74,UPI,Pending,77,2.6
+ORD000855,2023-12-12 04:18:38,CUST0072,REST012,Noodle Bar,Ahmedabad,Asian,Pho,4,233.37,0,0,933.48,Net Banking,Completed,78,4.7
+ORD000856,2023-08-03 11:01:36,CUST0177,REST006,The Pasta House,Delhi,Italian,Penne Arrabbiata,1,250.1,50.02,30,230.08,UPI,Completed,80,2.7
+ORD000857,2023-07-11 00:09:51,CUST0173,REST007,Green Bowl,Delhi,Healthy,Smoothie Bowl,2,517.54,0,0,1035.08,Debit Card,Delivered,,4.9
+ORD000858,2023-06-04 05:40:06,CUST0192,REST008,Dragon Wok,Bangalore,Chinese,Kung Pao Chicken,2,461.45,0,20,942.9,Debit Card,Completed,26,4.6
+ORD000859,2023-11-21 19:03:18,CUST0090,REST007,Green Bowl,Delhi,Healthy,Protein Salad,5,397.83,0,0,1989.15,Cash,Completed,63,3.1
+ORD000860,2024-04-09 08:35:04,CUST0194,REST015,Mumbai Masala,Chennai,Indian,Paneer Tikka,3,427.35,42.74,40,1279.31,UPI,Pending,76,3.0
+ORD000861,2024-05-28 02:42:58,CUST0199,REST008,Dragon Wok,Pune,Chinese,Dim Sum,4,140.23,14.02,30,576.9,Cash,Processing,,4.3
+ORD000862,2024-11-22 03:16:19,CUST0198,REST010,Sweet Tooth,Kolkata,Desserts,Ice Cream Sundae,1,231.28,46.26,20,205.02,UPI,Delivered,67,
+ORD000863,2023-07-22 11:47:19,CUST0163,REST011,The Grill Station,Pune,BBQ,Corn on the Cob,4,500.7,50.07,40,1992.73,Credit Card,Delivered,49,3.0
+ORD000864,2024-08-28 11:54:09,CUST0139,REST008,Dragon Wok,Kolkata,Chinese,Dim Sum,5,535.32,107.06,20,2589.54,Credit Card,Completed,57,
+ORD000865,2024-05-23 16:48:34,CUST0041,REST013,Veggie Delight,Kolkata,Vegetarian,Veggie Wrap,3,554.36,110.87,0,1552.21,Wallet,Pending,,3.8
+ORD000866,2023-06-17 11:21:24,CUST0006,REST014,Sea Breeze,Hyderabad,Seafood,Fish and Chips,2,553.54,0,40,1147.08,Wallet,Completed,46,2.6
+ORD000867,2023-06-28 15:36:30,CUST0192,REST009,Kebab Corner,Kolkata,Middle Eastern,Lamb Kebab,1,161.61,0,0,161.61,Credit Card,Pending,46,
+ORD000868,2024-01-27 20:44:30,CUST0191,REST011,The Grill Station,Kolkata,BBQ,Grilled Chicken,3,528.23,0,0,1584.69,Wallet,Completed,68,
+ORD000869,2024-02-02 23:00:04,CUST0068,REST002,Pizza Planet,Kolkata,Pizza,Pepperoni Pizza,5,526.84,0,40,2674.2,Net Banking,Processing,53,3.0
+ORD000870,2023-08-05 08:41:44,CUST0128,REST007,Green Bowl,Chennai,Healthy,Protein Salad,1,195.57,19.56,50,226.01,Net Banking,Pending,83,3.5
+ORD000871,2024-08-22 00:19:04,CUST0080,REST006,The Pasta House,Delhi,Italian,Risotto,2,380.5,0,40,801.0,UPI,Completed,62,2.8
+ORD000872,2023-07-14 03:45:39,CUST0134,REST013,Veggie Delight,Delhi,Vegetarian,Veggie Wrap,5,168.01,16.8,50,873.25,Net Banking,Delivered,,4.6
+ORD000873,2023-01-29 08:35:25,CUST0069,REST001,Spice Garden,Ahmedabad,Indian,Biryani,4,241.96,0,20,987.84,Net Banking,Delivered,87,4.7
+ORD000874,2023-12-25 08:35:52,CUST0188,REST013,Veggie Delight,Ahmedabad,Vegetarian,Mushroom Burger,3,578.93,0,30,1766.79,Credit Card,Completed,80,4.3
+ORD000875,2024-08-04 02:30:13,CUST0030,REST007,Green Bowl,Delhi,Healthy,Protein Salad,2,473.58,0,50,997.16,Credit Card,Pending,,
+ORD000876,2023-11-07 05:27:40,CUST0076,REST008,Dragon Wok,Bangalore,Chinese,Kung Pao Chicken,2,469.48,93.9,40,885.06,Net Banking,Delivered,,
+ORD000877,2024-02-11 10:06:36,CUST0119,REST009,Kebab Corner,Pune,Middle Eastern,Hummus Platter,5,418.11,0,30,2120.55,Debit Card,Cancelled,62,3.1
+ORD000878,2023-09-04 18:08:02,CUST0002,REST015,Mumbai Masala,Bangalore,Indian,Paneer Tikka,5,451.84,45.18,0,2214.02,UPI,Delivered,34,5.0
+ORD000879,2024-04-06 17:26:03,CUST0089,REST004,Sushi World,Delhi,Japanese,Tempura,3,129.25,25.85,40,401.9,Net Banking,Completed,59,4.7
+ORD000880,2024-07-20 11:34:05,CUST0165,REST015,Mumbai Masala,Hyderabad,Indian,Biryani,3,506.79,50.68,50,1519.69,Net Banking,Delivered,66,3.9
+ORD000881,2023-03-21 11:25:21,CUST0099,REST002,Pizza Planet,Bangalore,Pizza,Margherita Pizza,2,225.59,0,50,501.18,UPI,Delivered,,4.1
+ORD000882,2023-03-12 22:40:07,CUST0122,REST013,Veggie Delight,Ahmedabad,Vegetarian,Stuffed Peppers,2,81.39,0,20,182.78,Credit Card,Cancelled,33,
+ORD000883,2023-09-12 01:23:15,CUST0199,REST002,Pizza Planet,Mumbai,Pizza,Pepperoni Pizza,5,499.76,49.98,40,2488.82,Cash,Processing,30,3.5
+ORD000884,2023-05-10 00:37:56,CUST0144,REST006,The Pasta House,Chennai,Italian,Lasagna,5,120.66,24.13,20,599.17,Cash,Processing,50,4.6
+ORD000885,2023-01-20 15:32:35,CUST0109,REST012,Noodle Bar,Chennai,Asian,Pad Thai,5,547.88,0,20,2759.4,Debit Card,Delivered,74,3.4
+ORD000886,2023-06-01 08:59:13,CUST0095,REST007,Green Bowl,Pune,Healthy,Avocado Toast,1,181.83,0,50,231.83,UPI,Completed,,2.7
+ORD000887,2024-06-24 05:02:32,CUST0008,REST010,Sweet Tooth,Chennai,Desserts,Chocolate Cake,3,413.67,41.37,0,1199.64,Net Banking,Processing,50,4.9
+ORD000888,2023-01-30 15:58:48,CUST0034,REST010,Sweet Tooth,Ahmedabad,Desserts,Cheesecake,2,326.19,65.24,0,587.14,Credit Card,Pending,34,2.9
+ORD000889,2023-03-17 17:04:27,CUST0158,REST014,Sea Breeze,Delhi,Seafood,Grilled Fish,4,411.49,0,30,1675.96,Net Banking,Completed,50,3.0
+ORD000890,2023-01-12 00:10:13,CUST0016,REST006,The Pasta House,Pune,Italian,Penne Arrabbiata,5,455.51,0,50,2327.55,Credit Card,Delivered,66,4.2
+ORD000891,2024-04-17 15:48:11,CUST0001,REST014,Sea Breeze,Bangalore,Seafood,Fish and Chips,1,169.74,0,30,199.74,UPI,Delivered,79,4.1
+ORD000892,2024-12-23 13:32:34,CUST0023,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,3,322.45,0,50,1017.35,Debit Card,Cancelled,29,3.0
+ORD000893,2023-03-05 03:04:28,CUST0049,REST010,Sweet Tooth,Mumbai,Desserts,Ice Cream Sundae,1,193.11,0,40,233.11,Net Banking,Completed,46,4.2
+ORD000894,2023-09-03 02:06:36,CUST0076,REST005,Taco Town,Mumbai,Mexican,Quesadilla,3,172.56,0,50,567.68,UPI,Processing,39,3.0
+ORD000895,2023-12-16 06:30:53,CUST0150,REST005,Taco Town,Delhi,Mexican,Quesadilla,3,380.92,0,50,1192.76,Cash,Completed,36,
+ORD000896,2023-09-23 18:43:09,CUST0069,REST009,Kebab Corner,Hyderabad,Middle Eastern,Lamb Kebab,3,415.92,0,20,1267.76,Credit Card,Delivered,79,4.4
+ORD000897,2024-05-26 08:12:04,CUST0151,REST005,Taco Town,Hyderabad,Mexican,Quesadilla,3,96.35,0,50,339.05,UPI,Cancelled,75,
+ORD000898,2023-05-04 07:19:25,CUST0048,REST010,Sweet Tooth,Kolkata,Desserts,Chocolate Cake,3,444.67,0,0,1334.01,UPI,Delivered,57,4.8
+ORD000899,2024-04-06 01:02:07,CUST0063,REST003,Burger Barn,Ahmedabad,Burgers,Cheese Burger,1,308.28,61.66,40,286.62,UPI,Cancelled,70,3.7
+ORD000900,2023-03-25 18:34:07,CUST0008,REST010,Sweet Tooth,Pune,Desserts,Cheesecake,4,236.09,0,50,994.36,Debit Card,Completed,49,3.5
+ORD000901,2023-04-11 21:20:25,CUST0197,REST015,Mumbai Masala,Chennai,Indian,Naan,5,183.2,36.64,20,899.36,Debit Card,Cancelled,21,3.3
+ORD000902,2024-11-16 19:28:09,CUST0061,REST008,Dragon Wok,Kolkata,Chinese,Dim Sum,4,80.44,0,20,341.76,Debit Card,Pending,54,
+ORD000903,2024-01-06 18:20:19,CUST0179,REST002,Pizza Planet,Hyderabad,Pizza,Pepperoni Pizza,5,519.75,0,0,2598.75,Debit Card,Processing,27,4.2
+ORD000904,2023-04-10 19:27:29,CUST0073,REST011,The Grill Station,Kolkata,BBQ,Corn on the Cob,2,476.79,0,40,993.58,Net Banking,Pending,32,3.3
+ORD000905,2023-06-22 04:40:35,CUST0088,REST010,Sweet Tooth,Kolkata,Desserts,Chocolate Cake,3,333.92,66.78,0,934.98,Wallet,Completed,37,3.4
+ORD000906,2023-06-14 01:39:22,CUST0109,REST010,Sweet Tooth,Kolkata,Desserts,Chocolate Cake,2,151.8,0,0,303.6,Debit Card,Delivered,26,4.1
+ORD000907,2023-05-08 00:39:36,CUST0022,REST005,Taco Town,Kolkata,Mexican,Quesadilla,1,215.73,21.57,20,214.16,UPI,Completed,81,3.7
+ORD000908,2023-10-26 06:05:51,CUST0103,REST011,The Grill Station,Kolkata,BBQ,BBQ Ribs,2,245.89,49.18,50,492.6,Cash,Completed,16,4.9
+ORD000909,2023-10-17 13:58:03,CUST0029,REST005,Taco Town,Kolkata,Mexican,Nachos,1,393.89,39.39,50,404.5,Debit Card,Pending,57,4.9
+ORD000910,2023-06-03 11:46:27,CUST0011,REST009,Kebab Corner,Kolkata,Middle Eastern,Shawarma,2,83.62,16.72,30,180.52,Credit Card,Processing,73,3.7
+ORD000911,2023-09-20 02:44:34,CUST0092,REST008,Dragon Wok,Pune,Chinese,Fried Rice,5,436.92,0,40,2224.6,Cash,Completed,18,2.9
+ORD000912,2024-02-17 15:33:47,CUST0137,REST008,Dragon Wok,Pune,Chinese,Spring Rolls,1,389.81,0,0,389.81,Credit Card,Completed,46,
+ORD000913,2024-06-19 03:44:27,CUST0084,REST012,Noodle Bar,Bangalore,Asian,Dumplings,4,544.21,0,40,2216.84,UPI,Completed,82,2.6
+ORD000914,2024-12-21 08:44:41,CUST0192,REST003,Burger Barn,Delhi,Burgers,Vegan Burger,5,589.74,0,30,2978.7,UPI,Completed,53,2.6
+ORD000915,2024-02-04 06:23:31,CUST0147,REST014,Sea Breeze,Kolkata,Seafood,Grilled Fish,2,376.87,0,50,803.74,Cash,Delivered,46,2.6
+ORD000916,2023-11-06 15:45:33,CUST0005,REST013,Veggie Delight,Kolkata,Vegetarian,Tofu Stir-Fry,2,223.96,0,50,497.92,Cash,Completed,51,3.5
+ORD000917,2023-06-21 21:46:21,CUST0187,REST005,Taco Town,Chennai,Mexican,Quesadilla,5,490.93,0,0,2454.65,Net Banking,Processing,56,4.0
+ORD000918,2023-09-24 09:03:53,CUST0191,REST010,Sweet Tooth,Kolkata,Desserts,Brownie,5,282.3,56.46,0,1355.04,Cash,Delivered,59,2.9
+ORD000919,2024-05-05 09:51:07,CUST0192,REST009,Kebab Corner,Bangalore,Middle Eastern,Lamb Kebab,3,289.53,57.91,0,810.68,Wallet,Cancelled,59,
+ORD000920,2024-04-30 08:17:05,CUST0196,REST005,Taco Town,Chennai,Mexican,Nachos,4,430.74,0,20,1742.96,Credit Card,Delivered,60,3.5
+ORD000921,2024-04-16 13:34:10,CUST0056,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Falafel Wrap,4,559.01,0,40,2276.04,Debit Card,Completed,30,
+ORD000922,2023-11-14 07:17:37,CUST0082,REST010,Sweet Tooth,Chennai,Desserts,Ice Cream Sundae,2,478.77,47.88,50,959.66,UPI,Completed,42,4.0
+ORD000923,2023-08-11 08:42:35,CUST0046,REST011,The Grill Station,Pune,BBQ,Corn on the Cob,2,526.71,52.67,40,1040.75,Cash,Delivered,72,
+ORD000924,2024-03-26 14:55:32,CUST0159,REST001,Spice Garden,Pune,Indian,Dal Makhani,2,435.34,0,40,910.68,Debit Card,Completed,68,4.1
+ORD000925,2024-03-18 04:38:08,CUST0154,REST010,Sweet Tooth,Delhi,Desserts,Cheesecake,1,249.01,0,20,269.01,Net Banking,Pending,26,2.6
+ORD000926,2024-01-02 17:51:57,CUST0008,REST009,Kebab Corner,Hyderabad,Middle Eastern,Falafel Wrap,4,271.91,0,20,1107.64,Debit Card,Processing,40,3.2
+ORD000927,2024-05-13 04:10:33,CUST0041,REST008,Dragon Wok,Hyderabad,Chinese,Kung Pao Chicken,2,494.31,49.43,50,989.19,Debit Card,Processing,,3.3
+ORD000928,2024-01-01 05:20:06,CUST0184,REST012,Noodle Bar,Delhi,Asian,Pad Thai,1,434.65,43.47,50,441.18,Wallet,Completed,24,4.9
+ORD000929,2024-09-22 10:29:01,CUST0131,REST012,Noodle Bar,Mumbai,Asian,Dumplings,4,510.43,0,30,2071.72,Net Banking,Processing,20,4.3
+ORD000930,2024-07-14 18:56:51,CUST0063,REST007,Green Bowl,Delhi,Healthy,Quinoa Bowl,2,520.48,104.1,0,936.86,Cash,Delivered,67,2.9
+ORD000931,2024-08-10 23:08:26,CUST0116,REST005,Taco Town,Delhi,Mexican,Nachos,1,318.29,31.83,20,306.46,Net Banking,Delivered,52,3.3
+ORD000932,2023-06-21 16:08:24,CUST0184,REST010,Sweet Tooth,Chennai,Desserts,Chocolate Cake,2,156.97,0,0,313.94,Debit Card,Delivered,87,3.2
+ORD000933,2024-04-16 19:40:40,CUST0055,REST008,Dragon Wok,Ahmedabad,Chinese,Spring Rolls,2,466.74,0,20,953.48,Wallet,Delivered,64,3.1
+ORD000934,2024-01-06 11:26:45,CUST0151,REST003,Burger Barn,Mumbai,Burgers,Chicken Burger,3,454.99,91.0,40,1313.97,Wallet,Cancelled,36,4.1
+ORD000935,2023-05-17 05:27:26,CUST0017,REST009,Kebab Corner,Pune,Middle Eastern,Lamb Kebab,4,417.16,83.43,40,1625.21,UPI,Delivered,63,
+ORD000936,2023-10-04 21:40:08,CUST0192,REST005,Taco Town,Hyderabad,Mexican,Chicken Burrito,2,224.72,0,20,469.44,Wallet,Delivered,87,4.8
+ORD000937,2024-01-30 02:55:45,CUST0190,REST012,Noodle Bar,Hyderabad,Asian,Tom Yum Soup,1,287.22,0,30,317.22,Wallet,Completed,,3.8
+ORD000938,2024-09-11 06:11:14,CUST0046,REST013,Veggie Delight,Mumbai,Vegetarian,Mushroom Burger,5,351.93,0,30,1789.65,Credit Card,Delivered,46,4.3
+ORD000939,2024-02-10 21:10:53,CUST0149,REST009,Kebab Corner,Chennai,Middle Eastern,Shawarma,2,461.34,0,20,942.68,Cash,Processing,41,4.0
+ORD000940,2023-03-06 18:25:53,CUST0125,REST002,Pizza Planet,Mumbai,Pizza,BBQ Chicken Pizza,1,182.14,0,40,222.14,UPI,Completed,27,3.0
+ORD000941,2024-09-17 20:33:51,CUST0105,REST010,Sweet Tooth,Kolkata,Desserts,Chocolate Cake,4,484.25,0,50,1987.0,Wallet,Delivered,73,3.1
+ORD000942,2023-07-25 05:02:35,CUST0129,REST008,Dragon Wok,Bangalore,Chinese,Spring Rolls,5,331.31,0,30,1686.55,UPI,Processing,46,4.2
+ORD000943,2024-01-21 02:09:24,CUST0025,REST002,Pizza Planet,Bangalore,Pizza,Veggie Supreme,1,245.99,49.2,40,236.79,Cash,Cancelled,23,4.2
+ORD000944,2024-01-25 17:51:03,CUST0157,REST011,The Grill Station,Bangalore,BBQ,Grilled Chicken,1,476.68,0,30,506.68,Debit Card,Completed,82,4.2
+ORD000945,2024-05-29 15:35:12,CUST0107,REST006,The Pasta House,Bangalore,Italian,Penne Arrabbiata,4,488.62,0,50,2004.48,Net Banking,Delivered,81,4.1
+ORD000946,2024-07-18 10:50:58,CUST0101,REST004,Sushi World,Chennai,Japanese,Tempura,3,272.81,0,30,848.43,Cash,Completed,55,3.6
+ORD000947,2024-08-18 18:49:20,CUST0076,REST013,Veggie Delight,Kolkata,Vegetarian,Veggie Wrap,4,263.88,0,40,1095.52,UPI,Completed,40,4.3
+ORD000948,2024-04-24 16:04:30,CUST0063,REST006,The Pasta House,Kolkata,Italian,Risotto,3,370.2,0,20,1130.6,Debit Card,Cancelled,50,
+ORD000949,2023-07-14 01:28:09,CUST0164,REST012,Noodle Bar,Ahmedabad,Asian,Dumplings,1,486.24,48.62,40,477.62,UPI,Delivered,90,2.8
+ORD000950,2023-09-10 01:58:00,CUST0151,REST009,Kebab Corner,Pune,Middle Eastern,Lamb Kebab,3,137.74,0,0,413.22,UPI,Delivered,67,4.7
+ORD000951,2024-03-08 09:09:48,CUST0198,REST009,Kebab Corner,Delhi,Middle Eastern,Lamb Kebab,2,250.48,50.1,30,480.86,Credit Card,Cancelled,52,2.9
+ORD000952,2023-12-24 22:00:12,CUST0066,REST014,Sea Breeze,Pune,Seafood,Crab Cake,2,175.75,17.57,20,353.93,Wallet,Completed,40,4.3
+ORD000953,2024-10-07 23:32:07,CUST0009,REST003,Burger Barn,Delhi,Burgers,Vegan Burger,4,286.08,28.61,0,1115.71,Wallet,Cancelled,80,3.9
+ORD000954,2024-03-15 02:04:57,CUST0041,REST013,Veggie Delight,Ahmedabad,Vegetarian,Tofu Stir-Fry,5,253.55,0,0,1267.75,Wallet,Completed,,2.8
+ORD000955,2023-12-28 17:33:35,CUST0166,REST010,Sweet Tooth,Ahmedabad,Desserts,Ice Cream Sundae,1,478.9,47.89,30,461.01,Wallet,Cancelled,34,2.7
+ORD000956,2024-10-05 07:11:20,CUST0067,REST008,Dragon Wok,Kolkata,Chinese,Fried Rice,4,378.86,0,50,1565.44,Debit Card,Cancelled,16,3.6
+ORD000957,2023-05-27 16:22:12,CUST0137,REST009,Kebab Corner,Ahmedabad,Middle Eastern,Falafel Wrap,5,561.19,112.24,20,2713.71,Wallet,Completed,41,2.8
+ORD000958,2024-05-26 05:07:22,CUST0070,REST013,Veggie Delight,Bangalore,Vegetarian,Tofu Stir-Fry,1,250.28,0,20,270.28,Debit Card,Delivered,53,
+ORD000959,2024-10-09 21:49:04,CUST0190,REST013,Veggie Delight,Pune,Vegetarian,Veggie Wrap,2,536.37,53.64,0,1019.1,Debit Card,Pending,18,4.4
+ORD000960,2024-09-24 15:22:10,CUST0149,REST001,Spice Garden,Ahmedabad,Indian,Dal Makhani,4,183.29,18.33,50,764.83,Net Banking,Completed,,3.8
+ORD000961,2023-11-19 10:32:39,CUST0066,REST003,Burger Barn,Hyderabad,Burgers,Classic Burger,4,465.13,0,30,1890.52,Wallet,Completed,26,3.4
+ORD000962,2023-10-03 11:44:05,CUST0167,REST008,Dragon Wok,Mumbai,Chinese,Fried Rice,4,497.77,49.78,0,1941.3,UPI,Delivered,54,3.6
+ORD000963,2023-02-05 05:44:55,CUST0033,REST012,Noodle Bar,Delhi,Asian,Dumplings,4,88.24,0,30,382.96,Wallet,Completed,,3.9
+ORD000964,2023-10-16 17:03:55,CUST0133,REST003,Burger Barn,Ahmedabad,Burgers,Classic Burger,1,390.03,0,30,420.03,Debit Card,Completed,35,2.9
+ORD000965,2024-04-30 16:40:10,CUST0007,REST006,The Pasta House,Delhi,Italian,Penne Arrabbiata,1,338.73,0,40,378.73,UPI,Completed,48,2.6
+ORD000966,2023-10-20 20:28:29,CUST0026,REST015,Mumbai Masala,Ahmedabad,Indian,Butter Chicken,2,555.06,0,50,1160.12,Credit Card,Cancelled,82,
+ORD000967,2023-12-27 17:39:52,CUST0164,REST015,Mumbai Masala,Hyderabad,Indian,Butter Chicken,4,593.86,0,40,2415.44,Credit Card,Delivered,83,4.6
+ORD000968,2024-04-21 14:30:41,CUST0147,REST008,Dragon Wok,Ahmedabad,Chinese,Spring Rolls,2,247.9,49.58,30,476.22,Debit Card,Completed,27,4.4
+ORD000969,2023-08-08 06:26:57,CUST0187,REST004,Sushi World,Bangalore,Japanese,Salmon Sashimi,2,422.79,0,40,885.58,Net Banking,Delivered,28,3.1
+ORD000970,2024-03-26 00:12:45,CUST0162,REST006,The Pasta House,Ahmedabad,Italian,Lasagna,2,250.53,0,20,521.06,Credit Card,Delivered,19,4.5
+ORD000971,2023-11-05 04:12:34,CUST0049,REST003,Burger Barn,Mumbai,Burgers,Cheese Burger,1,514.4,0,20,534.4,Net Banking,Pending,88,4.6
+ORD000972,2024-08-01 15:04:08,CUST0048,REST008,Dragon Wok,Hyderabad,Chinese,Kung Pao Chicken,5,216.66,21.67,0,1061.63,UPI,Cancelled,80,3.3
+ORD000973,2023-07-24 04:07:40,CUST0140,REST013,Veggie Delight,Ahmedabad,Vegetarian,Mushroom Burger,1,427.37,0,50,477.37,Debit Card,Completed,,4.1
+ORD000974,2024-11-09 07:37:03,CUST0022,REST004,Sushi World,Ahmedabad,Japanese,California Roll,1,366.24,0,20,386.24,Wallet,Completed,72,5.0
+ORD000975,2024-02-13 05:25:20,CUST0013,REST007,Green Bowl,Hyderabad,Healthy,Avocado Toast,2,483.47,0,30,996.94,Wallet,Cancelled,34,3.8
+ORD000976,2023-06-25 17:44:43,CUST0109,REST009,Kebab Corner,Hyderabad,Middle Eastern,Falafel Wrap,3,162.55,0,50,537.65,Debit Card,Delivered,34,4.9
+ORD000977,2023-12-30 12:13:46,CUST0065,REST001,Spice Garden,Kolkata,Indian,Biryani,4,548.5,54.85,40,2179.15,Net Banking,Delivered,53,
+ORD000978,2024-08-16 21:02:42,CUST0108,REST004,Sushi World,Delhi,Japanese,California Roll,4,152.96,15.3,20,616.54,Cash,Delivered,46,2.9
+ORD000979,2024-11-24 07:59:15,CUST0114,REST004,Sushi World,Pune,Japanese,California Roll,2,580.95,0,20,1181.9,Debit Card,Delivered,89,2.9
+ORD000980,2024-08-22 08:44:53,CUST0032,REST013,Veggie Delight,Pune,Vegetarian,Veggie Wrap,1,350.72,70.14,0,280.58,Wallet,Processing,75,3.6
+ORD000981,2024-10-12 21:01:54,CUST0044,REST003,Burger Barn,Delhi,Burgers,Chicken Burger,3,573.73,0,40,1761.19,Net Banking,Processing,29,3.6
+ORD000982,2024-11-02 22:21:16,CUST0108,REST013,Veggie Delight,Chennai,Vegetarian,Stuffed Peppers,5,133.59,26.72,50,691.23,Credit Card,Completed,78,4.9
+ORD000983,2024-06-02 01:22:48,CUST0026,REST014,Sea Breeze,Chennai,Seafood,Fish and Chips,3,412.94,0,40,1278.82,Net Banking,Processing,60,
+ORD000984,2024-08-29 13:26:23,CUST0097,REST004,Sushi World,Ahmedabad,Japanese,Salmon Sashimi,5,305.56,0,0,1527.8,Wallet,Pending,77,4.6
+ORD000985,2023-10-08 03:57:02,CUST0011,REST001,Spice Garden,Delhi,Indian,Naan,1,379.33,0,20,399.33,UPI,Processing,68,4.3
+ORD000986,2023-06-17 19:16:07,CUST0075,REST014,Sea Breeze,Ahmedabad,Seafood,Grilled Fish,4,502.84,50.28,0,1961.08,Cash,Completed,18,3.3
+ORD000987,2023-07-13 04:07:27,CUST0163,REST012,Noodle Bar,Ahmedabad,Asian,Tom Yum Soup,3,505.55,0,30,1546.65,UPI,Completed,21,4.2
+ORD000988,2024-10-27 09:02:44,CUST0059,REST004,Sushi World,Pune,Japanese,Tempura,3,486.1,0,40,1498.3,UPI,Delivered,,3.8
+ORD000989,2023-06-07 00:19:57,CUST0093,REST002,Pizza Planet,Delhi,Pizza,Veggie Supreme,3,403.34,0,40,1250.02,Debit Card,Completed,77,4.5
+ORD000990,2023-08-19 01:38:13,CUST0159,REST006,The Pasta House,Mumbai,Italian,Spaghetti Carbonara,2,382.56,76.51,50,738.61,Net Banking,Completed,83,
+ORD000991,2023-04-24 05:15:53,CUST0099,REST004,Sushi World,Delhi,Japanese,California Roll,5,555.64,55.56,30,2752.64,Credit Card,Delivered,83,2.8
+ORD000992,2024-03-01 15:13:19,CUST0058,REST010,Sweet Tooth,Delhi,Desserts,Brownie,2,310.12,0,20,640.24,Net Banking,Delivered,50,
+ORD000993,2023-01-17 03:15:16,CUST0142,REST004,Sushi World,Hyderabad,Japanese,Tempura,2,155.6,0,20,331.2,Wallet,Delivered,76,3.5
+ORD000994,2024-07-02 22:41:56,CUST0095,REST007,Green Bowl,Bangalore,Healthy,Protein Salad,5,542.07,54.21,30,2686.14,UPI,Delivered,61,3.2
+ORD000995,2024-03-25 16:34:05,CUST0130,REST006,The Pasta House,Pune,Italian,Spaghetti Carbonara,2,247.26,0,50,544.52,Net Banking,Processing,,4.5
+ORD000996,2024-09-29 17:59:40,CUST0118,REST009,Kebab Corner,Pune,Middle Eastern,Shawarma,5,198.47,0,50,1042.35,Wallet,Processing,74,4.6
+ORD000997,2024-05-20 02:03:09,CUST0038,REST008,Dragon Wok,Kolkata,Chinese,Fried Rice,2,91.5,9.15,50,223.85,Credit Card,Cancelled,,4.7
+ORD000998,2024-06-30 23:34:17,CUST0116,REST002,Pizza Planet,Chennai,Pizza,BBQ Chicken Pizza,1,451.08,45.11,40,445.97,UPI,Delivered,32,3.0
+ORD000999,2024-11-01 02:31:43,CUST0092,REST006,The Pasta House,Hyderabad,Italian,Risotto,2,478.48,95.7,30,891.26,Wallet,Completed,,4.3
+ORD001000,2023-07-13 05:57:33,CUST0127,REST013,Veggie Delight,Delhi,Vegetarian,Veggie Wrap,5,295.13,0,20,1495.65,Net Banking,Completed,37,2.6
